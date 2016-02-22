@@ -11,6 +11,12 @@ public class Bag implements Iterable<Weight>{
 	private char id;
 	private int maxWeight;
 	
+	public Bag(Bag bag){
+		this.weights = new ArrayList<Weight>(bag.weights);
+		this.id = bag.id;
+		this.maxWeight = bag.maxWeight;
+	}
+	
 	public Bag(char id, int maxWeight){		
 		this.id = id;
 		this.maxWeight = maxWeight;
@@ -66,6 +72,20 @@ public class Bag implements Iterable<Weight>{
 	@Override
 	public Iterator<Weight> iterator() {
 		return this.weights.iterator();
+	}
+	
+	@Override
+	public int hashCode(){
+		return getID() * 13 + weights.hashCode();
+	}
+	
+	@Override
+	public boolean equals(Object o){
+		if(o instanceof Bag){
+			Bag other = (Bag)o;
+			return other.weights.containsAll(this.weights) && other.id == this.id;
+		}
+		return false;
 	}
 	
 	@Override

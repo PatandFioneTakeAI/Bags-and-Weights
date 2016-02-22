@@ -1,0 +1,66 @@
+a
+b
+c
+-----------------
+a A
+b
+c
+-----------------
+a A D
+b
+c
+-----------------
+a A D I
+b
+c
+-----------------
+a A D I E
+b
+c
+-----------------
+a A D I E F
+b
+c
+-----------------
+a A D I E F
+b B
+c
+-----------------
+a A D I E F
+b B C
+c
+-----------------
+a A D I E F
+b B C G
+c
+-----------------
+a A D I E F
+b B C G H
+c
+-----------------
+a A D I E F
+b B C G H J
+c
+-----------------
+a A D I E F
+b B C G H J
+c K
+-----------------
+Bag: a
+	Contents: A D I E F
+	Item Count: 5
+	Total Weight: 5
+	Wasted Capacity: 0
+Bag: b
+	Contents: B C G H J
+	Item Count: 5
+	Total Weight: 5
+	Wasted Capacity: 0
+Bag: c
+	Contents: K
+	Item Count: 1
+	Total Weight: 1
+	Wasted Capacity: 0
+
+
+Total Steps Taken: 12

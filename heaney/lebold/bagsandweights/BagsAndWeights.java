@@ -6,19 +6,31 @@ import heaney.lebold.bagsandweights.constraints.IConstraint;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
 public class BagsAndWeights {
+	
+	private int stepsTaken;
 
 	private List<Weight> weights;
 	private List<Bag> bags;
 	private List<IConstraint> constraints;
+	
+	private List<List<Bag>> memoizationList;
+	private boolean topLevelValid;
+	private boolean subLevelValid;
 
 	public BagsAndWeights(List<Weight> weights, List<Bag> bags, List<IConstraint> constraints){
 		this.weights = weights;
 		this.bags = bags;
 		this.constraints = constraints;
+		
+		this.topLevelValid = true;
+		this.subLevelValid = true;
+		this.stepsTaken = 0;
+		this.memoizationList = new ArrayList<List<Bag>>();
 	}
 
 	public void init(){		
@@ -35,6 +47,8 @@ public class BagsAndWeights {
 				System.out.println("\tTotal Weight: " + bag.getTotalWeight());
 				System.out.println("\tWasted Capacity: " + (bag.getMaxWeight() - bag.getTotalWeight()));
 			}
+			
+			System.out.println("\n\nTotal Steps Taken: " + this.stepsTaken);
 		}
 		else{
 			System.out.println("There are no solutions with the given constraints.");
@@ -42,12 +56,24 @@ public class BagsAndWeights {
 	}
 
 	private boolean solve(){
-	 /**System.out.println("\n-----------------");
-		System.out.print("Unplaced Weights:");
-		this.weights.forEach((w) -> System.out.print(" " + w.getID()));
-		System.out.println();
-		for(Bag bag: this.bags)
-			System.out.println(bag.toString());*/
+		this.stepsTaken++;
+		
+		//Memoization
+		for(List<Bag> localBagList: this.memoizationList){
+			boolean isCopy = true;
+			for(int n=0; n< localBagList.size(); n++){
+				Bag localBag = localBagList.get(n);
+				Bag globalBag = this.bags.get(n);
+				if(!localBag.getContents().containsAll(globalBag.getContents()))
+					isCopy = false;
+				if(!globalBag.getContents().containsAll(localBag.getContents()))
+					isCopy = false;
+			}
+			if(isCopy)
+				return false;
+			else
+				this.memoizationList.add(new ArrayList<Bag>(this.bags));
+		}
 
 		//allFinal remains true if all constraints are satisfied
 		boolean allFinal = true;
@@ -69,8 +95,10 @@ public class BagsAndWeights {
 		for(Bag bag: this.bags){
 			// Get local list of weights for this bag
 			List<Weight> weightsToTest = new ArrayList<Weight>(weightsToTestBase);
-			// Apply heuristic to list to send best weights to the front of the list
-			applyHeuristic(weightsToTest);
+			// Apply heuristic to remove weights that are too heavy
+			applyMVRHeuristic(bag,weightsToTest);
+			// Apply heuristic to order weights based on forward checking
+			applyLCVHeuristic(bag,weightsToTest);
 			
 			// For each weight in best -> worst order
 			for(Weight weight: weightsToTest){
@@ -96,9 +124,57 @@ public class BagsAndWeights {
 		return false;
 	}
 	
-	/* Sort weights in descending order */
-	private void applyHeuristic(List<Weight> unsortedWeights){
-		unsortedWeights.sort((w1,w2) -> w2.getWeight() - w1.getWeight());
+	/* Remove weights that put bags over capacity */
+	private void applyMVRHeuristic(Bag bag, List<Weight> unsortedWeights){
+		unsortedWeights.sort((w1,w2) -> {
+			return w2.getWeight() - w1.getWeight();
+		});
+		while(!unsortedWeights.isEmpty() && bag.getTotalWeight() + unsortedWeights.get(0).getWeight() > bag.getMaxWeight()){
+			unsortedWeights.remove(0);
+		}
+	}
+	
+	/* Order weights based on heuristic/forward checking */
+	private void applyLCVHeuristic(Bag bag, List<Weight> unsortedWeightsBase){
+		List<Weight> unsortedWeights = new ArrayList<Weight>(unsortedWeightsBase);
+		HashMap<Weight,Integer> weightValues = new HashMap<Weight,Integer>();
+		for(int n = unsortedWeights.size()-1; n >= 0; n--){
+			Weight weight = unsortedWeights.get(n);
+			if(!weightValues.containsKey(weight))
+				weightValues.put(weight, 0);
+			bag.addWeight(weight);
+			this.topLevelValid = true;
+			this.constraints.forEach((c) -> {
+				if(!c.isValid(this.bags)) 
+					this.topLevelValid = false;
+			});
+			if(!topLevelValid){
+				unsortedWeightsBase.remove(weight);
+			}
+			List<Weight> subList = new ArrayList<Weight>(unsortedWeights);
+			subList.remove(weight);
+			int validCount = 0;
+			for(Bag b: this.bags){
+				for(Weight subWeight: subList){
+					b.addWeight(subWeight);
+					this.subLevelValid = true;
+					this.constraints.forEach((c) -> {
+						if(!c.isValid(this.bags))
+							this.subLevelValid = false;
+					});
+					b.removeWeight(subWeight);
+					
+					if(this.subLevelValid)
+						validCount++;
+				}
+			}
+			weightValues.put(weight, validCount);
+			
+			bag.removeWeight(weight);
+		}
+		unsortedWeightsBase.sort((w1,w2) -> {
+			return weightValues.get(w2) - weightValues.get(w1);
+		});
 	}
 
 	public static void main(String[] args){

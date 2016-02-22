@@ -1,0 +1,14382 @@
+a
+b
+c
+-----------------
+a A
+b
+c
+-----------------
+a A B
+b
+c
+-----------------
+a A C
+b
+c
+-----------------
+a A D
+b
+c
+-----------------
+a A D E
+b
+c
+-----------------
+a A D E F
+b
+c
+-----------------
+a A D E F G
+b
+c
+-----------------
+a A D E F G
+b H
+c
+-----------------
+a A D E F G
+b I
+c
+-----------------
+a A D E F G
+b I J
+c
+-----------------
+a A D E F G
+b I J K
+c
+-----------------
+a A D E F G
+b I J B
+c
+-----------------
+a A D E F G
+b I J B C
+c
+-----------------
+a A D E F G
+b I J B C H
+c
+-----------------
+a A D E F G
+b I J B C K
+c
+-----------------
+a A D E F G
+b I J B C
+c H
+-----------------
+a A D E F G
+b I J B C
+c K
+-----------------
+a A D E F G
+b I J B C H
+c K
+-----------------
+a A D E F G
+b I J B H
+c
+-----------------
+a A D E F G
+b I J B K
+c
+-----------------
+a A D E F G
+b I J B
+c C
+-----------------
+a A D E F G
+b I J B
+c H
+-----------------
+a A D E F G
+b I J B
+c K
+-----------------
+a A D E F G
+b I J B C
+c K
+-----------------
+a A D E F G
+b I J B C H
+c K
+-----------------
+a A D E F G
+b I J B H
+c K
+-----------------
+a A D E F G
+b I J C
+c
+-----------------
+a A D E F G
+b I J C H
+c
+-----------------
+a A D E F G
+b I J C K
+c
+-----------------
+a A D E F G
+b I J C B
+c
+-----------------
+a A D E F G
+b I J C B H
+c
+-----------------
+a A D E F G
+b I J C B K
+c
+-----------------
+a A D E F G
+b I J C B
+c H
+-----------------
+a A D E F G
+b I J C B
+c K
+-----------------
+a A D E F G
+b I J C B H
+c K
+-----------------
+a A D E F G
+b I J C
+c H
+-----------------
+a A D E F G
+b I J C
+c K
+-----------------
+a A D E F G
+b I J C B
+c K
+-----------------
+a A D E F G
+b I J C B H
+c K
+-----------------
+a A D E F G
+b I J C H
+c K
+-----------------
+a A D E F G
+b I J C
+c B
+-----------------
+a A D E F G
+b I J H
+c
+-----------------
+a A D E F G
+b I J
+c K
+-----------------
+a A D E F G
+b I J B
+c K
+-----------------
+a A D E F G
+b I J B C
+c K
+-----------------
+a A D E F G
+b I J B C H
+c K
+-----------------
+a A D E F G
+b I J B H
+c K
+-----------------
+a A D E F G
+b I J C
+c K
+-----------------
+a A D E F G
+b I J C H
+c K
+-----------------
+a A D E F G
+b I J C B
+c K
+-----------------
+a A D E F G
+b I J C B H
+c K
+-----------------
+a A D E F G
+b I J H
+c K
+-----------------
+a A D E F G
+b I J
+c B
+-----------------
+a A D E F G
+b I J
+c C
+-----------------
+a A D E F G
+b I J
+c H
+-----------------
+a A D E F G
+b I K
+c
+-----------------
+a A D E F G
+b I K B
+c
+-----------------
+a A D E F G
+b I K B C
+c
+-----------------
+a A D E F G
+b I K B C H
+c
+-----------------
+a A D E F G
+b I K B C J
+c
+-----------------
+a A D E F G
+b I K B C
+c H
+-----------------
+a A D E F G
+b I K B C
+c J
+-----------------
+a A D E F G
+b I K B C H
+c J
+-----------------
+a A D E F G
+b I K B H
+c
+-----------------
+a A D E F G
+b I K B J
+c
+-----------------
+a A D E F G
+b I K B
+c C
+-----------------
+a A D E F G
+b I K B
+c H
+-----------------
+a A D E F G
+b I K B
+c J
+-----------------
+a A D E F G
+b I K B C
+c J
+-----------------
+a A D E F G
+b I K B C H
+c J
+-----------------
+a A D E F G
+b I K B H
+c J
+-----------------
+a A D E F G
+b I K C
+c
+-----------------
+a A D E F G
+b I K C H
+c
+-----------------
+a A D E F G
+b I K C J
+c
+-----------------
+a A D E F G
+b I K C B
+c
+-----------------
+a A D E F G
+b I K C B H
+c
+-----------------
+a A D E F G
+b I K C B J
+c
+-----------------
+a A D E F G
+b I K C B
+c H
+-----------------
+a A D E F G
+b I K C B
+c J
+-----------------
+a A D E F G
+b I K C B H
+c J
+-----------------
+a A D E F G
+b I K C
+c H
+-----------------
+a A D E F G
+b I K C
+c J
+-----------------
+a A D E F G
+b I K C B
+c J
+-----------------
+a A D E F G
+b I K C B H
+c J
+-----------------
+a A D E F G
+b I K C H
+c J
+-----------------
+a A D E F G
+b I K C
+c B
+-----------------
+a A D E F G
+b I K H
+c
+-----------------
+a A D E F G
+b I K J
+c
+-----------------
+a A D E F G
+b I K
+c B
+-----------------
+a A D E F G
+b I K
+c C
+-----------------
+a A D E F G
+b I K
+c H
+-----------------
+a A D E F G
+b I K
+c J
+-----------------
+a A D E F G
+b I K B
+c J
+-----------------
+a A D E F G
+b I K B C
+c J
+-----------------
+a A D E F G
+b I K B C H
+c J
+-----------------
+a A D E F G
+b I K B H
+c J
+-----------------
+a A D E F G
+b I K C
+c J
+-----------------
+a A D E F G
+b I K C H
+c J
+-----------------
+a A D E F G
+b I K C B
+c J
+-----------------
+a A D E F G
+b I K C B H
+c J
+-----------------
+a A D E F G
+b I K H
+c J
+-----------------
+a A D E F G
+b I B
+c
+-----------------
+a A D E F G
+b I B C
+c
+-----------------
+a A D E F G
+b I B C H
+c
+-----------------
+a A D E F G
+b I B C J
+c
+-----------------
+a A D E F G
+b I B C J K
+c
+-----------------
+a A D E F G
+b I B C J H
+c
+-----------------
+a A D E F G
+b I B C J
+c K
+-----------------
+a A D E F G
+b I B C J H
+c K
+-----------------
+a A D E F G
+b I B C J
+c H
+-----------------
+a A D E F G
+b I B C K
+c
+-----------------
+a A D E F G
+b I B C K H
+c
+-----------------
+a A D E F G
+b I B C K J
+c
+-----------------
+a A D E F G
+b I B C K
+c H
+-----------------
+a A D E F G
+b I B C K
+c J
+-----------------
+a A D E F G
+b I B C K H
+c J
+-----------------
+a A D E F G
+b I B C
+c H
+-----------------
+a A D E F G
+b I B C
+c J
+-----------------
+a A D E F G
+b I B C K
+c J
+-----------------
+a A D E F G
+b I B C K H
+c J
+-----------------
+a A D E F G
+b I B C H
+c J
+-----------------
+a A D E F G
+b I B C
+c K
+-----------------
+a A D E F G
+b I B C H
+c K
+-----------------
+a A D E F G
+b I B C J
+c K
+-----------------
+a A D E F G
+b I B C J H
+c K
+-----------------
+a A D E F G
+b I B H
+c
+-----------------
+a A D E F G
+b I B J
+c
+-----------------
+a A D E F G
+b I B J K
+c
+-----------------
+a A D E F G
+b I B J C
+c
+-----------------
+a A D E F G
+b I B J C H
+c
+-----------------
+a A D E F G
+b I B J C K
+c
+-----------------
+a A D E F G
+b I B J C
+c H
+-----------------
+a A D E F G
+b I B J C
+c K
+-----------------
+a A D E F G
+b I B J C H
+c K
+-----------------
+a A D E F G
+b I B J H
+c
+-----------------
+a A D E F G
+b I B J
+c K
+-----------------
+a A D E F G
+b I B J C
+c K
+-----------------
+a A D E F G
+b I B J C H
+c K
+-----------------
+a A D E F G
+b I B J H
+c K
+-----------------
+a A D E F G
+b I B J
+c C
+-----------------
+a A D E F G
+b I B J
+c H
+-----------------
+a A D E F G
+b I B K
+c
+-----------------
+a A D E F G
+b I B K C
+c
+-----------------
+a A D E F G
+b I B K C H
+c
+-----------------
+a A D E F G
+b I B K C J
+c
+-----------------
+a A D E F G
+b I B K C
+c H
+-----------------
+a A D E F G
+b I B K C
+c J
+-----------------
+a A D E F G
+b I B K C H
+c J
+-----------------
+a A D E F G
+b I B K H
+c
+-----------------
+a A D E F G
+b I B K J
+c
+-----------------
+a A D E F G
+b I B K
+c C
+-----------------
+a A D E F G
+b I B K
+c H
+-----------------
+a A D E F G
+b I B K
+c J
+-----------------
+a A D E F G
+b I B K C
+c J
+-----------------
+a A D E F G
+b I B K C H
+c J
+-----------------
+a A D E F G
+b I B K H
+c J
+-----------------
+a A D E F G
+b I B
+c C
+-----------------
+a A D E F G
+b I B
+c H
+-----------------
+a A D E F G
+b I B
+c J
+-----------------
+a A D E F G
+b I B K
+c J
+-----------------
+a A D E F G
+b I B K C
+c J
+-----------------
+a A D E F G
+b I B K C H
+c J
+-----------------
+a A D E F G
+b I B K H
+c J
+-----------------
+a A D E F G
+b I B C
+c J
+-----------------
+a A D E F G
+b I B C H
+c J
+-----------------
+a A D E F G
+b I B C K
+c J
+-----------------
+a A D E F G
+b I B C K H
+c J
+-----------------
+a A D E F G
+b I B H
+c J
+-----------------
+a A D E F G
+b I B
+c K
+-----------------
+a A D E F G
+b I B C
+c K
+-----------------
+a A D E F G
+b I B C H
+c K
+-----------------
+a A D E F G
+b I B C J
+c K
+-----------------
+a A D E F G
+b I B C J H
+c K
+-----------------
+a A D E F G
+b I B H
+c K
+-----------------
+a A D E F G
+b I B J
+c K
+-----------------
+a A D E F G
+b I B J C
+c K
+-----------------
+a A D E F G
+b I B J C H
+c K
+-----------------
+a A D E F G
+b I B J H
+c K
+-----------------
+a A D E F G
+b I C
+c
+-----------------
+a A D E F G
+b I C H
+c
+-----------------
+a A D E F G
+b I C J
+c
+-----------------
+a A D E F G
+b I C J K
+c
+-----------------
+a A D E F G
+b I C J B
+c
+-----------------
+a A D E F G
+b I C J B H
+c
+-----------------
+a A D E F G
+b I C J B K
+c
+-----------------
+a A D E F G
+b I C J B
+c H
+-----------------
+a A D E F G
+b I C J B
+c K
+-----------------
+a A D E F G
+b I C J B H
+c K
+-----------------
+a A D E F G
+b I C J H
+c
+-----------------
+a A D E F G
+b I C J
+c K
+-----------------
+a A D E F G
+b I C J B
+c K
+-----------------
+a A D E F G
+b I C J B H
+c K
+-----------------
+a A D E F G
+b I C J H
+c K
+-----------------
+a A D E F G
+b I C J
+c B
+-----------------
+a A D E F G
+b I C J
+c H
+-----------------
+a A D E F G
+b I C K
+c
+-----------------
+a A D E F G
+b I C K B
+c
+-----------------
+a A D E F G
+b I C K B H
+c
+-----------------
+a A D E F G
+b I C K B J
+c
+-----------------
+a A D E F G
+b I C K B
+c H
+-----------------
+a A D E F G
+b I C K B
+c J
+-----------------
+a A D E F G
+b I C K B H
+c J
+-----------------
+a A D E F G
+b I C K H
+c
+-----------------
+a A D E F G
+b I C K J
+c
+-----------------
+a A D E F G
+b I C K
+c B
+-----------------
+a A D E F G
+b I C K
+c H
+-----------------
+a A D E F G
+b I C K
+c J
+-----------------
+a A D E F G
+b I C K B
+c J
+-----------------
+a A D E F G
+b I C K B H
+c J
+-----------------
+a A D E F G
+b I C K H
+c J
+-----------------
+a A D E F G
+b I C B
+c
+-----------------
+a A D E F G
+b I C B H
+c
+-----------------
+a A D E F G
+b I C B J
+c
+-----------------
+a A D E F G
+b I C B J K
+c
+-----------------
+a A D E F G
+b I C B J H
+c
+-----------------
+a A D E F G
+b I C B J
+c K
+-----------------
+a A D E F G
+b I C B J H
+c K
+-----------------
+a A D E F G
+b I C B J
+c H
+-----------------
+a A D E F G
+b I C B K
+c
+-----------------
+a A D E F G
+b I C B K H
+c
+-----------------
+a A D E F G
+b I C B K J
+c
+-----------------
+a A D E F G
+b I C B K
+c H
+-----------------
+a A D E F G
+b I C B K
+c J
+-----------------
+a A D E F G
+b I C B K H
+c J
+-----------------
+a A D E F G
+b I C B
+c H
+-----------------
+a A D E F G
+b I C B
+c J
+-----------------
+a A D E F G
+b I C B K
+c J
+-----------------
+a A D E F G
+b I C B K H
+c J
+-----------------
+a A D E F G
+b I C B H
+c J
+-----------------
+a A D E F G
+b I C B
+c K
+-----------------
+a A D E F G
+b I C B H
+c K
+-----------------
+a A D E F G
+b I C B J
+c K
+-----------------
+a A D E F G
+b I C B J H
+c K
+-----------------
+a A D E F G
+b I C
+c H
+-----------------
+a A D E F G
+b I C
+c J
+-----------------
+a A D E F G
+b I C K
+c J
+-----------------
+a A D E F G
+b I C K B
+c J
+-----------------
+a A D E F G
+b I C K B H
+c J
+-----------------
+a A D E F G
+b I C K H
+c J
+-----------------
+a A D E F G
+b I C B
+c J
+-----------------
+a A D E F G
+b I C B H
+c J
+-----------------
+a A D E F G
+b I C B K
+c J
+-----------------
+a A D E F G
+b I C B K H
+c J
+-----------------
+a A D E F G
+b I C H
+c J
+-----------------
+a A D E F G
+b I C
+c K
+-----------------
+a A D E F G
+b I C B
+c K
+-----------------
+a A D E F G
+b I C B H
+c K
+-----------------
+a A D E F G
+b I C B J
+c K
+-----------------
+a A D E F G
+b I C B J H
+c K
+-----------------
+a A D E F G
+b I C H
+c K
+-----------------
+a A D E F G
+b I C J
+c K
+-----------------
+a A D E F G
+b I C J B
+c K
+-----------------
+a A D E F G
+b I C J B H
+c K
+-----------------
+a A D E F G
+b I C J H
+c K
+-----------------
+a A D E F G
+b I C
+c B
+-----------------
+a A D E F G
+b I H
+c
+-----------------
+a A D E F G
+b I
+c J
+-----------------
+a A D E F G
+b I K
+c J
+-----------------
+a A D E F G
+b I K B
+c J
+-----------------
+a A D E F G
+b I K B C
+c J
+-----------------
+a A D E F G
+b I K B C H
+c J
+-----------------
+a A D E F G
+b I K B H
+c J
+-----------------
+a A D E F G
+b I K C
+c J
+-----------------
+a A D E F G
+b I K C H
+c J
+-----------------
+a A D E F G
+b I K C B
+c J
+-----------------
+a A D E F G
+b I K C B H
+c J
+-----------------
+a A D E F G
+b I K H
+c J
+-----------------
+a A D E F G
+b I B
+c J
+-----------------
+a A D E F G
+b I B C
+c J
+-----------------
+a A D E F G
+b I B C H
+c J
+-----------------
+a A D E F G
+b I B C K
+c J
+-----------------
+a A D E F G
+b I B C K H
+c J
+-----------------
+a A D E F G
+b I B H
+c J
+-----------------
+a A D E F G
+b I B K
+c J
+-----------------
+a A D E F G
+b I B K C
+c J
+-----------------
+a A D E F G
+b I B K C H
+c J
+-----------------
+a A D E F G
+b I B K H
+c J
+-----------------
+a A D E F G
+b I C
+c J
+-----------------
+a A D E F G
+b I C H
+c J
+-----------------
+a A D E F G
+b I C K
+c J
+-----------------
+a A D E F G
+b I C K B
+c J
+-----------------
+a A D E F G
+b I C K B H
+c J
+-----------------
+a A D E F G
+b I C K H
+c J
+-----------------
+a A D E F G
+b I C B
+c J
+-----------------
+a A D E F G
+b I C B H
+c J
+-----------------
+a A D E F G
+b I C B K
+c J
+-----------------
+a A D E F G
+b I C B K H
+c J
+-----------------
+a A D E F G
+b I H
+c J
+-----------------
+a A D E F G
+b I
+c K
+-----------------
+a A D E F G
+b I B
+c K
+-----------------
+a A D E F G
+b I B C
+c K
+-----------------
+a A D E F G
+b I B C H
+c K
+-----------------
+a A D E F G
+b I B C J
+c K
+-----------------
+a A D E F G
+b I B C J H
+c K
+-----------------
+a A D E F G
+b I B H
+c K
+-----------------
+a A D E F G
+b I B J
+c K
+-----------------
+a A D E F G
+b I B J C
+c K
+-----------------
+a A D E F G
+b I B J C H
+c K
+-----------------
+a A D E F G
+b I B J H
+c K
+-----------------
+a A D E F G
+b I C
+c K
+-----------------
+a A D E F G
+b I C H
+c K
+-----------------
+a A D E F G
+b I C J
+c K
+-----------------
+a A D E F G
+b I C J B
+c K
+-----------------
+a A D E F G
+b I C J B H
+c K
+-----------------
+a A D E F G
+b I C J H
+c K
+-----------------
+a A D E F G
+b I C B
+c K
+-----------------
+a A D E F G
+b I C B H
+c K
+-----------------
+a A D E F G
+b I C B J
+c K
+-----------------
+a A D E F G
+b I C B J H
+c K
+-----------------
+a A D E F G
+b I H
+c K
+-----------------
+a A D E F G
+b I J
+c K
+-----------------
+a A D E F G
+b I J B
+c K
+-----------------
+a A D E F G
+b I J B C
+c K
+-----------------
+a A D E F G
+b I J B C H
+c K
+-----------------
+a A D E F G
+b I J B H
+c K
+-----------------
+a A D E F G
+b I J C
+c K
+-----------------
+a A D E F G
+b I J C H
+c K
+-----------------
+a A D E F G
+b I J C B
+c K
+-----------------
+a A D E F G
+b I J C B H
+c K
+-----------------
+a A D E F G
+b I J H
+c K
+-----------------
+a A D E F G
+b I
+c B
+-----------------
+a A D E F G
+b I
+c C
+-----------------
+a A D E F G
+b I
+c H
+-----------------
+a A D E F G
+b J
+c
+-----------------
+a A D E F G
+b J K
+c
+-----------------
+a A D E F G
+b J B
+c
+-----------------
+a A D E F G
+b J B C
+c
+-----------------
+a A D E F G
+b J B C H
+c
+-----------------
+a A D E F G
+b J B C I
+c
+-----------------
+a A D E F G
+b J B C I K
+c
+-----------------
+a A D E F G
+b J B C I H
+c
+-----------------
+a A D E F G
+b J B C I
+c K
+-----------------
+a A D E F G
+b J B C I H
+c K
+-----------------
+a A D E F G
+b J B C I
+c H
+-----------------
+a A D E F G
+b J B C K
+c
+-----------------
+a A D E F G
+b J B C
+c H
+-----------------
+a A D E F G
+b J B C
+c I
+-----------------
+a A D E F G
+b J B C K
+c I
+-----------------
+a A D E F G
+b J B C H
+c I
+-----------------
+a A D E F G
+b J B C
+c K
+-----------------
+a A D E F G
+b J B C H
+c K
+-----------------
+a A D E F G
+b J B C I
+c K
+-----------------
+a A D E F G
+b J B C I H
+c K
+-----------------
+a A D E F G
+b J B H
+c
+-----------------
+a A D E F G
+b J B I
+c
+-----------------
+a A D E F G
+b J B I K
+c
+-----------------
+a A D E F G
+b J B I C
+c
+-----------------
+a A D E F G
+b J B I C H
+c
+-----------------
+a A D E F G
+b J B I C K
+c
+-----------------
+a A D E F G
+b J B I C
+c H
+-----------------
+a A D E F G
+b J B I C
+c K
+-----------------
+a A D E F G
+b J B I C H
+c K
+-----------------
+a A D E F G
+b J B I H
+c
+-----------------
+a A D E F G
+b J B I
+c K
+-----------------
+a A D E F G
+b J B I C
+c K
+-----------------
+a A D E F G
+b J B I C H
+c K
+-----------------
+a A D E F G
+b J B I H
+c K
+-----------------
+a A D E F G
+b J B I
+c C
+-----------------
+a A D E F G
+b J B I
+c H
+-----------------
+a A D E F G
+b J B K
+c
+-----------------
+a A D E F G
+b J B
+c C
+-----------------
+a A D E F G
+b J B
+c H
+-----------------
+a A D E F G
+b J B
+c I
+-----------------
+a A D E F G
+b J B K
+c I
+-----------------
+a A D E F G
+b J B C
+c I
+-----------------
+a A D E F G
+b J B C H
+c I
+-----------------
+a A D E F G
+b J B C K
+c I
+-----------------
+a A D E F G
+b J B H
+c I
+-----------------
+a A D E F G
+b J B
+c K
+-----------------
+a A D E F G
+b J B C
+c K
+-----------------
+a A D E F G
+b J B C H
+c K
+-----------------
+a A D E F G
+b J B C I
+c K
+-----------------
+a A D E F G
+b J B C I H
+c K
+-----------------
+a A D E F G
+b J B H
+c K
+-----------------
+a A D E F G
+b J B I
+c K
+-----------------
+a A D E F G
+b J B I C
+c K
+-----------------
+a A D E F G
+b J B I C H
+c K
+-----------------
+a A D E F G
+b J B I H
+c K
+-----------------
+a A D E F G
+b J C
+c
+-----------------
+a A D E F G
+b J C H
+c
+-----------------
+a A D E F G
+b J C I
+c
+-----------------
+a A D E F G
+b J C I K
+c
+-----------------
+a A D E F G
+b J C I B
+c
+-----------------
+a A D E F G
+b J C I B H
+c
+-----------------
+a A D E F G
+b J C I B K
+c
+-----------------
+a A D E F G
+b J C I B
+c H
+-----------------
+a A D E F G
+b J C I B
+c K
+-----------------
+a A D E F G
+b J C I B H
+c K
+-----------------
+a A D E F G
+b J C I H
+c
+-----------------
+a A D E F G
+b J C I
+c K
+-----------------
+a A D E F G
+b J C I B
+c K
+-----------------
+a A D E F G
+b J C I B H
+c K
+-----------------
+a A D E F G
+b J C I H
+c K
+-----------------
+a A D E F G
+b J C I
+c B
+-----------------
+a A D E F G
+b J C I
+c H
+-----------------
+a A D E F G
+b J C K
+c
+-----------------
+a A D E F G
+b J C B
+c
+-----------------
+a A D E F G
+b J C B H
+c
+-----------------
+a A D E F G
+b J C B I
+c
+-----------------
+a A D E F G
+b J C B I K
+c
+-----------------
+a A D E F G
+b J C B I H
+c
+-----------------
+a A D E F G
+b J C B I
+c K
+-----------------
+a A D E F G
+b J C B I H
+c K
+-----------------
+a A D E F G
+b J C B I
+c H
+-----------------
+a A D E F G
+b J C B K
+c
+-----------------
+a A D E F G
+b J C B
+c H
+-----------------
+a A D E F G
+b J C B
+c I
+-----------------
+a A D E F G
+b J C B K
+c I
+-----------------
+a A D E F G
+b J C B H
+c I
+-----------------
+a A D E F G
+b J C B
+c K
+-----------------
+a A D E F G
+b J C B H
+c K
+-----------------
+a A D E F G
+b J C B I
+c K
+-----------------
+a A D E F G
+b J C B I H
+c K
+-----------------
+a A D E F G
+b J C
+c H
+-----------------
+a A D E F G
+b J C
+c I
+-----------------
+a A D E F G
+b J C K
+c I
+-----------------
+a A D E F G
+b J C B
+c I
+-----------------
+a A D E F G
+b J C B H
+c I
+-----------------
+a A D E F G
+b J C B K
+c I
+-----------------
+a A D E F G
+b J C H
+c I
+-----------------
+a A D E F G
+b J C
+c K
+-----------------
+a A D E F G
+b J C B
+c K
+-----------------
+a A D E F G
+b J C B H
+c K
+-----------------
+a A D E F G
+b J C B I
+c K
+-----------------
+a A D E F G
+b J C B I H
+c K
+-----------------
+a A D E F G
+b J C H
+c K
+-----------------
+a A D E F G
+b J C I
+c K
+-----------------
+a A D E F G
+b J C I B
+c K
+-----------------
+a A D E F G
+b J C I B H
+c K
+-----------------
+a A D E F G
+b J C I H
+c K
+-----------------
+a A D E F G
+b J C
+c B
+-----------------
+a A D E F G
+b J H
+c
+-----------------
+a A D E F G
+b J I
+c
+-----------------
+a A D E F G
+b J I K
+c
+-----------------
+a A D E F G
+b J I B
+c
+-----------------
+a A D E F G
+b J I B C
+c
+-----------------
+a A D E F G
+b J I B C H
+c
+-----------------
+a A D E F G
+b J I B C K
+c
+-----------------
+a A D E F G
+b J I B C
+c H
+-----------------
+a A D E F G
+b J I B C
+c K
+-----------------
+a A D E F G
+b J I B C H
+c K
+-----------------
+a A D E F G
+b J I B H
+c
+-----------------
+a A D E F G
+b J I B K
+c
+-----------------
+a A D E F G
+b J I B
+c C
+-----------------
+a A D E F G
+b J I B
+c H
+-----------------
+a A D E F G
+b J I B
+c K
+-----------------
+a A D E F G
+b J I B C
+c K
+-----------------
+a A D E F G
+b J I B C H
+c K
+-----------------
+a A D E F G
+b J I B H
+c K
+-----------------
+a A D E F G
+b J I C
+c
+-----------------
+a A D E F G
+b J I C H
+c
+-----------------
+a A D E F G
+b J I C K
+c
+-----------------
+a A D E F G
+b J I C B
+c
+-----------------
+a A D E F G
+b J I C B H
+c
+-----------------
+a A D E F G
+b J I C B K
+c
+-----------------
+a A D E F G
+b J I C B
+c H
+-----------------
+a A D E F G
+b J I C B
+c K
+-----------------
+a A D E F G
+b J I C B H
+c K
+-----------------
+a A D E F G
+b J I C
+c H
+-----------------
+a A D E F G
+b J I C
+c K
+-----------------
+a A D E F G
+b J I C B
+c K
+-----------------
+a A D E F G
+b J I C B H
+c K
+-----------------
+a A D E F G
+b J I C H
+c K
+-----------------
+a A D E F G
+b J I C
+c B
+-----------------
+a A D E F G
+b J I H
+c
+-----------------
+a A D E F G
+b J I
+c K
+-----------------
+a A D E F G
+b J I B
+c K
+-----------------
+a A D E F G
+b J I B C
+c K
+-----------------
+a A D E F G
+b J I B C H
+c K
+-----------------
+a A D E F G
+b J I B H
+c K
+-----------------
+a A D E F G
+b J I C
+c K
+-----------------
+a A D E F G
+b J I C H
+c K
+-----------------
+a A D E F G
+b J I C B
+c K
+-----------------
+a A D E F G
+b J I C B H
+c K
+-----------------
+a A D E F G
+b J I H
+c K
+-----------------
+a A D E F G
+b J I
+c B
+-----------------
+a A D E F G
+b J I
+c C
+-----------------
+a A D E F G
+b J I
+c H
+-----------------
+a A D E F G
+b J
+c K
+-----------------
+a A D E F G
+b J B
+c K
+-----------------
+a A D E F G
+b J B C
+c K
+-----------------
+a A D E F G
+b J B C H
+c K
+-----------------
+a A D E F G
+b J B C I
+c K
+-----------------
+a A D E F G
+b J B C I H
+c K
+-----------------
+a A D E F G
+b J B H
+c K
+-----------------
+a A D E F G
+b J B I
+c K
+-----------------
+a A D E F G
+b J B I C
+c K
+-----------------
+a A D E F G
+b J B I C H
+c K
+-----------------
+a A D E F G
+b J B I H
+c K
+-----------------
+a A D E F G
+b J C
+c K
+-----------------
+a A D E F G
+b J C H
+c K
+-----------------
+a A D E F G
+b J C I
+c K
+-----------------
+a A D E F G
+b J C I B
+c K
+-----------------
+a A D E F G
+b J C I B H
+c K
+-----------------
+a A D E F G
+b J C I H
+c K
+-----------------
+a A D E F G
+b J C B
+c K
+-----------------
+a A D E F G
+b J C B H
+c K
+-----------------
+a A D E F G
+b J C B I
+c K
+-----------------
+a A D E F G
+b J C B I H
+c K
+-----------------
+a A D E F G
+b J H
+c K
+-----------------
+a A D E F G
+b J I
+c K
+-----------------
+a A D E F G
+b J I B
+c K
+-----------------
+a A D E F G
+b J I B C
+c K
+-----------------
+a A D E F G
+b J I B C H
+c K
+-----------------
+a A D E F G
+b J I B H
+c K
+-----------------
+a A D E F G
+b J I C
+c K
+-----------------
+a A D E F G
+b J I C H
+c K
+-----------------
+a A D E F G
+b J I C B
+c K
+-----------------
+a A D E F G
+b J I C B H
+c K
+-----------------
+a A D E F G
+b J I H
+c K
+-----------------
+a A D E F G
+b J
+c B
+-----------------
+a A D E F G
+b J
+c C
+-----------------
+a A D E F G
+b J
+c H
+-----------------
+a A D E F G
+b J
+c I
+-----------------
+a A D E F G
+b J K
+c I
+-----------------
+a A D E F G
+b J B
+c I
+-----------------
+a A D E F G
+b J B C
+c I
+-----------------
+a A D E F G
+b J B C H
+c I
+-----------------
+a A D E F G
+b J B C K
+c I
+-----------------
+a A D E F G
+b J B H
+c I
+-----------------
+a A D E F G
+b J B K
+c I
+-----------------
+a A D E F G
+b J C
+c I
+-----------------
+a A D E F G
+b J C H
+c I
+-----------------
+a A D E F G
+b J C K
+c I
+-----------------
+a A D E F G
+b J C B
+c I
+-----------------
+a A D E F G
+b J C B H
+c I
+-----------------
+a A D E F G
+b J C B K
+c I
+-----------------
+a A D E F G
+b J H
+c I
+-----------------
+a A D E F G
+b K
+c
+-----------------
+a A D E F G
+b K B
+c
+-----------------
+a A D E F G
+b K B C
+c
+-----------------
+a A D E F G
+b K B C H
+c
+-----------------
+a A D E F G
+b K B C I
+c
+-----------------
+a A D E F G
+b K B C I J
+c
+-----------------
+a A D E F G
+b K B C I H
+c
+-----------------
+a A D E F G
+b K B C I
+c J
+-----------------
+a A D E F G
+b K B C I H
+c J
+-----------------
+a A D E F G
+b K B C I
+c H
+-----------------
+a A D E F G
+b K B C J
+c
+-----------------
+a A D E F G
+b K B C
+c H
+-----------------
+a A D E F G
+b K B C
+c I
+-----------------
+a A D E F G
+b K B C J
+c I
+-----------------
+a A D E F G
+b K B C H
+c I
+-----------------
+a A D E F G
+b K B C
+c J
+-----------------
+a A D E F G
+b K B C H
+c J
+-----------------
+a A D E F G
+b K B C I
+c J
+-----------------
+a A D E F G
+b K B C I H
+c J
+-----------------
+a A D E F G
+b K B H
+c
+-----------------
+a A D E F G
+b K B I
+c
+-----------------
+a A D E F G
+b K B I J
+c
+-----------------
+a A D E F G
+b K B I C
+c
+-----------------
+a A D E F G
+b K B I C H
+c
+-----------------
+a A D E F G
+b K B I C J
+c
+-----------------
+a A D E F G
+b K B I C
+c H
+-----------------
+a A D E F G
+b K B I C
+c J
+-----------------
+a A D E F G
+b K B I C H
+c J
+-----------------
+a A D E F G
+b K B I H
+c
+-----------------
+a A D E F G
+b K B I
+c J
+-----------------
+a A D E F G
+b K B I C
+c J
+-----------------
+a A D E F G
+b K B I C H
+c J
+-----------------
+a A D E F G
+b K B I H
+c J
+-----------------
+a A D E F G
+b K B I
+c C
+-----------------
+a A D E F G
+b K B I
+c H
+-----------------
+a A D E F G
+b K B J
+c
+-----------------
+a A D E F G
+b K B
+c C
+-----------------
+a A D E F G
+b K B
+c H
+-----------------
+a A D E F G
+b K B
+c I
+-----------------
+a A D E F G
+b K B J
+c I
+-----------------
+a A D E F G
+b K B C
+c I
+-----------------
+a A D E F G
+b K B C H
+c I
+-----------------
+a A D E F G
+b K B C J
+c I
+-----------------
+a A D E F G
+b K B H
+c I
+-----------------
+a A D E F G
+b K B
+c J
+-----------------
+a A D E F G
+b K B C
+c J
+-----------------
+a A D E F G
+b K B C H
+c J
+-----------------
+a A D E F G
+b K B C I
+c J
+-----------------
+a A D E F G
+b K B C I H
+c J
+-----------------
+a A D E F G
+b K B H
+c J
+-----------------
+a A D E F G
+b K B I
+c J
+-----------------
+a A D E F G
+b K B I C
+c J
+-----------------
+a A D E F G
+b K B I C H
+c J
+-----------------
+a A D E F G
+b K B I H
+c J
+-----------------
+a A D E F G
+b K C
+c
+-----------------
+a A D E F G
+b K C H
+c
+-----------------
+a A D E F G
+b K C I
+c
+-----------------
+a A D E F G
+b K C I J
+c
+-----------------
+a A D E F G
+b K C I B
+c
+-----------------
+a A D E F G
+b K C I B H
+c
+-----------------
+a A D E F G
+b K C I B J
+c
+-----------------
+a A D E F G
+b K C I B
+c H
+-----------------
+a A D E F G
+b K C I B
+c J
+-----------------
+a A D E F G
+b K C I B H
+c J
+-----------------
+a A D E F G
+b K C I H
+c
+-----------------
+a A D E F G
+b K C I
+c J
+-----------------
+a A D E F G
+b K C I B
+c J
+-----------------
+a A D E F G
+b K C I B H
+c J
+-----------------
+a A D E F G
+b K C I H
+c J
+-----------------
+a A D E F G
+b K C I
+c B
+-----------------
+a A D E F G
+b K C I
+c H
+-----------------
+a A D E F G
+b K C J
+c
+-----------------
+a A D E F G
+b K C B
+c
+-----------------
+a A D E F G
+b K C B H
+c
+-----------------
+a A D E F G
+b K C B I
+c
+-----------------
+a A D E F G
+b K C B I J
+c
+-----------------
+a A D E F G
+b K C B I H
+c
+-----------------
+a A D E F G
+b K C B I
+c J
+-----------------
+a A D E F G
+b K C B I H
+c J
+-----------------
+a A D E F G
+b K C B I
+c H
+-----------------
+a A D E F G
+b K C B J
+c
+-----------------
+a A D E F G
+b K C B
+c H
+-----------------
+a A D E F G
+b K C B
+c I
+-----------------
+a A D E F G
+b K C B J
+c I
+-----------------
+a A D E F G
+b K C B H
+c I
+-----------------
+a A D E F G
+b K C B
+c J
+-----------------
+a A D E F G
+b K C B H
+c J
+-----------------
+a A D E F G
+b K C B I
+c J
+-----------------
+a A D E F G
+b K C B I H
+c J
+-----------------
+a A D E F G
+b K C
+c H
+-----------------
+a A D E F G
+b K C
+c I
+-----------------
+a A D E F G
+b K C J
+c I
+-----------------
+a A D E F G
+b K C B
+c I
+-----------------
+a A D E F G
+b K C B H
+c I
+-----------------
+a A D E F G
+b K C B J
+c I
+-----------------
+a A D E F G
+b K C H
+c I
+-----------------
+a A D E F G
+b K C
+c J
+-----------------
+a A D E F G
+b K C B
+c J
+-----------------
+a A D E F G
+b K C B H
+c J
+-----------------
+a A D E F G
+b K C B I
+c J
+-----------------
+a A D E F G
+b K C B I H
+c J
+-----------------
+a A D E F G
+b K C H
+c J
+-----------------
+a A D E F G
+b K C I
+c J
+-----------------
+a A D E F G
+b K C I B
+c J
+-----------------
+a A D E F G
+b K C I B H
+c J
+-----------------
+a A D E F G
+b K C I H
+c J
+-----------------
+a A D E F G
+b K C
+c B
+-----------------
+a A D E F G
+b K H
+c
+-----------------
+a A D E F G
+b K I
+c
+-----------------
+a A D E F G
+b K I J
+c
+-----------------
+a A D E F G
+b K I B
+c
+-----------------
+a A D E F G
+b K I B C
+c
+-----------------
+a A D E F G
+b K I B C H
+c
+-----------------
+a A D E F G
+b K I B C J
+c
+-----------------
+a A D E F G
+b K I B C
+c H
+-----------------
+a A D E F G
+b K I B C
+c J
+-----------------
+a A D E F G
+b K I B C H
+c J
+-----------------
+a A D E F G
+b K I B H
+c
+-----------------
+a A D E F G
+b K I B J
+c
+-----------------
+a A D E F G
+b K I B
+c C
+-----------------
+a A D E F G
+b K I B
+c H
+-----------------
+a A D E F G
+b K I B
+c J
+-----------------
+a A D E F G
+b K I B C
+c J
+-----------------
+a A D E F G
+b K I B C H
+c J
+-----------------
+a A D E F G
+b K I B H
+c J
+-----------------
+a A D E F G
+b K I C
+c
+-----------------
+a A D E F G
+b K I C H
+c
+-----------------
+a A D E F G
+b K I C J
+c
+-----------------
+a A D E F G
+b K I C B
+c
+-----------------
+a A D E F G
+b K I C B H
+c
+-----------------
+a A D E F G
+b K I C B J
+c
+-----------------
+a A D E F G
+b K I C B
+c H
+-----------------
+a A D E F G
+b K I C B
+c J
+-----------------
+a A D E F G
+b K I C B H
+c J
+-----------------
+a A D E F G
+b K I C
+c H
+-----------------
+a A D E F G
+b K I C
+c J
+-----------------
+a A D E F G
+b K I C B
+c J
+-----------------
+a A D E F G
+b K I C B H
+c J
+-----------------
+a A D E F G
+b K I C H
+c J
+-----------------
+a A D E F G
+b K I C
+c B
+-----------------
+a A D E F G
+b K I H
+c
+-----------------
+a A D E F G
+b K I
+c J
+-----------------
+a A D E F G
+b K I B
+c J
+-----------------
+a A D E F G
+b K I B C
+c J
+-----------------
+a A D E F G
+b K I B C H
+c J
+-----------------
+a A D E F G
+b K I B H
+c J
+-----------------
+a A D E F G
+b K I C
+c J
+-----------------
+a A D E F G
+b K I C H
+c J
+-----------------
+a A D E F G
+b K I C B
+c J
+-----------------
+a A D E F G
+b K I C B H
+c J
+-----------------
+a A D E F G
+b K I H
+c J
+-----------------
+a A D E F G
+b K I
+c B
+-----------------
+a A D E F G
+b K I
+c C
+-----------------
+a A D E F G
+b K I
+c H
+-----------------
+a A D E F G
+b K J
+c
+-----------------
+a A D E F G
+b K
+c B
+-----------------
+a A D E F G
+b K
+c C
+-----------------
+a A D E F G
+b K
+c H
+-----------------
+a A D E F G
+b K
+c I
+-----------------
+a A D E F G
+b K J
+c I
+-----------------
+a A D E F G
+b K B
+c I
+-----------------
+a A D E F G
+b K B C
+c I
+-----------------
+a A D E F G
+b K B C H
+c I
+-----------------
+a A D E F G
+b K B C J
+c I
+-----------------
+a A D E F G
+b K B H
+c I
+-----------------
+a A D E F G
+b K B J
+c I
+-----------------
+a A D E F G
+b K C
+c I
+-----------------
+a A D E F G
+b K C H
+c I
+-----------------
+a A D E F G
+b K C J
+c I
+-----------------
+a A D E F G
+b K C B
+c I
+-----------------
+a A D E F G
+b K C B H
+c I
+-----------------
+a A D E F G
+b K C B J
+c I
+-----------------
+a A D E F G
+b K H
+c I
+-----------------
+a A D E F G
+b K
+c J
+-----------------
+a A D E F G
+b K B
+c J
+-----------------
+a A D E F G
+b K B C
+c J
+-----------------
+a A D E F G
+b K B C H
+c J
+-----------------
+a A D E F G
+b K B C I
+c J
+-----------------
+a A D E F G
+b K B C I H
+c J
+-----------------
+a A D E F G
+b K B H
+c J
+-----------------
+a A D E F G
+b K B I
+c J
+-----------------
+a A D E F G
+b K B I C
+c J
+-----------------
+a A D E F G
+b K B I C H
+c J
+-----------------
+a A D E F G
+b K B I H
+c J
+-----------------
+a A D E F G
+b K C
+c J
+-----------------
+a A D E F G
+b K C H
+c J
+-----------------
+a A D E F G
+b K C I
+c J
+-----------------
+a A D E F G
+b K C I B
+c J
+-----------------
+a A D E F G
+b K C I B H
+c J
+-----------------
+a A D E F G
+b K C I H
+c J
+-----------------
+a A D E F G
+b K C B
+c J
+-----------------
+a A D E F G
+b K C B H
+c J
+-----------------
+a A D E F G
+b K C B I
+c J
+-----------------
+a A D E F G
+b K C B I H
+c J
+-----------------
+a A D E F G
+b K H
+c J
+-----------------
+a A D E F G
+b K I
+c J
+-----------------
+a A D E F G
+b K I B
+c J
+-----------------
+a A D E F G
+b K I B C
+c J
+-----------------
+a A D E F G
+b K I B C H
+c J
+-----------------
+a A D E F G
+b K I B H
+c J
+-----------------
+a A D E F G
+b K I C
+c J
+-----------------
+a A D E F G
+b K I C H
+c J
+-----------------
+a A D E F G
+b K I C B
+c J
+-----------------
+a A D E F G
+b K I C B H
+c J
+-----------------
+a A D E F G
+b K I H
+c J
+-----------------
+a A D E F G
+b B
+c
+-----------------
+a A D E F G
+b B C
+c
+-----------------
+a A D E F G
+b B C H
+c
+-----------------
+a A D E F G
+b B C I
+c
+-----------------
+a A D E F G
+b B C I J
+c
+-----------------
+a A D E F G
+b B C I J K
+c
+-----------------
+a A D E F G
+b B C I J H
+c
+-----------------
+a A D E F G
+b B C I J
+c K
+-----------------
+a A D E F G
+b B C I J H
+c K
+-----------------
+a A D E F G
+b B C I J
+c H
+-----------------
+a A D E F G
+b B C I K
+c
+-----------------
+a A D E F G
+b B C I K H
+c
+-----------------
+a A D E F G
+b B C I K J
+c
+-----------------
+a A D E F G
+b B C I K
+c H
+-----------------
+a A D E F G
+b B C I K
+c J
+-----------------
+a A D E F G
+b B C I K H
+c J
+-----------------
+a A D E F G
+b B C I H
+c
+-----------------
+a A D E F G
+b B C I
+c J
+-----------------
+a A D E F G
+b B C I K
+c J
+-----------------
+a A D E F G
+b B C I K H
+c J
+-----------------
+a A D E F G
+b B C I H
+c J
+-----------------
+a A D E F G
+b B C I
+c K
+-----------------
+a A D E F G
+b B C I H
+c K
+-----------------
+a A D E F G
+b B C I J
+c K
+-----------------
+a A D E F G
+b B C I J H
+c K
+-----------------
+a A D E F G
+b B C I
+c H
+-----------------
+a A D E F G
+b B C J
+c
+-----------------
+a A D E F G
+b B C J K
+c
+-----------------
+a A D E F G
+b B C J H
+c
+-----------------
+a A D E F G
+b B C J I
+c
+-----------------
+a A D E F G
+b B C J I K
+c
+-----------------
+a A D E F G
+b B C J I H
+c
+-----------------
+a A D E F G
+b B C J I
+c K
+-----------------
+a A D E F G
+b B C J I H
+c K
+-----------------
+a A D E F G
+b B C J I
+c H
+-----------------
+a A D E F G
+b B C J
+c K
+-----------------
+a A D E F G
+b B C J H
+c K
+-----------------
+a A D E F G
+b B C J I
+c K
+-----------------
+a A D E F G
+b B C J I H
+c K
+-----------------
+a A D E F G
+b B C J
+c H
+-----------------
+a A D E F G
+b B C J
+c I
+-----------------
+a A D E F G
+b B C J K
+c I
+-----------------
+a A D E F G
+b B C J H
+c I
+-----------------
+a A D E F G
+b B C K
+c
+-----------------
+a A D E F G
+b B C K H
+c
+-----------------
+a A D E F G
+b B C K I
+c
+-----------------
+a A D E F G
+b B C K I J
+c
+-----------------
+a A D E F G
+b B C K I H
+c
+-----------------
+a A D E F G
+b B C K I
+c J
+-----------------
+a A D E F G
+b B C K I H
+c J
+-----------------
+a A D E F G
+b B C K I
+c H
+-----------------
+a A D E F G
+b B C K J
+c
+-----------------
+a A D E F G
+b B C K
+c H
+-----------------
+a A D E F G
+b B C K
+c I
+-----------------
+a A D E F G
+b B C K J
+c I
+-----------------
+a A D E F G
+b B C K H
+c I
+-----------------
+a A D E F G
+b B C K
+c J
+-----------------
+a A D E F G
+b B C K H
+c J
+-----------------
+a A D E F G
+b B C K I
+c J
+-----------------
+a A D E F G
+b B C K I H
+c J
+-----------------
+a A D E F G
+b B C
+c H
+-----------------
+a A D E F G
+b B C
+c I
+-----------------
+a A D E F G
+b B C J
+c I
+-----------------
+a A D E F G
+b B C J K
+c I
+-----------------
+a A D E F G
+b B C J H
+c I
+-----------------
+a A D E F G
+b B C K
+c I
+-----------------
+a A D E F G
+b B C K H
+c I
+-----------------
+a A D E F G
+b B C K J
+c I
+-----------------
+a A D E F G
+b B C H
+c I
+-----------------
+a A D E F G
+b B C
+c J
+-----------------
+a A D E F G
+b B C K
+c J
+-----------------
+a A D E F G
+b B C K H
+c J
+-----------------
+a A D E F G
+b B C K I
+c J
+-----------------
+a A D E F G
+b B C K I H
+c J
+-----------------
+a A D E F G
+b B C H
+c J
+-----------------
+a A D E F G
+b B C I
+c J
+-----------------
+a A D E F G
+b B C I K
+c J
+-----------------
+a A D E F G
+b B C I K H
+c J
+-----------------
+a A D E F G
+b B C I H
+c J
+-----------------
+a A D E F G
+b B C
+c K
+-----------------
+a A D E F G
+b B C H
+c K
+-----------------
+a A D E F G
+b B C I
+c K
+-----------------
+a A D E F G
+b B C I J
+c K
+-----------------
+a A D E F G
+b B C I J H
+c K
+-----------------
+a A D E F G
+b B C I H
+c K
+-----------------
+a A D E F G
+b B C J
+c K
+-----------------
+a A D E F G
+b B C J H
+c K
+-----------------
+a A D E F G
+b B C J I
+c K
+-----------------
+a A D E F G
+b B C J I H
+c K
+-----------------
+a A D E F G
+b B H
+c
+-----------------
+a A D E F G
+b B I
+c
+-----------------
+a A D E F G
+b B I J
+c
+-----------------
+a A D E F G
+b B I J K
+c
+-----------------
+a A D E F G
+b B I J C
+c
+-----------------
+a A D E F G
+b B I J C H
+c
+-----------------
+a A D E F G
+b B I J C K
+c
+-----------------
+a A D E F G
+b B I J C
+c H
+-----------------
+a A D E F G
+b B I J C
+c K
+-----------------
+a A D E F G
+b B I J C H
+c K
+-----------------
+a A D E F G
+b B I J H
+c
+-----------------
+a A D E F G
+b B I J
+c K
+-----------------
+a A D E F G
+b B I J C
+c K
+-----------------
+a A D E F G
+b B I J C H
+c K
+-----------------
+a A D E F G
+b B I J H
+c K
+-----------------
+a A D E F G
+b B I J
+c C
+-----------------
+a A D E F G
+b B I J
+c H
+-----------------
+a A D E F G
+b B I K
+c
+-----------------
+a A D E F G
+b B I K C
+c
+-----------------
+a A D E F G
+b B I K C H
+c
+-----------------
+a A D E F G
+b B I K C J
+c
+-----------------
+a A D E F G
+b B I K C
+c H
+-----------------
+a A D E F G
+b B I K C
+c J
+-----------------
+a A D E F G
+b B I K C H
+c J
+-----------------
+a A D E F G
+b B I K H
+c
+-----------------
+a A D E F G
+b B I K J
+c
+-----------------
+a A D E F G
+b B I K
+c C
+-----------------
+a A D E F G
+b B I K
+c H
+-----------------
+a A D E F G
+b B I K
+c J
+-----------------
+a A D E F G
+b B I K C
+c J
+-----------------
+a A D E F G
+b B I K C H
+c J
+-----------------
+a A D E F G
+b B I K H
+c J
+-----------------
+a A D E F G
+b B I C
+c
+-----------------
+a A D E F G
+b B I C H
+c
+-----------------
+a A D E F G
+b B I C J
+c
+-----------------
+a A D E F G
+b B I C J K
+c
+-----------------
+a A D E F G
+b B I C J H
+c
+-----------------
+a A D E F G
+b B I C J
+c K
+-----------------
+a A D E F G
+b B I C J H
+c K
+-----------------
+a A D E F G
+b B I C J
+c H
+-----------------
+a A D E F G
+b B I C K
+c
+-----------------
+a A D E F G
+b B I C K H
+c
+-----------------
+a A D E F G
+b B I C K J
+c
+-----------------
+a A D E F G
+b B I C K
+c H
+-----------------
+a A D E F G
+b B I C K
+c J
+-----------------
+a A D E F G
+b B I C K H
+c J
+-----------------
+a A D E F G
+b B I C
+c H
+-----------------
+a A D E F G
+b B I C
+c J
+-----------------
+a A D E F G
+b B I C K
+c J
+-----------------
+a A D E F G
+b B I C K H
+c J
+-----------------
+a A D E F G
+b B I C H
+c J
+-----------------
+a A D E F G
+b B I C
+c K
+-----------------
+a A D E F G
+b B I C H
+c K
+-----------------
+a A D E F G
+b B I C J
+c K
+-----------------
+a A D E F G
+b B I C J H
+c K
+-----------------
+a A D E F G
+b B I H
+c
+-----------------
+a A D E F G
+b B I
+c J
+-----------------
+a A D E F G
+b B I K
+c J
+-----------------
+a A D E F G
+b B I K C
+c J
+-----------------
+a A D E F G
+b B I K C H
+c J
+-----------------
+a A D E F G
+b B I K H
+c J
+-----------------
+a A D E F G
+b B I C
+c J
+-----------------
+a A D E F G
+b B I C H
+c J
+-----------------
+a A D E F G
+b B I C K
+c J
+-----------------
+a A D E F G
+b B I C K H
+c J
+-----------------
+a A D E F G
+b B I H
+c J
+-----------------
+a A D E F G
+b B I
+c K
+-----------------
+a A D E F G
+b B I C
+c K
+-----------------
+a A D E F G
+b B I C H
+c K
+-----------------
+a A D E F G
+b B I C J
+c K
+-----------------
+a A D E F G
+b B I C J H
+c K
+-----------------
+a A D E F G
+b B I H
+c K
+-----------------
+a A D E F G
+b B I J
+c K
+-----------------
+a A D E F G
+b B I J C
+c K
+-----------------
+a A D E F G
+b B I J C H
+c K
+-----------------
+a A D E F G
+b B I J H
+c K
+-----------------
+a A D E F G
+b B I
+c C
+-----------------
+a A D E F G
+b B I
+c H
+-----------------
+a A D E F G
+b B J
+c
+-----------------
+a A D E F G
+b B J K
+c
+-----------------
+a A D E F G
+b B J C
+c
+-----------------
+a A D E F G
+b B J C H
+c
+-----------------
+a A D E F G
+b B J C I
+c
+-----------------
+a A D E F G
+b B J C I K
+c
+-----------------
+a A D E F G
+b B J C I H
+c
+-----------------
+a A D E F G
+b B J C I
+c K
+-----------------
+a A D E F G
+b B J C I H
+c K
+-----------------
+a A D E F G
+b B J C I
+c H
+-----------------
+a A D E F G
+b B J C K
+c
+-----------------
+a A D E F G
+b B J C
+c H
+-----------------
+a A D E F G
+b B J C
+c I
+-----------------
+a A D E F G
+b B J C K
+c I
+-----------------
+a A D E F G
+b B J C H
+c I
+-----------------
+a A D E F G
+b B J C
+c K
+-----------------
+a A D E F G
+b B J C H
+c K
+-----------------
+a A D E F G
+b B J C I
+c K
+-----------------
+a A D E F G
+b B J C I H
+c K
+-----------------
+a A D E F G
+b B J H
+c
+-----------------
+a A D E F G
+b B J I
+c
+-----------------
+a A D E F G
+b B J I K
+c
+-----------------
+a A D E F G
+b B J I C
+c
+-----------------
+a A D E F G
+b B J I C H
+c
+-----------------
+a A D E F G
+b B J I C K
+c
+-----------------
+a A D E F G
+b B J I C
+c H
+-----------------
+a A D E F G
+b B J I C
+c K
+-----------------
+a A D E F G
+b B J I C H
+c K
+-----------------
+a A D E F G
+b B J I H
+c
+-----------------
+a A D E F G
+b B J I
+c K
+-----------------
+a A D E F G
+b B J I C
+c K
+-----------------
+a A D E F G
+b B J I C H
+c K
+-----------------
+a A D E F G
+b B J I H
+c K
+-----------------
+a A D E F G
+b B J I
+c C
+-----------------
+a A D E F G
+b B J I
+c H
+-----------------
+a A D E F G
+b B J
+c K
+-----------------
+a A D E F G
+b B J C
+c K
+-----------------
+a A D E F G
+b B J C H
+c K
+-----------------
+a A D E F G
+b B J C I
+c K
+-----------------
+a A D E F G
+b B J C I H
+c K
+-----------------
+a A D E F G
+b B J H
+c K
+-----------------
+a A D E F G
+b B J I
+c K
+-----------------
+a A D E F G
+b B J I C
+c K
+-----------------
+a A D E F G
+b B J I C H
+c K
+-----------------
+a A D E F G
+b B J I H
+c K
+-----------------
+a A D E F G
+b B J
+c C
+-----------------
+a A D E F G
+b B J
+c H
+-----------------
+a A D E F G
+b B J
+c I
+-----------------
+a A D E F G
+b B J K
+c I
+-----------------
+a A D E F G
+b B J C
+c I
+-----------------
+a A D E F G
+b B J C H
+c I
+-----------------
+a A D E F G
+b B J C K
+c I
+-----------------
+a A D E F G
+b B J H
+c I
+-----------------
+a A D E F G
+b B K
+c
+-----------------
+a A D E F G
+b B K C
+c
+-----------------
+a A D E F G
+b B K C H
+c
+-----------------
+a A D E F G
+b B K C I
+c
+-----------------
+a A D E F G
+b B K C I J
+c
+-----------------
+a A D E F G
+b B K C I H
+c
+-----------------
+a A D E F G
+b B K C I
+c J
+-----------------
+a A D E F G
+b B K C I H
+c J
+-----------------
+a A D E F G
+b B K C I
+c H
+-----------------
+a A D E F G
+b B K C J
+c
+-----------------
+a A D E F G
+b B K C
+c H
+-----------------
+a A D E F G
+b B K C
+c I
+-----------------
+a A D E F G
+b B K C J
+c I
+-----------------
+a A D E F G
+b B K C H
+c I
+-----------------
+a A D E F G
+b B K C
+c J
+-----------------
+a A D E F G
+b B K C H
+c J
+-----------------
+a A D E F G
+b B K C I
+c J
+-----------------
+a A D E F G
+b B K C I H
+c J
+-----------------
+a A D E F G
+b B K H
+c
+-----------------
+a A D E F G
+b B K I
+c
+-----------------
+a A D E F G
+b B K I J
+c
+-----------------
+a A D E F G
+b B K I C
+c
+-----------------
+a A D E F G
+b B K I C H
+c
+-----------------
+a A D E F G
+b B K I C J
+c
+-----------------
+a A D E F G
+b B K I C
+c H
+-----------------
+a A D E F G
+b B K I C
+c J
+-----------------
+a A D E F G
+b B K I C H
+c J
+-----------------
+a A D E F G
+b B K I H
+c
+-----------------
+a A D E F G
+b B K I
+c J
+-----------------
+a A D E F G
+b B K I C
+c J
+-----------------
+a A D E F G
+b B K I C H
+c J
+-----------------
+a A D E F G
+b B K I H
+c J
+-----------------
+a A D E F G
+b B K I
+c C
+-----------------
+a A D E F G
+b B K I
+c H
+-----------------
+a A D E F G
+b B K J
+c
+-----------------
+a A D E F G
+b B K
+c C
+-----------------
+a A D E F G
+b B K
+c H
+-----------------
+a A D E F G
+b B K
+c I
+-----------------
+a A D E F G
+b B K J
+c I
+-----------------
+a A D E F G
+b B K C
+c I
+-----------------
+a A D E F G
+b B K C H
+c I
+-----------------
+a A D E F G
+b B K C J
+c I
+-----------------
+a A D E F G
+b B K H
+c I
+-----------------
+a A D E F G
+b B K
+c J
+-----------------
+a A D E F G
+b B K C
+c J
+-----------------
+a A D E F G
+b B K C H
+c J
+-----------------
+a A D E F G
+b B K C I
+c J
+-----------------
+a A D E F G
+b B K C I H
+c J
+-----------------
+a A D E F G
+b B K H
+c J
+-----------------
+a A D E F G
+b B K I
+c J
+-----------------
+a A D E F G
+b B K I C
+c J
+-----------------
+a A D E F G
+b B K I C H
+c J
+-----------------
+a A D E F G
+b B K I H
+c J
+-----------------
+a A D E F G
+b B
+c C
+-----------------
+a A D E F G
+b B
+c H
+-----------------
+a A D E F G
+b B
+c I
+-----------------
+a A D E F G
+b B J
+c I
+-----------------
+a A D E F G
+b B J K
+c I
+-----------------
+a A D E F G
+b B J C
+c I
+-----------------
+a A D E F G
+b B J C H
+c I
+-----------------
+a A D E F G
+b B J C K
+c I
+-----------------
+a A D E F G
+b B J H
+c I
+-----------------
+a A D E F G
+b B K
+c I
+-----------------
+a A D E F G
+b B K C
+c I
+-----------------
+a A D E F G
+b B K C H
+c I
+-----------------
+a A D E F G
+b B K C J
+c I
+-----------------
+a A D E F G
+b B K H
+c I
+-----------------
+a A D E F G
+b B K J
+c I
+-----------------
+a A D E F G
+b B C
+c I
+-----------------
+a A D E F G
+b B C H
+c I
+-----------------
+a A D E F G
+b B C J
+c I
+-----------------
+a A D E F G
+b B C J K
+c I
+-----------------
+a A D E F G
+b B C J H
+c I
+-----------------
+a A D E F G
+b B C K
+c I
+-----------------
+a A D E F G
+b B C K H
+c I
+-----------------
+a A D E F G
+b B C K J
+c I
+-----------------
+a A D E F G
+b B H
+c I
+-----------------
+a A D E F G
+b B
+c J
+-----------------
+a A D E F G
+b B K
+c J
+-----------------
+a A D E F G
+b B K C
+c J
+-----------------
+a A D E F G
+b B K C H
+c J
+-----------------
+a A D E F G
+b B K C I
+c J
+-----------------
+a A D E F G
+b B K C I H
+c J
+-----------------
+a A D E F G
+b B K H
+c J
+-----------------
+a A D E F G
+b B K I
+c J
+-----------------
+a A D E F G
+b B K I C
+c J
+-----------------
+a A D E F G
+b B K I C H
+c J
+-----------------
+a A D E F G
+b B K I H
+c J
+-----------------
+a A D E F G
+b B C
+c J
+-----------------
+a A D E F G
+b B C H
+c J
+-----------------
+a A D E F G
+b B C I
+c J
+-----------------
+a A D E F G
+b B C I K
+c J
+-----------------
+a A D E F G
+b B C I K H
+c J
+-----------------
+a A D E F G
+b B C I H
+c J
+-----------------
+a A D E F G
+b B C K
+c J
+-----------------
+a A D E F G
+b B C K H
+c J
+-----------------
+a A D E F G
+b B C K I
+c J
+-----------------
+a A D E F G
+b B C K I H
+c J
+-----------------
+a A D E F G
+b B H
+c J
+-----------------
+a A D E F G
+b B I
+c J
+-----------------
+a A D E F G
+b B I K
+c J
+-----------------
+a A D E F G
+b B I K C
+c J
+-----------------
+a A D E F G
+b B I K C H
+c J
+-----------------
+a A D E F G
+b B I K H
+c J
+-----------------
+a A D E F G
+b B I C
+c J
+-----------------
+a A D E F G
+b B I C H
+c J
+-----------------
+a A D E F G
+b B I C K
+c J
+-----------------
+a A D E F G
+b B I C K H
+c J
+-----------------
+a A D E F G
+b B I H
+c J
+-----------------
+a A D E F G
+b B
+c K
+-----------------
+a A D E F G
+b B C
+c K
+-----------------
+a A D E F G
+b B C H
+c K
+-----------------
+a A D E F G
+b B C I
+c K
+-----------------
+a A D E F G
+b B C I J
+c K
+-----------------
+a A D E F G
+b B C I J H
+c K
+-----------------
+a A D E F G
+b B C I H
+c K
+-----------------
+a A D E F G
+b B C J
+c K
+-----------------
+a A D E F G
+b B C J H
+c K
+-----------------
+a A D E F G
+b B C J I
+c K
+-----------------
+a A D E F G
+b B C J I H
+c K
+-----------------
+a A D E F G
+b B H
+c K
+-----------------
+a A D E F G
+b B I
+c K
+-----------------
+a A D E F G
+b B I J
+c K
+-----------------
+a A D E F G
+b B I J C
+c K
+-----------------
+a A D E F G
+b B I J C H
+c K
+-----------------
+a A D E F G
+b B I J H
+c K
+-----------------
+a A D E F G
+b B I C
+c K
+-----------------
+a A D E F G
+b B I C H
+c K
+-----------------
+a A D E F G
+b B I C J
+c K
+-----------------
+a A D E F G
+b B I C J H
+c K
+-----------------
+a A D E F G
+b B I H
+c K
+-----------------
+a A D E F G
+b B J
+c K
+-----------------
+a A D E F G
+b B J C
+c K
+-----------------
+a A D E F G
+b B J C H
+c K
+-----------------
+a A D E F G
+b B J C I
+c K
+-----------------
+a A D E F G
+b B J C I H
+c K
+-----------------
+a A D E F G
+b B J H
+c K
+-----------------
+a A D E F G
+b B J I
+c K
+-----------------
+a A D E F G
+b B J I C
+c K
+-----------------
+a A D E F G
+b B J I C H
+c K
+-----------------
+a A D E F G
+b B J I H
+c K
+-----------------
+a A D E F G
+b C
+c
+-----------------
+a A D E F G
+b C H
+c
+-----------------
+a A D E F G
+b C I
+c
+-----------------
+a A D E F G
+b C I J
+c
+-----------------
+a A D E F G
+b C I J K
+c
+-----------------
+a A D E F G
+b C I J B
+c
+-----------------
+a A D E F G
+b C I J B H
+c
+-----------------
+a A D E F G
+b C I J B K
+c
+-----------------
+a A D E F G
+b C I J B
+c H
+-----------------
+a A D E F G
+b C I J B
+c K
+-----------------
+a A D E F G
+b C I J B H
+c K
+-----------------
+a A D E F G
+b C I J H
+c
+-----------------
+a A D E F G
+b C I J
+c K
+-----------------
+a A D E F G
+b C I J B
+c K
+-----------------
+a A D E F G
+b C I J B H
+c K
+-----------------
+a A D E F G
+b C I J H
+c K
+-----------------
+a A D E F G
+b C I J
+c B
+-----------------
+a A D E F G
+b C I J
+c H
+-----------------
+a A D E F G
+b C I K
+c
+-----------------
+a A D E F G
+b C I K B
+c
+-----------------
+a A D E F G
+b C I K B H
+c
+-----------------
+a A D E F G
+b C I K B J
+c
+-----------------
+a A D E F G
+b C I K B
+c H
+-----------------
+a A D E F G
+b C I K B
+c J
+-----------------
+a A D E F G
+b C I K B H
+c J
+-----------------
+a A D E F G
+b C I K H
+c
+-----------------
+a A D E F G
+b C I K J
+c
+-----------------
+a A D E F G
+b C I K
+c B
+-----------------
+a A D E F G
+b C I K
+c H
+-----------------
+a A D E F G
+b C I K
+c J
+-----------------
+a A D E F G
+b C I K B
+c J
+-----------------
+a A D E F G
+b C I K B H
+c J
+-----------------
+a A D E F G
+b C I K H
+c J
+-----------------
+a A D E F G
+b C I B
+c
+-----------------
+a A D E F G
+b C I B H
+c
+-----------------
+a A D E F G
+b C I B J
+c
+-----------------
+a A D E F G
+b C I B J K
+c
+-----------------
+a A D E F G
+b C I B J H
+c
+-----------------
+a A D E F G
+b C I B J
+c K
+-----------------
+a A D E F G
+b C I B J H
+c K
+-----------------
+a A D E F G
+b C I B J
+c H
+-----------------
+a A D E F G
+b C I B K
+c
+-----------------
+a A D E F G
+b C I B K H
+c
+-----------------
+a A D E F G
+b C I B K J
+c
+-----------------
+a A D E F G
+b C I B K
+c H
+-----------------
+a A D E F G
+b C I B K
+c J
+-----------------
+a A D E F G
+b C I B K H
+c J
+-----------------
+a A D E F G
+b C I B
+c H
+-----------------
+a A D E F G
+b C I B
+c J
+-----------------
+a A D E F G
+b C I B K
+c J
+-----------------
+a A D E F G
+b C I B K H
+c J
+-----------------
+a A D E F G
+b C I B H
+c J
+-----------------
+a A D E F G
+b C I B
+c K
+-----------------
+a A D E F G
+b C I B H
+c K
+-----------------
+a A D E F G
+b C I B J
+c K
+-----------------
+a A D E F G
+b C I B J H
+c K
+-----------------
+a A D E F G
+b C I H
+c
+-----------------
+a A D E F G
+b C I
+c J
+-----------------
+a A D E F G
+b C I K
+c J
+-----------------
+a A D E F G
+b C I K B
+c J
+-----------------
+a A D E F G
+b C I K B H
+c J
+-----------------
+a A D E F G
+b C I K H
+c J
+-----------------
+a A D E F G
+b C I B
+c J
+-----------------
+a A D E F G
+b C I B H
+c J
+-----------------
+a A D E F G
+b C I B K
+c J
+-----------------
+a A D E F G
+b C I B K H
+c J
+-----------------
+a A D E F G
+b C I H
+c J
+-----------------
+a A D E F G
+b C I
+c K
+-----------------
+a A D E F G
+b C I B
+c K
+-----------------
+a A D E F G
+b C I B H
+c K
+-----------------
+a A D E F G
+b C I B J
+c K
+-----------------
+a A D E F G
+b C I B J H
+c K
+-----------------
+a A D E F G
+b C I H
+c K
+-----------------
+a A D E F G
+b C I J
+c K
+-----------------
+a A D E F G
+b C I J B
+c K
+-----------------
+a A D E F G
+b C I J B H
+c K
+-----------------
+a A D E F G
+b C I J H
+c K
+-----------------
+a A D E F G
+b C I
+c B
+-----------------
+a A D E F G
+b C I
+c H
+-----------------
+a A D E F G
+b C J
+c
+-----------------
+a A D E F G
+b C J K
+c
+-----------------
+a A D E F G
+b C J B
+c
+-----------------
+a A D E F G
+b C J B H
+c
+-----------------
+a A D E F G
+b C J B I
+c
+-----------------
+a A D E F G
+b C J B I K
+c
+-----------------
+a A D E F G
+b C J B I H
+c
+-----------------
+a A D E F G
+b C J B I
+c K
+-----------------
+a A D E F G
+b C J B I H
+c K
+-----------------
+a A D E F G
+b C J B I
+c H
+-----------------
+a A D E F G
+b C J B K
+c
+-----------------
+a A D E F G
+b C J B
+c H
+-----------------
+a A D E F G
+b C J B
+c I
+-----------------
+a A D E F G
+b C J B K
+c I
+-----------------
+a A D E F G
+b C J B H
+c I
+-----------------
+a A D E F G
+b C J B
+c K
+-----------------
+a A D E F G
+b C J B H
+c K
+-----------------
+a A D E F G
+b C J B I
+c K
+-----------------
+a A D E F G
+b C J B I H
+c K
+-----------------
+a A D E F G
+b C J H
+c
+-----------------
+a A D E F G
+b C J I
+c
+-----------------
+a A D E F G
+b C J I K
+c
+-----------------
+a A D E F G
+b C J I B
+c
+-----------------
+a A D E F G
+b C J I B H
+c
+-----------------
+a A D E F G
+b C J I B K
+c
+-----------------
+a A D E F G
+b C J I B
+c H
+-----------------
+a A D E F G
+b C J I B
+c K
+-----------------
+a A D E F G
+b C J I B H
+c K
+-----------------
+a A D E F G
+b C J I H
+c
+-----------------
+a A D E F G
+b C J I
+c K
+-----------------
+a A D E F G
+b C J I B
+c K
+-----------------
+a A D E F G
+b C J I B H
+c K
+-----------------
+a A D E F G
+b C J I H
+c K
+-----------------
+a A D E F G
+b C J I
+c B
+-----------------
+a A D E F G
+b C J I
+c H
+-----------------
+a A D E F G
+b C J
+c K
+-----------------
+a A D E F G
+b C J B
+c K
+-----------------
+a A D E F G
+b C J B H
+c K
+-----------------
+a A D E F G
+b C J B I
+c K
+-----------------
+a A D E F G
+b C J B I H
+c K
+-----------------
+a A D E F G
+b C J H
+c K
+-----------------
+a A D E F G
+b C J I
+c K
+-----------------
+a A D E F G
+b C J I B
+c K
+-----------------
+a A D E F G
+b C J I B H
+c K
+-----------------
+a A D E F G
+b C J I H
+c K
+-----------------
+a A D E F G
+b C J
+c B
+-----------------
+a A D E F G
+b C J
+c H
+-----------------
+a A D E F G
+b C J
+c I
+-----------------
+a A D E F G
+b C J K
+c I
+-----------------
+a A D E F G
+b C J B
+c I
+-----------------
+a A D E F G
+b C J B H
+c I
+-----------------
+a A D E F G
+b C J B K
+c I
+-----------------
+a A D E F G
+b C J H
+c I
+-----------------
+a A D E F G
+b C K
+c
+-----------------
+a A D E F G
+b C K B
+c
+-----------------
+a A D E F G
+b C K B H
+c
+-----------------
+a A D E F G
+b C K B I
+c
+-----------------
+a A D E F G
+b C K B I J
+c
+-----------------
+a A D E F G
+b C K B I H
+c
+-----------------
+a A D E F G
+b C K B I
+c J
+-----------------
+a A D E F G
+b C K B I H
+c J
+-----------------
+a A D E F G
+b C K B I
+c H
+-----------------
+a A D E F G
+b C K B J
+c
+-----------------
+a A D E F G
+b C K B
+c H
+-----------------
+a A D E F G
+b C K B
+c I
+-----------------
+a A D E F G
+b C K B J
+c I
+-----------------
+a A D E F G
+b C K B H
+c I
+-----------------
+a A D E F G
+b C K B
+c J
+-----------------
+a A D E F G
+b C K B H
+c J
+-----------------
+a A D E F G
+b C K B I
+c J
+-----------------
+a A D E F G
+b C K B I H
+c J
+-----------------
+a A D E F G
+b C K H
+c
+-----------------
+a A D E F G
+b C K I
+c
+-----------------
+a A D E F G
+b C K I J
+c
+-----------------
+a A D E F G
+b C K I B
+c
+-----------------
+a A D E F G
+b C K I B H
+c
+-----------------
+a A D E F G
+b C K I B J
+c
+-----------------
+a A D E F G
+b C K I B
+c H
+-----------------
+a A D E F G
+b C K I B
+c J
+-----------------
+a A D E F G
+b C K I B H
+c J
+-----------------
+a A D E F G
+b C K I H
+c
+-----------------
+a A D E F G
+b C K I
+c J
+-----------------
+a A D E F G
+b C K I B
+c J
+-----------------
+a A D E F G
+b C K I B H
+c J
+-----------------
+a A D E F G
+b C K I H
+c J
+-----------------
+a A D E F G
+b C K I
+c B
+-----------------
+a A D E F G
+b C K I
+c H
+-----------------
+a A D E F G
+b C K J
+c
+-----------------
+a A D E F G
+b C K
+c B
+-----------------
+a A D E F G
+b C K
+c H
+-----------------
+a A D E F G
+b C K
+c I
+-----------------
+a A D E F G
+b C K J
+c I
+-----------------
+a A D E F G
+b C K B
+c I
+-----------------
+a A D E F G
+b C K B H
+c I
+-----------------
+a A D E F G
+b C K B J
+c I
+-----------------
+a A D E F G
+b C K H
+c I
+-----------------
+a A D E F G
+b C K
+c J
+-----------------
+a A D E F G
+b C K B
+c J
+-----------------
+a A D E F G
+b C K B H
+c J
+-----------------
+a A D E F G
+b C K B I
+c J
+-----------------
+a A D E F G
+b C K B I H
+c J
+-----------------
+a A D E F G
+b C K H
+c J
+-----------------
+a A D E F G
+b C K I
+c J
+-----------------
+a A D E F G
+b C K I B
+c J
+-----------------
+a A D E F G
+b C K I B H
+c J
+-----------------
+a A D E F G
+b C K I H
+c J
+-----------------
+a A D E F G
+b C B
+c
+-----------------
+a A D E F G
+b C B H
+c
+-----------------
+a A D E F G
+b C B I
+c
+-----------------
+a A D E F G
+b C B I J
+c
+-----------------
+a A D E F G
+b C B I J K
+c
+-----------------
+a A D E F G
+b C B I J H
+c
+-----------------
+a A D E F G
+b C B I J
+c K
+-----------------
+a A D E F G
+b C B I J H
+c K
+-----------------
+a A D E F G
+b C B I J
+c H
+-----------------
+a A D E F G
+b C B I K
+c
+-----------------
+a A D E F G
+b C B I K H
+c
+-----------------
+a A D E F G
+b C B I K J
+c
+-----------------
+a A D E F G
+b C B I K
+c H
+-----------------
+a A D E F G
+b C B I K
+c J
+-----------------
+a A D E F G
+b C B I K H
+c J
+-----------------
+a A D E F G
+b C B I H
+c
+-----------------
+a A D E F G
+b C B I
+c J
+-----------------
+a A D E F G
+b C B I K
+c J
+-----------------
+a A D E F G
+b C B I K H
+c J
+-----------------
+a A D E F G
+b C B I H
+c J
+-----------------
+a A D E F G
+b C B I
+c K
+-----------------
+a A D E F G
+b C B I H
+c K
+-----------------
+a A D E F G
+b C B I J
+c K
+-----------------
+a A D E F G
+b C B I J H
+c K
+-----------------
+a A D E F G
+b C B I
+c H
+-----------------
+a A D E F G
+b C B J
+c
+-----------------
+a A D E F G
+b C B J K
+c
+-----------------
+a A D E F G
+b C B J H
+c
+-----------------
+a A D E F G
+b C B J I
+c
+-----------------
+a A D E F G
+b C B J I K
+c
+-----------------
+a A D E F G
+b C B J I H
+c
+-----------------
+a A D E F G
+b C B J I
+c K
+-----------------
+a A D E F G
+b C B J I H
+c K
+-----------------
+a A D E F G
+b C B J I
+c H
+-----------------
+a A D E F G
+b C B J
+c K
+-----------------
+a A D E F G
+b C B J H
+c K
+-----------------
+a A D E F G
+b C B J I
+c K
+-----------------
+a A D E F G
+b C B J I H
+c K
+-----------------
+a A D E F G
+b C B J
+c H
+-----------------
+a A D E F G
+b C B J
+c I
+-----------------
+a A D E F G
+b C B J K
+c I
+-----------------
+a A D E F G
+b C B J H
+c I
+-----------------
+a A D E F G
+b C B K
+c
+-----------------
+a A D E F G
+b C B K H
+c
+-----------------
+a A D E F G
+b C B K I
+c
+-----------------
+a A D E F G
+b C B K I J
+c
+-----------------
+a A D E F G
+b C B K I H
+c
+-----------------
+a A D E F G
+b C B K I
+c J
+-----------------
+a A D E F G
+b C B K I H
+c J
+-----------------
+a A D E F G
+b C B K I
+c H
+-----------------
+a A D E F G
+b C B K J
+c
+-----------------
+a A D E F G
+b C B K
+c H
+-----------------
+a A D E F G
+b C B K
+c I
+-----------------
+a A D E F G
+b C B K J
+c I
+-----------------
+a A D E F G
+b C B K H
+c I
+-----------------
+a A D E F G
+b C B K
+c J
+-----------------
+a A D E F G
+b C B K H
+c J
+-----------------
+a A D E F G
+b C B K I
+c J
+-----------------
+a A D E F G
+b C B K I H
+c J
+-----------------
+a A D E F G
+b C B
+c H
+-----------------
+a A D E F G
+b C B
+c I
+-----------------
+a A D E F G
+b C B J
+c I
+-----------------
+a A D E F G
+b C B J K
+c I
+-----------------
+a A D E F G
+b C B J H
+c I
+-----------------
+a A D E F G
+b C B K
+c I
+-----------------
+a A D E F G
+b C B K H
+c I
+-----------------
+a A D E F G
+b C B K J
+c I
+-----------------
+a A D E F G
+b C B H
+c I
+-----------------
+a A D E F G
+b C B
+c J
+-----------------
+a A D E F G
+b C B K
+c J
+-----------------
+a A D E F G
+b C B K H
+c J
+-----------------
+a A D E F G
+b C B K I
+c J
+-----------------
+a A D E F G
+b C B K I H
+c J
+-----------------
+a A D E F G
+b C B H
+c J
+-----------------
+a A D E F G
+b C B I
+c J
+-----------------
+a A D E F G
+b C B I K
+c J
+-----------------
+a A D E F G
+b C B I K H
+c J
+-----------------
+a A D E F G
+b C B I H
+c J
+-----------------
+a A D E F G
+b C B
+c K
+-----------------
+a A D E F G
+b C B H
+c K
+-----------------
+a A D E F G
+b C B I
+c K
+-----------------
+a A D E F G
+b C B I J
+c K
+-----------------
+a A D E F G
+b C B I J H
+c K
+-----------------
+a A D E F G
+b C B I H
+c K
+-----------------
+a A D E F G
+b C B J
+c K
+-----------------
+a A D E F G
+b C B J H
+c K
+-----------------
+a A D E F G
+b C B J I
+c K
+-----------------
+a A D E F G
+b C B J I H
+c K
+-----------------
+a A D E F G
+b C
+c H
+-----------------
+a A D E F G
+b C
+c I
+-----------------
+a A D E F G
+b C J
+c I
+-----------------
+a A D E F G
+b C J K
+c I
+-----------------
+a A D E F G
+b C J B
+c I
+-----------------
+a A D E F G
+b C J B H
+c I
+-----------------
+a A D E F G
+b C J B K
+c I
+-----------------
+a A D E F G
+b C J H
+c I
+-----------------
+a A D E F G
+b C K
+c I
+-----------------
+a A D E F G
+b C K B
+c I
+-----------------
+a A D E F G
+b C K B H
+c I
+-----------------
+a A D E F G
+b C K B J
+c I
+-----------------
+a A D E F G
+b C K H
+c I
+-----------------
+a A D E F G
+b C K J
+c I
+-----------------
+a A D E F G
+b C B
+c I
+-----------------
+a A D E F G
+b C B H
+c I
+-----------------
+a A D E F G
+b C B J
+c I
+-----------------
+a A D E F G
+b C B J K
+c I
+-----------------
+a A D E F G
+b C B J H
+c I
+-----------------
+a A D E F G
+b C B K
+c I
+-----------------
+a A D E F G
+b C B K H
+c I
+-----------------
+a A D E F G
+b C B K J
+c I
+-----------------
+a A D E F G
+b C H
+c I
+-----------------
+a A D E F G
+b C
+c J
+-----------------
+a A D E F G
+b C K
+c J
+-----------------
+a A D E F G
+b C K B
+c J
+-----------------
+a A D E F G
+b C K B H
+c J
+-----------------
+a A D E F G
+b C K B I
+c J
+-----------------
+a A D E F G
+b C K B I H
+c J
+-----------------
+a A D E F G
+b C K H
+c J
+-----------------
+a A D E F G
+b C K I
+c J
+-----------------
+a A D E F G
+b C K I B
+c J
+-----------------
+a A D E F G
+b C K I B H
+c J
+-----------------
+a A D E F G
+b C K I H
+c J
+-----------------
+a A D E F G
+b C B
+c J
+-----------------
+a A D E F G
+b C B H
+c J
+-----------------
+a A D E F G
+b C B I
+c J
+-----------------
+a A D E F G
+b C B I K
+c J
+-----------------
+a A D E F G
+b C B I K H
+c J
+-----------------
+a A D E F G
+b C B I H
+c J
+-----------------
+a A D E F G
+b C B K
+c J
+-----------------
+a A D E F G
+b C B K H
+c J
+-----------------
+a A D E F G
+b C B K I
+c J
+-----------------
+a A D E F G
+b C B K I H
+c J
+-----------------
+a A D E F G
+b C H
+c J
+-----------------
+a A D E F G
+b C I
+c J
+-----------------
+a A D E F G
+b C I K
+c J
+-----------------
+a A D E F G
+b C I K B
+c J
+-----------------
+a A D E F G
+b C I K B H
+c J
+-----------------
+a A D E F G
+b C I K H
+c J
+-----------------
+a A D E F G
+b C I B
+c J
+-----------------
+a A D E F G
+b C I B H
+c J
+-----------------
+a A D E F G
+b C I B K
+c J
+-----------------
+a A D E F G
+b C I B K H
+c J
+-----------------
+a A D E F G
+b C I H
+c J
+-----------------
+a A D E F G
+b C
+c K
+-----------------
+a A D E F G
+b C B
+c K
+-----------------
+a A D E F G
+b C B H
+c K
+-----------------
+a A D E F G
+b C B I
+c K
+-----------------
+a A D E F G
+b C B I J
+c K
+-----------------
+a A D E F G
+b C B I J H
+c K
+-----------------
+a A D E F G
+b C B I H
+c K
+-----------------
+a A D E F G
+b C B J
+c K
+-----------------
+a A D E F G
+b C B J H
+c K
+-----------------
+a A D E F G
+b C B J I
+c K
+-----------------
+a A D E F G
+b C B J I H
+c K
+-----------------
+a A D E F G
+b C H
+c K
+-----------------
+a A D E F G
+b C I
+c K
+-----------------
+a A D E F G
+b C I J
+c K
+-----------------
+a A D E F G
+b C I J B
+c K
+-----------------
+a A D E F G
+b C I J B H
+c K
+-----------------
+a A D E F G
+b C I J H
+c K
+-----------------
+a A D E F G
+b C I B
+c K
+-----------------
+a A D E F G
+b C I B H
+c K
+-----------------
+a A D E F G
+b C I B J
+c K
+-----------------
+a A D E F G
+b C I B J H
+c K
+-----------------
+a A D E F G
+b C I H
+c K
+-----------------
+a A D E F G
+b C J
+c K
+-----------------
+a A D E F G
+b C J B
+c K
+-----------------
+a A D E F G
+b C J B H
+c K
+-----------------
+a A D E F G
+b C J B I
+c K
+-----------------
+a A D E F G
+b C J B I H
+c K
+-----------------
+a A D E F G
+b C J H
+c K
+-----------------
+a A D E F G
+b C J I
+c K
+-----------------
+a A D E F G
+b C J I B
+c K
+-----------------
+a A D E F G
+b C J I B H
+c K
+-----------------
+a A D E F G
+b C J I H
+c K
+-----------------
+a A D E F G
+b C
+c B
+-----------------
+a A D E F G
+b
+c H
+-----------------
+a A D E F G
+b
+c I
+-----------------
+a A D E F G
+b J
+c I
+-----------------
+a A D E F G
+b J K
+c I
+-----------------
+a A D E F G
+b J B
+c I
+-----------------
+a A D E F G
+b J B C
+c I
+-----------------
+a A D E F G
+b J B C H
+c I
+-----------------
+a A D E F G
+b J B C K
+c I
+-----------------
+a A D E F G
+b J B H
+c I
+-----------------
+a A D E F G
+b J B K
+c I
+-----------------
+a A D E F G
+b J C
+c I
+-----------------
+a A D E F G
+b J C H
+c I
+-----------------
+a A D E F G
+b J C K
+c I
+-----------------
+a A D E F G
+b J C B
+c I
+-----------------
+a A D E F G
+b J C B H
+c I
+-----------------
+a A D E F G
+b J C B K
+c I
+-----------------
+a A D E F G
+b J H
+c I
+-----------------
+a A D E F G
+b K
+c I
+-----------------
+a A D E F G
+b K B
+c I
+-----------------
+a A D E F G
+b K B C
+c I
+-----------------
+a A D E F G
+b K B C H
+c I
+-----------------
+a A D E F G
+b K B C J
+c I
+-----------------
+a A D E F G
+b K B H
+c I
+-----------------
+a A D E F G
+b K B J
+c I
+-----------------
+a A D E F G
+b K C
+c I
+-----------------
+a A D E F G
+b K C H
+c I
+-----------------
+a A D E F G
+b K C J
+c I
+-----------------
+a A D E F G
+b K C B
+c I
+-----------------
+a A D E F G
+b K C B H
+c I
+-----------------
+a A D E F G
+b K C B J
+c I
+-----------------
+a A D E F G
+b K H
+c I
+-----------------
+a A D E F G
+b K J
+c I
+-----------------
+a A D E F G
+b B
+c I
+-----------------
+a A D E F G
+b B C
+c I
+-----------------
+a A D E F G
+b B C H
+c I
+-----------------
+a A D E F G
+b B C J
+c I
+-----------------
+a A D E F G
+b B C J K
+c I
+-----------------
+a A D E F G
+b B C J H
+c I
+-----------------
+a A D E F G
+b B C K
+c I
+-----------------
+a A D E F G
+b B C K H
+c I
+-----------------
+a A D E F G
+b B C K J
+c I
+-----------------
+a A D E F G
+b B H
+c I
+-----------------
+a A D E F G
+b B J
+c I
+-----------------
+a A D E F G
+b B J K
+c I
+-----------------
+a A D E F G
+b B J C
+c I
+-----------------
+a A D E F G
+b B J C H
+c I
+-----------------
+a A D E F G
+b B J C K
+c I
+-----------------
+a A D E F G
+b B J H
+c I
+-----------------
+a A D E F G
+b B K
+c I
+-----------------
+a A D E F G
+b B K C
+c I
+-----------------
+a A D E F G
+b B K C H
+c I
+-----------------
+a A D E F G
+b B K C J
+c I
+-----------------
+a A D E F G
+b B K H
+c I
+-----------------
+a A D E F G
+b B K J
+c I
+-----------------
+a A D E F G
+b C
+c I
+-----------------
+a A D E F G
+b C H
+c I
+-----------------
+a A D E F G
+b C J
+c I
+-----------------
+a A D E F G
+b C J K
+c I
+-----------------
+a A D E F G
+b C J B
+c I
+-----------------
+a A D E F G
+b C J B H
+c I
+-----------------
+a A D E F G
+b C J B K
+c I
+-----------------
+a A D E F G
+b C J H
+c I
+-----------------
+a A D E F G
+b C K
+c I
+-----------------
+a A D E F G
+b C K B
+c I
+-----------------
+a A D E F G
+b C K B H
+c I
+-----------------
+a A D E F G
+b C K B J
+c I
+-----------------
+a A D E F G
+b C K H
+c I
+-----------------
+a A D E F G
+b C K J
+c I
+-----------------
+a A D E F G
+b C B
+c I
+-----------------
+a A D E F G
+b C B H
+c I
+-----------------
+a A D E F G
+b C B J
+c I
+-----------------
+a A D E F G
+b C B J K
+c I
+-----------------
+a A D E F G
+b C B J H
+c I
+-----------------
+a A D E F G
+b C B K
+c I
+-----------------
+a A D E F G
+b C B K H
+c I
+-----------------
+a A D E F G
+b C B K J
+c I
+-----------------
+a A D E F G
+b H
+c I
+-----------------
+a A D E F G
+b
+c J
+-----------------
+a A D E F G
+b K
+c J
+-----------------
+a A D E F G
+b K B
+c J
+-----------------
+a A D E F G
+b K B C
+c J
+-----------------
+a A D E F G
+b K B C H
+c J
+-----------------
+a A D E F G
+b K B C I
+c J
+-----------------
+a A D E F G
+b K B C I H
+c J
+-----------------
+a A D E F G
+b K B H
+c J
+-----------------
+a A D E F G
+b K B I
+c J
+-----------------
+a A D E F G
+b K B I C
+c J
+-----------------
+a A D E F G
+b K B I C H
+c J
+-----------------
+a A D E F G
+b K B I H
+c J
+-----------------
+a A D E F G
+b K C
+c J
+-----------------
+a A D E F G
+b K C H
+c J
+-----------------
+a A D E F G
+b K C I
+c J
+-----------------
+a A D E F G
+b K C I B
+c J
+-----------------
+a A D E F G
+b K C I B H
+c J
+-----------------
+a A D E F G
+b K C I H
+c J
+-----------------
+a A D E F G
+b K C B
+c J
+-----------------
+a A D E F G
+b K C B H
+c J
+-----------------
+a A D E F G
+b K C B I
+c J
+-----------------
+a A D E F G
+b K C B I H
+c J
+-----------------
+a A D E F G
+b K H
+c J
+-----------------
+a A D E F G
+b K I
+c J
+-----------------
+a A D E F G
+b K I B
+c J
+-----------------
+a A D E F G
+b K I B C
+c J
+-----------------
+a A D E F G
+b K I B C H
+c J
+-----------------
+a A D E F G
+b K I B H
+c J
+-----------------
+a A D E F G
+b K I C
+c J
+-----------------
+a A D E F G
+b K I C H
+c J
+-----------------
+a A D E F G
+b K I C B
+c J
+-----------------
+a A D E F G
+b K I C B H
+c J
+-----------------
+a A D E F G
+b K I H
+c J
+-----------------
+a A D E F G
+b B
+c J
+-----------------
+a A D E F G
+b B C
+c J
+-----------------
+a A D E F G
+b B C H
+c J
+-----------------
+a A D E F G
+b B C I
+c J
+-----------------
+a A D E F G
+b B C I K
+c J
+-----------------
+a A D E F G
+b B C I K H
+c J
+-----------------
+a A D E F G
+b B C I H
+c J
+-----------------
+a A D E F G
+b B C K
+c J
+-----------------
+a A D E F G
+b B C K H
+c J
+-----------------
+a A D E F G
+b B C K I
+c J
+-----------------
+a A D E F G
+b B C K I H
+c J
+-----------------
+a A D E F G
+b B H
+c J
+-----------------
+a A D E F G
+b B I
+c J
+-----------------
+a A D E F G
+b B I K
+c J
+-----------------
+a A D E F G
+b B I K C
+c J
+-----------------
+a A D E F G
+b B I K C H
+c J
+-----------------
+a A D E F G
+b B I K H
+c J
+-----------------
+a A D E F G
+b B I C
+c J
+-----------------
+a A D E F G
+b B I C H
+c J
+-----------------
+a A D E F G
+b B I C K
+c J
+-----------------
+a A D E F G
+b B I C K H
+c J
+-----------------
+a A D E F G
+b B I H
+c J
+-----------------
+a A D E F G
+b B K
+c J
+-----------------
+a A D E F G
+b B K C
+c J
+-----------------
+a A D E F G
+b B K C H
+c J
+-----------------
+a A D E F G
+b B K C I
+c J
+-----------------
+a A D E F G
+b B K C I H
+c J
+-----------------
+a A D E F G
+b B K H
+c J
+-----------------
+a A D E F G
+b B K I
+c J
+-----------------
+a A D E F G
+b B K I C
+c J
+-----------------
+a A D E F G
+b B K I C H
+c J
+-----------------
+a A D E F G
+b B K I H
+c J
+-----------------
+a A D E F G
+b C
+c J
+-----------------
+a A D E F G
+b C H
+c J
+-----------------
+a A D E F G
+b C I
+c J
+-----------------
+a A D E F G
+b C I K
+c J
+-----------------
+a A D E F G
+b C I K B
+c J
+-----------------
+a A D E F G
+b C I K B H
+c J
+-----------------
+a A D E F G
+b C I K H
+c J
+-----------------
+a A D E F G
+b C I B
+c J
+-----------------
+a A D E F G
+b C I B H
+c J
+-----------------
+a A D E F G
+b C I B K
+c J
+-----------------
+a A D E F G
+b C I B K H
+c J
+-----------------
+a A D E F G
+b C I H
+c J
+-----------------
+a A D E F G
+b C K
+c J
+-----------------
+a A D E F G
+b C K B
+c J
+-----------------
+a A D E F G
+b C K B H
+c J
+-----------------
+a A D E F G
+b C K B I
+c J
+-----------------
+a A D E F G
+b C K B I H
+c J
+-----------------
+a A D E F G
+b C K H
+c J
+-----------------
+a A D E F G
+b C K I
+c J
+-----------------
+a A D E F G
+b C K I B
+c J
+-----------------
+a A D E F G
+b C K I B H
+c J
+-----------------
+a A D E F G
+b C K I H
+c J
+-----------------
+a A D E F G
+b C B
+c J
+-----------------
+a A D E F G
+b C B H
+c J
+-----------------
+a A D E F G
+b C B I
+c J
+-----------------
+a A D E F G
+b C B I K
+c J
+-----------------
+a A D E F G
+b C B I K H
+c J
+-----------------
+a A D E F G
+b C B I H
+c J
+-----------------
+a A D E F G
+b C B K
+c J
+-----------------
+a A D E F G
+b C B K H
+c J
+-----------------
+a A D E F G
+b C B K I
+c J
+-----------------
+a A D E F G
+b C B K I H
+c J
+-----------------
+a A D E F G
+b H
+c J
+-----------------
+a A D E F G
+b I
+c J
+-----------------
+a A D E F G
+b I K
+c J
+-----------------
+a A D E F G
+b I K B
+c J
+-----------------
+a A D E F G
+b I K B C
+c J
+-----------------
+a A D E F G
+b I K B C H
+c J
+-----------------
+a A D E F G
+b I K B H
+c J
+-----------------
+a A D E F G
+b I K C
+c J
+-----------------
+a A D E F G
+b I K C H
+c J
+-----------------
+a A D E F G
+b I K C B
+c J
+-----------------
+a A D E F G
+b I K C B H
+c J
+-----------------
+a A D E F G
+b I K H
+c J
+-----------------
+a A D E F G
+b I B
+c J
+-----------------
+a A D E F G
+b I B C
+c J
+-----------------
+a A D E F G
+b I B C H
+c J
+-----------------
+a A D E F G
+b I B C K
+c J
+-----------------
+a A D E F G
+b I B C K H
+c J
+-----------------
+a A D E F G
+b I B H
+c J
+-----------------
+a A D E F G
+b I B K
+c J
+-----------------
+a A D E F G
+b I B K C
+c J
+-----------------
+a A D E F G
+b I B K C H
+c J
+-----------------
+a A D E F G
+b I B K H
+c J
+-----------------
+a A D E F G
+b I C
+c J
+-----------------
+a A D E F G
+b I C H
+c J
+-----------------
+a A D E F G
+b I C K
+c J
+-----------------
+a A D E F G
+b I C K B
+c J
+-----------------
+a A D E F G
+b I C K B H
+c J
+-----------------
+a A D E F G
+b I C K H
+c J
+-----------------
+a A D E F G
+b I C B
+c J
+-----------------
+a A D E F G
+b I C B H
+c J
+-----------------
+a A D E F G
+b I C B K
+c J
+-----------------
+a A D E F G
+b I C B K H
+c J
+-----------------
+a A D E F G
+b I H
+c J
+-----------------
+a A D E F G
+b
+c K
+-----------------
+a A D E F G
+b B
+c K
+-----------------
+a A D E F G
+b B C
+c K
+-----------------
+a A D E F G
+b B C H
+c K
+-----------------
+a A D E F G
+b B C I
+c K
+-----------------
+a A D E F G
+b B C I J
+c K
+-----------------
+a A D E F G
+b B C I J H
+c K
+-----------------
+a A D E F G
+b B C I H
+c K
+-----------------
+a A D E F G
+b B C J
+c K
+-----------------
+a A D E F G
+b B C J H
+c K
+-----------------
+a A D E F G
+b B C J I
+c K
+-----------------
+a A D E F G
+b B C J I H
+c K
+-----------------
+a A D E F G
+b B H
+c K
+-----------------
+a A D E F G
+b B I
+c K
+-----------------
+a A D E F G
+b B I J
+c K
+-----------------
+a A D E F G
+b B I J C
+c K
+-----------------
+a A D E F G
+b B I J C H
+c K
+-----------------
+a A D E F G
+b B I J H
+c K
+-----------------
+a A D E F G
+b B I C
+c K
+-----------------
+a A D E F G
+b B I C H
+c K
+-----------------
+a A D E F G
+b B I C J
+c K
+-----------------
+a A D E F G
+b B I C J H
+c K
+-----------------
+a A D E F G
+b B I H
+c K
+-----------------
+a A D E F G
+b B J
+c K
+-----------------
+a A D E F G
+b B J C
+c K
+-----------------
+a A D E F G
+b B J C H
+c K
+-----------------
+a A D E F G
+b B J C I
+c K
+-----------------
+a A D E F G
+b B J C I H
+c K
+-----------------
+a A D E F G
+b B J H
+c K
+-----------------
+a A D E F G
+b B J I
+c K
+-----------------
+a A D E F G
+b B J I C
+c K
+-----------------
+a A D E F G
+b B J I C H
+c K
+-----------------
+a A D E F G
+b B J I H
+c K
+-----------------
+a A D E F G
+b C
+c K
+-----------------
+a A D E F G
+b C H
+c K
+-----------------
+a A D E F G
+b C I
+c K
+-----------------
+a A D E F G
+b C I J
+c K
+-----------------
+a A D E F G
+b C I J B
+c K
+-----------------
+a A D E F G
+b C I J B H
+c K
+-----------------
+a A D E F G
+b C I J H
+c K
+-----------------
+a A D E F G
+b C I B
+c K
+-----------------
+a A D E F G
+b C I B H
+c K
+-----------------
+a A D E F G
+b C I B J
+c K
+-----------------
+a A D E F G
+b C I B J H
+c K
+-----------------
+a A D E F G
+b C I H
+c K
+-----------------
+a A D E F G
+b C J
+c K
+-----------------
+a A D E F G
+b C J B
+c K
+-----------------
+a A D E F G
+b C J B H
+c K
+-----------------
+a A D E F G
+b C J B I
+c K
+-----------------
+a A D E F G
+b C J B I H
+c K
+-----------------
+a A D E F G
+b C J H
+c K
+-----------------
+a A D E F G
+b C J I
+c K
+-----------------
+a A D E F G
+b C J I B
+c K
+-----------------
+a A D E F G
+b C J I B H
+c K
+-----------------
+a A D E F G
+b C J I H
+c K
+-----------------
+a A D E F G
+b C B
+c K
+-----------------
+a A D E F G
+b C B H
+c K
+-----------------
+a A D E F G
+b C B I
+c K
+-----------------
+a A D E F G
+b C B I J
+c K
+-----------------
+a A D E F G
+b C B I J H
+c K
+-----------------
+a A D E F G
+b C B I H
+c K
+-----------------
+a A D E F G
+b C B J
+c K
+-----------------
+a A D E F G
+b C B J H
+c K
+-----------------
+a A D E F G
+b C B J I
+c K
+-----------------
+a A D E F G
+b C B J I H
+c K
+-----------------
+a A D E F G
+b H
+c K
+-----------------
+a A D E F G
+b I
+c K
+-----------------
+a A D E F G
+b I J
+c K
+-----------------
+a A D E F G
+b I J B
+c K
+-----------------
+a A D E F G
+b I J B C
+c K
+-----------------
+a A D E F G
+b I J B C H
+c K
+-----------------
+a A D E F G
+b I J B H
+c K
+-----------------
+a A D E F G
+b I J C
+c K
+-----------------
+a A D E F G
+b I J C H
+c K
+-----------------
+a A D E F G
+b I J C B
+c K
+-----------------
+a A D E F G
+b I J C B H
+c K
+-----------------
+a A D E F G
+b I J H
+c K
+-----------------
+a A D E F G
+b I B
+c K
+-----------------
+a A D E F G
+b I B C
+c K
+-----------------
+a A D E F G
+b I B C H
+c K
+-----------------
+a A D E F G
+b I B C J
+c K
+-----------------
+a A D E F G
+b I B C J H
+c K
+-----------------
+a A D E F G
+b I B H
+c K
+-----------------
+a A D E F G
+b I B J
+c K
+-----------------
+a A D E F G
+b I B J C
+c K
+-----------------
+a A D E F G
+b I B J C H
+c K
+-----------------
+a A D E F G
+b I B J H
+c K
+-----------------
+a A D E F G
+b I C
+c K
+-----------------
+a A D E F G
+b I C H
+c K
+-----------------
+a A D E F G
+b I C J
+c K
+-----------------
+a A D E F G
+b I C J B
+c K
+-----------------
+a A D E F G
+b I C J B H
+c K
+-----------------
+a A D E F G
+b I C J H
+c K
+-----------------
+a A D E F G
+b I C B
+c K
+-----------------
+a A D E F G
+b I C B H
+c K
+-----------------
+a A D E F G
+b I C B J
+c K
+-----------------
+a A D E F G
+b I C B J H
+c K
+-----------------
+a A D E F G
+b I H
+c K
+-----------------
+a A D E F G
+b J
+c K
+-----------------
+a A D E F G
+b J B
+c K
+-----------------
+a A D E F G
+b J B C
+c K
+-----------------
+a A D E F G
+b J B C H
+c K
+-----------------
+a A D E F G
+b J B C I
+c K
+-----------------
+a A D E F G
+b J B C I H
+c K
+-----------------
+a A D E F G
+b J B H
+c K
+-----------------
+a A D E F G
+b J B I
+c K
+-----------------
+a A D E F G
+b J B I C
+c K
+-----------------
+a A D E F G
+b J B I C H
+c K
+-----------------
+a A D E F G
+b J B I H
+c K
+-----------------
+a A D E F G
+b J C
+c K
+-----------------
+a A D E F G
+b J C H
+c K
+-----------------
+a A D E F G
+b J C I
+c K
+-----------------
+a A D E F G
+b J C I B
+c K
+-----------------
+a A D E F G
+b J C I B H
+c K
+-----------------
+a A D E F G
+b J C I H
+c K
+-----------------
+a A D E F G
+b J C B
+c K
+-----------------
+a A D E F G
+b J C B H
+c K
+-----------------
+a A D E F G
+b J C B I
+c K
+-----------------
+a A D E F G
+b J C B I H
+c K
+-----------------
+a A D E F G
+b J H
+c K
+-----------------
+a A D E F G
+b J I
+c K
+-----------------
+a A D E F G
+b J I B
+c K
+-----------------
+a A D E F G
+b J I B C
+c K
+-----------------
+a A D E F G
+b J I B C H
+c K
+-----------------
+a A D E F G
+b J I B H
+c K
+-----------------
+a A D E F G
+b J I C
+c K
+-----------------
+a A D E F G
+b J I C H
+c K
+-----------------
+a A D E F G
+b J I C B
+c K
+-----------------
+a A D E F G
+b J I C B H
+c K
+-----------------
+a A D E F G
+b J I H
+c K
+-----------------
+a A D E F G
+b
+c B
+-----------------
+a A D E F G
+b
+c C
+-----------------
+a A D E F H
+b
+c
+-----------------
+a A D E F H
+b I
+c
+-----------------
+a A D E F H
+b I J
+c
+-----------------
+a A D E F H
+b I J K
+c
+-----------------
+a A D E F H
+b I J B
+c
+-----------------
+a A D E F H
+b I J B C
+c
+-----------------
+a A D E F H
+b I J B C G
+c
+-----------------
+a A D E F H
+b I J B C K
+c
+-----------------
+a A D E F H
+b I J B C
+c G
+-----------------
+a A D E F H
+b I J B C
+c K
+-----------------
+a A D E F H
+b I J B C G
+c K
+-----------------
+a A D E F H
+b I J B G
+c
+-----------------
+a A D E F H
+b I J B K
+c
+-----------------
+a A D E F H
+b I J B
+c C
+-----------------
+a A D E F H
+b I J B
+c G
+-----------------
+a A D E F H
+b I J B
+c K
+-----------------
+a A D E F H
+b I J B C
+c K
+-----------------
+a A D E F H
+b I J B C G
+c K
+-----------------
+a A D E F H
+b I J B G
+c K
+-----------------
+a A D E F H
+b I J C
+c
+-----------------
+a A D E F H
+b I J C G
+c
+-----------------
+a A D E F H
+b I J C K
+c
+-----------------
+a A D E F H
+b I J C B
+c
+-----------------
+a A D E F H
+b I J C B G
+c
+-----------------
+a A D E F H
+b I J C B K
+c
+-----------------
+a A D E F H
+b I J C B
+c G
+-----------------
+a A D E F H
+b I J C B
+c K
+-----------------
+a A D E F H
+b I J C B G
+c K
+-----------------
+a A D E F H
+b I J C
+c G
+-----------------
+a A D E F H
+b I J C
+c K
+-----------------
+a A D E F H
+b I J C B
+c K
+-----------------
+a A D E F H
+b I J C B G
+c K
+-----------------
+a A D E F H
+b I J C G
+c K
+-----------------
+a A D E F H
+b I J C
+c B
+-----------------
+a A D E F H
+b I J G
+c
+-----------------
+a A D E F H
+b I J
+c K
+-----------------
+a A D E F H
+b I J B
+c K
+-----------------
+a A D E F H
+b I J B C
+c K
+-----------------
+a A D E F H
+b I J B C G
+c K
+-----------------
+a A D E F H
+b I J B G
+c K
+-----------------
+a A D E F H
+b I J C
+c K
+-----------------
+a A D E F H
+b I J C G
+c K
+-----------------
+a A D E F H
+b I J C B
+c K
+-----------------
+a A D E F H
+b I J C B G
+c K
+-----------------
+a A D E F H
+b I J G
+c K
+-----------------
+a A D E F H
+b I J
+c B
+-----------------
+a A D E F H
+b I J
+c C
+-----------------
+a A D E F H
+b I J
+c G
+-----------------
+a A D E F H
+b I K
+c
+-----------------
+a A D E F H
+b I K B
+c
+-----------------
+a A D E F H
+b I K B C
+c
+-----------------
+a A D E F H
+b I K B C G
+c
+-----------------
+a A D E F H
+b I K B C J
+c
+-----------------
+a A D E F H
+b I K B C
+c G
+-----------------
+a A D E F H
+b I K B C
+c J
+-----------------
+a A D E F H
+b I K B C G
+c J
+-----------------
+a A D E F H
+b I K B G
+c
+-----------------
+a A D E F H
+b I K B J
+c
+-----------------
+a A D E F H
+b I K B
+c C
+-----------------
+a A D E F H
+b I K B
+c G
+-----------------
+a A D E F H
+b I K B
+c J
+-----------------
+a A D E F H
+b I K B C
+c J
+-----------------
+a A D E F H
+b I K B C G
+c J
+-----------------
+a A D E F H
+b I K B G
+c J
+-----------------
+a A D E F H
+b I K C
+c
+-----------------
+a A D E F H
+b I K C G
+c
+-----------------
+a A D E F H
+b I K C J
+c
+-----------------
+a A D E F H
+b I K C B
+c
+-----------------
+a A D E F H
+b I K C B G
+c
+-----------------
+a A D E F H
+b I K C B J
+c
+-----------------
+a A D E F H
+b I K C B
+c G
+-----------------
+a A D E F H
+b I K C B
+c J
+-----------------
+a A D E F H
+b I K C B G
+c J
+-----------------
+a A D E F H
+b I K C
+c G
+-----------------
+a A D E F H
+b I K C
+c J
+-----------------
+a A D E F H
+b I K C B
+c J
+-----------------
+a A D E F H
+b I K C B G
+c J
+-----------------
+a A D E F H
+b I K C G
+c J
+-----------------
+a A D E F H
+b I K C
+c B
+-----------------
+a A D E F H
+b I K G
+c
+-----------------
+a A D E F H
+b I K J
+c
+-----------------
+a A D E F H
+b I K
+c B
+-----------------
+a A D E F H
+b I K
+c C
+-----------------
+a A D E F H
+b I K
+c G
+-----------------
+a A D E F H
+b I K
+c J
+-----------------
+a A D E F H
+b I K B
+c J
+-----------------
+a A D E F H
+b I K B C
+c J
+-----------------
+a A D E F H
+b I K B C G
+c J
+-----------------
+a A D E F H
+b I K B G
+c J
+-----------------
+a A D E F H
+b I K C
+c J
+-----------------
+a A D E F H
+b I K C G
+c J
+-----------------
+a A D E F H
+b I K C B
+c J
+-----------------
+a A D E F H
+b I K C B G
+c J
+-----------------
+a A D E F H
+b I K G
+c J
+-----------------
+a A D E F H
+b I B
+c
+-----------------
+a A D E F H
+b I B C
+c
+-----------------
+a A D E F H
+b I B C G
+c
+-----------------
+a A D E F H
+b I B C J
+c
+-----------------
+a A D E F H
+b I B C J K
+c
+-----------------
+a A D E F H
+b I B C J G
+c
+-----------------
+a A D E F H
+b I B C J
+c K
+-----------------
+a A D E F H
+b I B C J G
+c K
+-----------------
+a A D E F H
+b I B C J
+c G
+-----------------
+a A D E F H
+b I B C K
+c
+-----------------
+a A D E F H
+b I B C K G
+c
+-----------------
+a A D E F H
+b I B C K J
+c
+-----------------
+a A D E F H
+b I B C K
+c G
+-----------------
+a A D E F H
+b I B C K
+c J
+-----------------
+a A D E F H
+b I B C K G
+c J
+-----------------
+a A D E F H
+b I B C
+c G
+-----------------
+a A D E F H
+b I B C
+c J
+-----------------
+a A D E F H
+b I B C K
+c J
+-----------------
+a A D E F H
+b I B C K G
+c J
+-----------------
+a A D E F H
+b I B C G
+c J
+-----------------
+a A D E F H
+b I B C
+c K
+-----------------
+a A D E F H
+b I B C G
+c K
+-----------------
+a A D E F H
+b I B C J
+c K
+-----------------
+a A D E F H
+b I B C J G
+c K
+-----------------
+a A D E F H
+b I B G
+c
+-----------------
+a A D E F H
+b I B J
+c
+-----------------
+a A D E F H
+b I B J K
+c
+-----------------
+a A D E F H
+b I B J C
+c
+-----------------
+a A D E F H
+b I B J C G
+c
+-----------------
+a A D E F H
+b I B J C K
+c
+-----------------
+a A D E F H
+b I B J C
+c G
+-----------------
+a A D E F H
+b I B J C
+c K
+-----------------
+a A D E F H
+b I B J C G
+c K
+-----------------
+a A D E F H
+b I B J G
+c
+-----------------
+a A D E F H
+b I B J
+c K
+-----------------
+a A D E F H
+b I B J C
+c K
+-----------------
+a A D E F H
+b I B J C G
+c K
+-----------------
+a A D E F H
+b I B J G
+c K
+-----------------
+a A D E F H
+b I B J
+c C
+-----------------
+a A D E F H
+b I B J
+c G
+-----------------
+a A D E F H
+b I B K
+c
+-----------------
+a A D E F H
+b I B K C
+c
+-----------------
+a A D E F H
+b I B K C G
+c
+-----------------
+a A D E F H
+b I B K C J
+c
+-----------------
+a A D E F H
+b I B K C
+c G
+-----------------
+a A D E F H
+b I B K C
+c J
+-----------------
+a A D E F H
+b I B K C G
+c J
+-----------------
+a A D E F H
+b I B K G
+c
+-----------------
+a A D E F H
+b I B K J
+c
+-----------------
+a A D E F H
+b I B K
+c C
+-----------------
+a A D E F H
+b I B K
+c G
+-----------------
+a A D E F H
+b I B K
+c J
+-----------------
+a A D E F H
+b I B K C
+c J
+-----------------
+a A D E F H
+b I B K C G
+c J
+-----------------
+a A D E F H
+b I B K G
+c J
+-----------------
+a A D E F H
+b I B
+c C
+-----------------
+a A D E F H
+b I B
+c G
+-----------------
+a A D E F H
+b I B
+c J
+-----------------
+a A D E F H
+b I B K
+c J
+-----------------
+a A D E F H
+b I B K C
+c J
+-----------------
+a A D E F H
+b I B K C G
+c J
+-----------------
+a A D E F H
+b I B K G
+c J
+-----------------
+a A D E F H
+b I B C
+c J
+-----------------
+a A D E F H
+b I B C G
+c J
+-----------------
+a A D E F H
+b I B C K
+c J
+-----------------
+a A D E F H
+b I B C K G
+c J
+-----------------
+a A D E F H
+b I B G
+c J
+-----------------
+a A D E F H
+b I B
+c K
+-----------------
+a A D E F H
+b I B C
+c K
+-----------------
+a A D E F H
+b I B C G
+c K
+-----------------
+a A D E F H
+b I B C J
+c K
+-----------------
+a A D E F H
+b I B C J G
+c K
+-----------------
+a A D E F H
+b I B G
+c K
+-----------------
+a A D E F H
+b I B J
+c K
+-----------------
+a A D E F H
+b I B J C
+c K
+-----------------
+a A D E F H
+b I B J C G
+c K
+-----------------
+a A D E F H
+b I B J G
+c K
+-----------------
+a A D E F H
+b I C
+c
+-----------------
+a A D E F H
+b I C G
+c
+-----------------
+a A D E F H
+b I C J
+c
+-----------------
+a A D E F H
+b I C J K
+c
+-----------------
+a A D E F H
+b I C J B
+c
+-----------------
+a A D E F H
+b I C J B G
+c
+-----------------
+a A D E F H
+b I C J B K
+c
+-----------------
+a A D E F H
+b I C J B
+c G
+-----------------
+a A D E F H
+b I C J B
+c K
+-----------------
+a A D E F H
+b I C J B G
+c K
+-----------------
+a A D E F H
+b I C J G
+c
+-----------------
+a A D E F H
+b I C J
+c K
+-----------------
+a A D E F H
+b I C J B
+c K
+-----------------
+a A D E F H
+b I C J B G
+c K
+-----------------
+a A D E F H
+b I C J G
+c K
+-----------------
+a A D E F H
+b I C J
+c B
+-----------------
+a A D E F H
+b I C J
+c G
+-----------------
+a A D E F H
+b I C K
+c
+-----------------
+a A D E F H
+b I C K B
+c
+-----------------
+a A D E F H
+b I C K B G
+c
+-----------------
+a A D E F H
+b I C K B J
+c
+-----------------
+a A D E F H
+b I C K B
+c G
+-----------------
+a A D E F H
+b I C K B
+c J
+-----------------
+a A D E F H
+b I C K B G
+c J
+-----------------
+a A D E F H
+b I C K G
+c
+-----------------
+a A D E F H
+b I C K J
+c
+-----------------
+a A D E F H
+b I C K
+c B
+-----------------
+a A D E F H
+b I C K
+c G
+-----------------
+a A D E F H
+b I C K
+c J
+-----------------
+a A D E F H
+b I C K B
+c J
+-----------------
+a A D E F H
+b I C K B G
+c J
+-----------------
+a A D E F H
+b I C K G
+c J
+-----------------
+a A D E F H
+b I C B
+c
+-----------------
+a A D E F H
+b I C B G
+c
+-----------------
+a A D E F H
+b I C B J
+c
+-----------------
+a A D E F H
+b I C B J K
+c
+-----------------
+a A D E F H
+b I C B J G
+c
+-----------------
+a A D E F H
+b I C B J
+c K
+-----------------
+a A D E F H
+b I C B J G
+c K
+-----------------
+a A D E F H
+b I C B J
+c G
+-----------------
+a A D E F H
+b I C B K
+c
+-----------------
+a A D E F H
+b I C B K G
+c
+-----------------
+a A D E F H
+b I C B K J
+c
+-----------------
+a A D E F H
+b I C B K
+c G
+-----------------
+a A D E F H
+b I C B K
+c J
+-----------------
+a A D E F H
+b I C B K G
+c J
+-----------------
+a A D E F H
+b I C B
+c G
+-----------------
+a A D E F H
+b I C B
+c J
+-----------------
+a A D E F H
+b I C B K
+c J
+-----------------
+a A D E F H
+b I C B K G
+c J
+-----------------
+a A D E F H
+b I C B G
+c J
+-----------------
+a A D E F H
+b I C B
+c K
+-----------------
+a A D E F H
+b I C B G
+c K
+-----------------
+a A D E F H
+b I C B J
+c K
+-----------------
+a A D E F H
+b I C B J G
+c K
+-----------------
+a A D E F H
+b I C
+c G
+-----------------
+a A D E F H
+b I C
+c J
+-----------------
+a A D E F H
+b I C K
+c J
+-----------------
+a A D E F H
+b I C K B
+c J
+-----------------
+a A D E F H
+b I C K B G
+c J
+-----------------
+a A D E F H
+b I C K G
+c J
+-----------------
+a A D E F H
+b I C B
+c J
+-----------------
+a A D E F H
+b I C B G
+c J
+-----------------
+a A D E F H
+b I C B K
+c J
+-----------------
+a A D E F H
+b I C B K G
+c J
+-----------------
+a A D E F H
+b I C G
+c J
+-----------------
+a A D E F H
+b I C
+c K
+-----------------
+a A D E F H
+b I C B
+c K
+-----------------
+a A D E F H
+b I C B G
+c K
+-----------------
+a A D E F H
+b I C B J
+c K
+-----------------
+a A D E F H
+b I C B J G
+c K
+-----------------
+a A D E F H
+b I C G
+c K
+-----------------
+a A D E F H
+b I C J
+c K
+-----------------
+a A D E F H
+b I C J B
+c K
+-----------------
+a A D E F H
+b I C J B G
+c K
+-----------------
+a A D E F H
+b I C J G
+c K
+-----------------
+a A D E F H
+b I C
+c B
+-----------------
+a A D E F H
+b I G
+c
+-----------------
+a A D E F H
+b I
+c J
+-----------------
+a A D E F H
+b I K
+c J
+-----------------
+a A D E F H
+b I K B
+c J
+-----------------
+a A D E F H
+b I K B C
+c J
+-----------------
+a A D E F H
+b I K B C G
+c J
+-----------------
+a A D E F H
+b I K B G
+c J
+-----------------
+a A D E F H
+b I K C
+c J
+-----------------
+a A D E F H
+b I K C G
+c J
+-----------------
+a A D E F H
+b I K C B
+c J
+-----------------
+a A D E F H
+b I K C B G
+c J
+-----------------
+a A D E F H
+b I K G
+c J
+-----------------
+a A D E F H
+b I B
+c J
+-----------------
+a A D E F H
+b I B C
+c J
+-----------------
+a A D E F H
+b I B C G
+c J
+-----------------
+a A D E F H
+b I B C K
+c J
+-----------------
+a A D E F H
+b I B C K G
+c J
+-----------------
+a A D E F H
+b I B G
+c J
+-----------------
+a A D E F H
+b I B K
+c J
+-----------------
+a A D E F H
+b I B K C
+c J
+-----------------
+a A D E F H
+b I B K C G
+c J
+-----------------
+a A D E F H
+b I B K G
+c J
+-----------------
+a A D E F H
+b I C
+c J
+-----------------
+a A D E F H
+b I C G
+c J
+-----------------
+a A D E F H
+b I C K
+c J
+-----------------
+a A D E F H
+b I C K B
+c J
+-----------------
+a A D E F H
+b I C K B G
+c J
+-----------------
+a A D E F H
+b I C K G
+c J
+-----------------
+a A D E F H
+b I C B
+c J
+-----------------
+a A D E F H
+b I C B G
+c J
+-----------------
+a A D E F H
+b I C B K
+c J
+-----------------
+a A D E F H
+b I C B K G
+c J
+-----------------
+a A D E F H
+b I G
+c J
+-----------------
+a A D E F H
+b I
+c K
+-----------------
+a A D E F H
+b I B
+c K
+-----------------
+a A D E F H
+b I B C
+c K
+-----------------
+a A D E F H
+b I B C G
+c K
+-----------------
+a A D E F H
+b I B C J
+c K
+-----------------
+a A D E F H
+b I B C J G
+c K
+-----------------
+a A D E F H
+b I B G
+c K
+-----------------
+a A D E F H
+b I B J
+c K
+-----------------
+a A D E F H
+b I B J C
+c K
+-----------------
+a A D E F H
+b I B J C G
+c K
+-----------------
+a A D E F H
+b I B J G
+c K
+-----------------
+a A D E F H
+b I C
+c K
+-----------------
+a A D E F H
+b I C G
+c K
+-----------------
+a A D E F H
+b I C J
+c K
+-----------------
+a A D E F H
+b I C J B
+c K
+-----------------
+a A D E F H
+b I C J B G
+c K
+-----------------
+a A D E F H
+b I C J G
+c K
+-----------------
+a A D E F H
+b I C B
+c K
+-----------------
+a A D E F H
+b I C B G
+c K
+-----------------
+a A D E F H
+b I C B J
+c K
+-----------------
+a A D E F H
+b I C B J G
+c K
+-----------------
+a A D E F H
+b I G
+c K
+-----------------
+a A D E F H
+b I J
+c K
+-----------------
+a A D E F H
+b I J B
+c K
+-----------------
+a A D E F H
+b I J B C
+c K
+-----------------
+a A D E F H
+b I J B C G
+c K
+-----------------
+a A D E F H
+b I J B G
+c K
+-----------------
+a A D E F H
+b I J C
+c K
+-----------------
+a A D E F H
+b I J C G
+c K
+-----------------
+a A D E F H
+b I J C B
+c K
+-----------------
+a A D E F H
+b I J C B G
+c K
+-----------------
+a A D E F H
+b I J G
+c K
+-----------------
+a A D E F H
+b I
+c B
+-----------------
+a A D E F H
+b I
+c C
+-----------------
+a A D E F H
+b I
+c G
+-----------------
+a A D E F H
+b J
+c
+-----------------
+a A D E F H
+b J K
+c
+-----------------
+a A D E F H
+b J B
+c
+-----------------
+a A D E F H
+b J B C
+c
+-----------------
+a A D E F H
+b J B C G
+c
+-----------------
+a A D E F H
+b J B C I
+c
+-----------------
+a A D E F H
+b J B C I K
+c
+-----------------
+a A D E F H
+b J B C I G
+c
+-----------------
+a A D E F H
+b J B C I
+c K
+-----------------
+a A D E F H
+b J B C I G
+c K
+-----------------
+a A D E F H
+b J B C I
+c G
+-----------------
+a A D E F H
+b J B C K
+c
+-----------------
+a A D E F H
+b J B C
+c G
+-----------------
+a A D E F H
+b J B C
+c I
+-----------------
+a A D E F H
+b J B C K
+c I
+-----------------
+a A D E F H
+b J B C G
+c I
+-----------------
+a A D E F H
+b J B C
+c K
+-----------------
+a A D E F H
+b J B C G
+c K
+-----------------
+a A D E F H
+b J B C I
+c K
+-----------------
+a A D E F H
+b J B C I G
+c K
+-----------------
+a A D E F H
+b J B G
+c
+-----------------
+a A D E F H
+b J B I
+c
+-----------------
+a A D E F H
+b J B I K
+c
+-----------------
+a A D E F H
+b J B I C
+c
+-----------------
+a A D E F H
+b J B I C G
+c
+-----------------
+a A D E F H
+b J B I C K
+c
+-----------------
+a A D E F H
+b J B I C
+c G
+-----------------
+a A D E F H
+b J B I C
+c K
+-----------------
+a A D E F H
+b J B I C G
+c K
+-----------------
+a A D E F H
+b J B I G
+c
+-----------------
+a A D E F H
+b J B I
+c K
+-----------------
+a A D E F H
+b J B I C
+c K
+-----------------
+a A D E F H
+b J B I C G
+c K
+-----------------
+a A D E F H
+b J B I G
+c K
+-----------------
+a A D E F H
+b J B I
+c C
+-----------------
+a A D E F H
+b J B I
+c G
+-----------------
+a A D E F H
+b J B K
+c
+-----------------
+a A D E F H
+b J B
+c C
+-----------------
+a A D E F H
+b J B
+c G
+-----------------
+a A D E F H
+b J B
+c I
+-----------------
+a A D E F H
+b J B K
+c I
+-----------------
+a A D E F H
+b J B C
+c I
+-----------------
+a A D E F H
+b J B C G
+c I
+-----------------
+a A D E F H
+b J B C K
+c I
+-----------------
+a A D E F H
+b J B G
+c I
+-----------------
+a A D E F H
+b J B
+c K
+-----------------
+a A D E F H
+b J B C
+c K
+-----------------
+a A D E F H
+b J B C G
+c K
+-----------------
+a A D E F H
+b J B C I
+c K
+-----------------
+a A D E F H
+b J B C I G
+c K
+-----------------
+a A D E F H
+b J B G
+c K
+-----------------
+a A D E F H
+b J B I
+c K
+-----------------
+a A D E F H
+b J B I C
+c K
+-----------------
+a A D E F H
+b J B I C G
+c K
+-----------------
+a A D E F H
+b J B I G
+c K
+-----------------
+a A D E F H
+b J C
+c
+-----------------
+a A D E F H
+b J C G
+c
+-----------------
+a A D E F H
+b J C I
+c
+-----------------
+a A D E F H
+b J C I K
+c
+-----------------
+a A D E F H
+b J C I B
+c
+-----------------
+a A D E F H
+b J C I B G
+c
+-----------------
+a A D E F H
+b J C I B K
+c
+-----------------
+a A D E F H
+b J C I B
+c G
+-----------------
+a A D E F H
+b J C I B
+c K
+-----------------
+a A D E F H
+b J C I B G
+c K
+-----------------
+a A D E F H
+b J C I G
+c
+-----------------
+a A D E F H
+b J C I
+c K
+-----------------
+a A D E F H
+b J C I B
+c K
+-----------------
+a A D E F H
+b J C I B G
+c K
+-----------------
+a A D E F H
+b J C I G
+c K
+-----------------
+a A D E F H
+b J C I
+c B
+-----------------
+a A D E F H
+b J C I
+c G
+-----------------
+a A D E F H
+b J C K
+c
+-----------------
+a A D E F H
+b J C B
+c
+-----------------
+a A D E F H
+b J C B G
+c
+-----------------
+a A D E F H
+b J C B I
+c
+-----------------
+a A D E F H
+b J C B I K
+c
+-----------------
+a A D E F H
+b J C B I G
+c
+-----------------
+a A D E F H
+b J C B I
+c K
+-----------------
+a A D E F H
+b J C B I G
+c K
+-----------------
+a A D E F H
+b J C B I
+c G
+-----------------
+a A D E F H
+b J C B K
+c
+-----------------
+a A D E F H
+b J C B
+c G
+-----------------
+a A D E F H
+b J C B
+c I
+-----------------
+a A D E F H
+b J C B K
+c I
+-----------------
+a A D E F H
+b J C B G
+c I
+-----------------
+a A D E F H
+b J C B
+c K
+-----------------
+a A D E F H
+b J C B G
+c K
+-----------------
+a A D E F H
+b J C B I
+c K
+-----------------
+a A D E F H
+b J C B I G
+c K
+-----------------
+a A D E F H
+b J C
+c G
+-----------------
+a A D E F H
+b J C
+c I
+-----------------
+a A D E F H
+b J C K
+c I
+-----------------
+a A D E F H
+b J C B
+c I
+-----------------
+a A D E F H
+b J C B G
+c I
+-----------------
+a A D E F H
+b J C B K
+c I
+-----------------
+a A D E F H
+b J C G
+c I
+-----------------
+a A D E F H
+b J C
+c K
+-----------------
+a A D E F H
+b J C B
+c K
+-----------------
+a A D E F H
+b J C B G
+c K
+-----------------
+a A D E F H
+b J C B I
+c K
+-----------------
+a A D E F H
+b J C B I G
+c K
+-----------------
+a A D E F H
+b J C G
+c K
+-----------------
+a A D E F H
+b J C I
+c K
+-----------------
+a A D E F H
+b J C I B
+c K
+-----------------
+a A D E F H
+b J C I B G
+c K
+-----------------
+a A D E F H
+b J C I G
+c K
+-----------------
+a A D E F H
+b J C
+c B
+-----------------
+a A D E F H
+b J G
+c
+-----------------
+a A D E F H
+b J I
+c
+-----------------
+a A D E F H
+b J I K
+c
+-----------------
+a A D E F H
+b J I B
+c
+-----------------
+a A D E F H
+b J I B C
+c
+-----------------
+a A D E F H
+b J I B C G
+c
+-----------------
+a A D E F H
+b J I B C K
+c
+-----------------
+a A D E F H
+b J I B C
+c G
+-----------------
+a A D E F H
+b J I B C
+c K
+-----------------
+a A D E F H
+b J I B C G
+c K
+-----------------
+a A D E F H
+b J I B G
+c
+-----------------
+a A D E F H
+b J I B K
+c
+-----------------
+a A D E F H
+b J I B
+c C
+-----------------
+a A D E F H
+b J I B
+c G
+-----------------
+a A D E F H
+b J I B
+c K
+-----------------
+a A D E F H
+b J I B C
+c K
+-----------------
+a A D E F H
+b J I B C G
+c K
+-----------------
+a A D E F H
+b J I B G
+c K
+-----------------
+a A D E F H
+b J I C
+c
+-----------------
+a A D E F H
+b J I C G
+c
+-----------------
+a A D E F H
+b J I C K
+c
+-----------------
+a A D E F H
+b J I C B
+c
+-----------------
+a A D E F H
+b J I C B G
+c
+-----------------
+a A D E F H
+b J I C B K
+c
+-----------------
+a A D E F H
+b J I C B
+c G
+-----------------
+a A D E F H
+b J I C B
+c K
+-----------------
+a A D E F H
+b J I C B G
+c K
+-----------------
+a A D E F H
+b J I C
+c G
+-----------------
+a A D E F H
+b J I C
+c K
+-----------------
+a A D E F H
+b J I C B
+c K
+-----------------
+a A D E F H
+b J I C B G
+c K
+-----------------
+a A D E F H
+b J I C G
+c K
+-----------------
+a A D E F H
+b J I C
+c B
+-----------------
+a A D E F H
+b J I G
+c
+-----------------
+a A D E F H
+b J I
+c K
+-----------------
+a A D E F H
+b J I B
+c K
+-----------------
+a A D E F H
+b J I B C
+c K
+-----------------
+a A D E F H
+b J I B C G
+c K
+-----------------
+a A D E F H
+b J I B G
+c K
+-----------------
+a A D E F H
+b J I C
+c K
+-----------------
+a A D E F H
+b J I C G
+c K
+-----------------
+a A D E F H
+b J I C B
+c K
+-----------------
+a A D E F H
+b J I C B G
+c K
+-----------------
+a A D E F H
+b J I G
+c K
+-----------------
+a A D E F H
+b J I
+c B
+-----------------
+a A D E F H
+b J I
+c C
+-----------------
+a A D E F H
+b J I
+c G
+-----------------
+a A D E F H
+b J
+c K
+-----------------
+a A D E F H
+b J B
+c K
+-----------------
+a A D E F H
+b J B C
+c K
+-----------------
+a A D E F H
+b J B C G
+c K
+-----------------
+a A D E F H
+b J B C I
+c K
+-----------------
+a A D E F H
+b J B C I G
+c K
+-----------------
+a A D E F H
+b J B G
+c K
+-----------------
+a A D E F H
+b J B I
+c K
+-----------------
+a A D E F H
+b J B I C
+c K
+-----------------
+a A D E F H
+b J B I C G
+c K
+-----------------
+a A D E F H
+b J B I G
+c K
+-----------------
+a A D E F H
+b J C
+c K
+-----------------
+a A D E F H
+b J C G
+c K
+-----------------
+a A D E F H
+b J C I
+c K
+-----------------
+a A D E F H
+b J C I B
+c K
+-----------------
+a A D E F H
+b J C I B G
+c K
+-----------------
+a A D E F H
+b J C I G
+c K
+-----------------
+a A D E F H
+b J C B
+c K
+-----------------
+a A D E F H
+b J C B G
+c K
+-----------------
+a A D E F H
+b J C B I
+c K
+-----------------
+a A D E F H
+b J C B I G
+c K
+-----------------
+a A D E F H
+b J G
+c K
+-----------------
+a A D E F H
+b J I
+c K
+-----------------
+a A D E F H
+b J I B
+c K
+-----------------
+a A D E F H
+b J I B C
+c K
+-----------------
+a A D E F H
+b J I B C G
+c K
+-----------------
+a A D E F H
+b J I B G
+c K
+-----------------
+a A D E F H
+b J I C
+c K
+-----------------
+a A D E F H
+b J I C G
+c K
+-----------------
+a A D E F H
+b J I C B
+c K
+-----------------
+a A D E F H
+b J I C B G
+c K
+-----------------
+a A D E F H
+b J I G
+c K
+-----------------
+a A D E F H
+b J
+c B
+-----------------
+a A D E F H
+b J
+c C
+-----------------
+a A D E F H
+b J
+c G
+-----------------
+a A D E F H
+b J
+c I
+-----------------
+a A D E F H
+b J K
+c I
+-----------------
+a A D E F H
+b J B
+c I
+-----------------
+a A D E F H
+b J B C
+c I
+-----------------
+a A D E F H
+b J B C G
+c I
+-----------------
+a A D E F H
+b J B C K
+c I
+-----------------
+a A D E F H
+b J B G
+c I
+-----------------
+a A D E F H
+b J B K
+c I
+-----------------
+a A D E F H
+b J C
+c I
+-----------------
+a A D E F H
+b J C G
+c I
+-----------------
+a A D E F H
+b J C K
+c I
+-----------------
+a A D E F H
+b J C B
+c I
+-----------------
+a A D E F H
+b J C B G
+c I
+-----------------
+a A D E F H
+b J C B K
+c I
+-----------------
+a A D E F H
+b J G
+c I
+-----------------
+a A D E F H
+b K
+c
+-----------------
+a A D E F H
+b K B
+c
+-----------------
+a A D E F H
+b K B C
+c
+-----------------
+a A D E F H
+b K B C G
+c
+-----------------
+a A D E F H
+b K B C I
+c
+-----------------
+a A D E F H
+b K B C I J
+c
+-----------------
+a A D E F H
+b K B C I G
+c
+-----------------
+a A D E F H
+b K B C I
+c J
+-----------------
+a A D E F H
+b K B C I G
+c J
+-----------------
+a A D E F H
+b K B C I
+c G
+-----------------
+a A D E F H
+b K B C J
+c
+-----------------
+a A D E F H
+b K B C
+c G
+-----------------
+a A D E F H
+b K B C
+c I
+-----------------
+a A D E F H
+b K B C J
+c I
+-----------------
+a A D E F H
+b K B C G
+c I
+-----------------
+a A D E F H
+b K B C
+c J
+-----------------
+a A D E F H
+b K B C G
+c J
+-----------------
+a A D E F H
+b K B C I
+c J
+-----------------
+a A D E F H
+b K B C I G
+c J
+-----------------
+a A D E F H
+b K B G
+c
+-----------------
+a A D E F H
+b K B I
+c
+-----------------
+a A D E F H
+b K B I J
+c
+-----------------
+a A D E F H
+b K B I C
+c
+-----------------
+a A D E F H
+b K B I C G
+c
+-----------------
+a A D E F H
+b K B I C J
+c
+-----------------
+a A D E F H
+b K B I C
+c G
+-----------------
+a A D E F H
+b K B I C
+c J
+-----------------
+a A D E F H
+b K B I C G
+c J
+-----------------
+a A D E F H
+b K B I G
+c
+-----------------
+a A D E F H
+b K B I
+c J
+-----------------
+a A D E F H
+b K B I C
+c J
+-----------------
+a A D E F H
+b K B I C G
+c J
+-----------------
+a A D E F H
+b K B I G
+c J
+-----------------
+a A D E F H
+b K B I
+c C
+-----------------
+a A D E F H
+b K B I
+c G
+-----------------
+a A D E F H
+b K B J
+c
+-----------------
+a A D E F H
+b K B
+c C
+-----------------
+a A D E F H
+b K B
+c G
+-----------------
+a A D E F H
+b K B
+c I
+-----------------
+a A D E F H
+b K B J
+c I
+-----------------
+a A D E F H
+b K B C
+c I
+-----------------
+a A D E F H
+b K B C G
+c I
+-----------------
+a A D E F H
+b K B C J
+c I
+-----------------
+a A D E F H
+b K B G
+c I
+-----------------
+a A D E F H
+b K B
+c J
+-----------------
+a A D E F H
+b K B C
+c J
+-----------------
+a A D E F H
+b K B C G
+c J
+-----------------
+a A D E F H
+b K B C I
+c J
+-----------------
+a A D E F H
+b K B C I G
+c J
+-----------------
+a A D E F H
+b K B G
+c J
+-----------------
+a A D E F H
+b K B I
+c J
+-----------------
+a A D E F H
+b K B I C
+c J
+-----------------
+a A D E F H
+b K B I C G
+c J
+-----------------
+a A D E F H
+b K B I G
+c J
+-----------------
+a A D E F H
+b K C
+c
+-----------------
+a A D E F H
+b K C G
+c
+-----------------
+a A D E F H
+b K C I
+c
+-----------------
+a A D E F H
+b K C I J
+c
+-----------------
+a A D E F H
+b K C I B
+c
+-----------------
+a A D E F H
+b K C I B G
+c
+-----------------
+a A D E F H
+b K C I B J
+c
+-----------------
+a A D E F H
+b K C I B
+c G
+-----------------
+a A D E F H
+b K C I B
+c J
+-----------------
+a A D E F H
+b K C I B G
+c J
+-----------------
+a A D E F H
+b K C I G
+c
+-----------------
+a A D E F H
+b K C I
+c J
+-----------------
+a A D E F H
+b K C I B
+c J
+-----------------
+a A D E F H
+b K C I B G
+c J
+-----------------
+a A D E F H
+b K C I G
+c J
+-----------------
+a A D E F H
+b K C I
+c B
+-----------------
+a A D E F H
+b K C I
+c G
+-----------------
+a A D E F H
+b K C J
+c
+-----------------
+a A D E F H
+b K C B
+c
+-----------------
+a A D E F H
+b K C B G
+c
+-----------------
+a A D E F H
+b K C B I
+c
+-----------------
+a A D E F H
+b K C B I J
+c
+-----------------
+a A D E F H
+b K C B I G
+c
+-----------------
+a A D E F H
+b K C B I
+c J
+-----------------
+a A D E F H
+b K C B I G
+c J
+-----------------
+a A D E F H
+b K C B I
+c G
+-----------------
+a A D E F H
+b K C B J
+c
+-----------------
+a A D E F H
+b K C B
+c G
+-----------------
+a A D E F H
+b K C B
+c I
+-----------------
+a A D E F H
+b K C B J
+c I
+-----------------
+a A D E F H
+b K C B G
+c I
+-----------------
+a A D E F H
+b K C B
+c J
+-----------------
+a A D E F H
+b K C B G
+c J
+-----------------
+a A D E F H
+b K C B I
+c J
+-----------------
+a A D E F H
+b K C B I G
+c J
+-----------------
+a A D E F H
+b K C
+c G
+-----------------
+a A D E F H
+b K C
+c I
+-----------------
+a A D E F H
+b K C J
+c I
+-----------------
+a A D E F H
+b K C B
+c I
+-----------------
+a A D E F H
+b K C B G
+c I
+-----------------
+a A D E F H
+b K C B J
+c I
+-----------------
+a A D E F H
+b K C G
+c I
+-----------------
+a A D E F H
+b K C
+c J
+-----------------
+a A D E F H
+b K C B
+c J
+-----------------
+a A D E F H
+b K C B G
+c J
+-----------------
+a A D E F H
+b K C B I
+c J
+-----------------
+a A D E F H
+b K C B I G
+c J
+-----------------
+a A D E F H
+b K C G
+c J
+-----------------
+a A D E F H
+b K C I
+c J
+-----------------
+a A D E F H
+b K C I B
+c J
+-----------------
+a A D E F H
+b K C I B G
+c J
+-----------------
+a A D E F H
+b K C I G
+c J
+-----------------
+a A D E F H
+b K C
+c B
+-----------------
+a A D E F H
+b K G
+c
+-----------------
+a A D E F H
+b K I
+c
+-----------------
+a A D E F H
+b K I J
+c
+-----------------
+a A D E F H
+b K I B
+c
+-----------------
+a A D E F H
+b K I B C
+c
+-----------------
+a A D E F H
+b K I B C G
+c
+-----------------
+a A D E F H
+b K I B C J
+c
+-----------------
+a A D E F H
+b K I B C
+c G
+-----------------
+a A D E F H
+b K I B C
+c J
+-----------------
+a A D E F H
+b K I B C G
+c J
+-----------------
+a A D E F H
+b K I B G
+c
+-----------------
+a A D E F H
+b K I B J
+c
+-----------------
+a A D E F H
+b K I B
+c C
+-----------------
+a A D E F H
+b K I B
+c G
+-----------------
+a A D E F H
+b K I B
+c J
+-----------------
+a A D E F H
+b K I B C
+c J
+-----------------
+a A D E F H
+b K I B C G
+c J
+-----------------
+a A D E F H
+b K I B G
+c J
+-----------------
+a A D E F H
+b K I C
+c
+-----------------
+a A D E F H
+b K I C G
+c
+-----------------
+a A D E F H
+b K I C J
+c
+-----------------
+a A D E F H
+b K I C B
+c
+-----------------
+a A D E F H
+b K I C B G
+c
+-----------------
+a A D E F H
+b K I C B J
+c
+-----------------
+a A D E F H
+b K I C B
+c G
+-----------------
+a A D E F H
+b K I C B
+c J
+-----------------
+a A D E F H
+b K I C B G
+c J
+-----------------
+a A D E F H
+b K I C
+c G
+-----------------
+a A D E F H
+b K I C
+c J
+-----------------
+a A D E F H
+b K I C B
+c J
+-----------------
+a A D E F H
+b K I C B G
+c J
+-----------------
+a A D E F H
+b K I C G
+c J
+-----------------
+a A D E F H
+b K I C
+c B
+-----------------
+a A D E F H
+b K I G
+c
+-----------------
+a A D E F H
+b K I
+c J
+-----------------
+a A D E F H
+b K I B
+c J
+-----------------
+a A D E F H
+b K I B C
+c J
+-----------------
+a A D E F H
+b K I B C G
+c J
+-----------------
+a A D E F H
+b K I B G
+c J
+-----------------
+a A D E F H
+b K I C
+c J
+-----------------
+a A D E F H
+b K I C G
+c J
+-----------------
+a A D E F H
+b K I C B
+c J
+-----------------
+a A D E F H
+b K I C B G
+c J
+-----------------
+a A D E F H
+b K I G
+c J
+-----------------
+a A D E F H
+b K I
+c B
+-----------------
+a A D E F H
+b K I
+c C
+-----------------
+a A D E F H
+b K I
+c G
+-----------------
+a A D E F H
+b K J
+c
+-----------------
+a A D E F H
+b K
+c B
+-----------------
+a A D E F H
+b K
+c C
+-----------------
+a A D E F H
+b K
+c G
+-----------------
+a A D E F H
+b K
+c I
+-----------------
+a A D E F H
+b K J
+c I
+-----------------
+a A D E F H
+b K B
+c I
+-----------------
+a A D E F H
+b K B C
+c I
+-----------------
+a A D E F H
+b K B C G
+c I
+-----------------
+a A D E F H
+b K B C J
+c I
+-----------------
+a A D E F H
+b K B G
+c I
+-----------------
+a A D E F H
+b K B J
+c I
+-----------------
+a A D E F H
+b K C
+c I
+-----------------
+a A D E F H
+b K C G
+c I
+-----------------
+a A D E F H
+b K C J
+c I
+-----------------
+a A D E F H
+b K C B
+c I
+-----------------
+a A D E F H
+b K C B G
+c I
+-----------------
+a A D E F H
+b K C B J
+c I
+-----------------
+a A D E F H
+b K G
+c I
+-----------------
+a A D E F H
+b K
+c J
+-----------------
+a A D E F H
+b K B
+c J
+-----------------
+a A D E F H
+b K B C
+c J
+-----------------
+a A D E F H
+b K B C G
+c J
+-----------------
+a A D E F H
+b K B C I
+c J
+-----------------
+a A D E F H
+b K B C I G
+c J
+-----------------
+a A D E F H
+b K B G
+c J
+-----------------
+a A D E F H
+b K B I
+c J
+-----------------
+a A D E F H
+b K B I C
+c J
+-----------------
+a A D E F H
+b K B I C G
+c J
+-----------------
+a A D E F H
+b K B I G
+c J
+-----------------
+a A D E F H
+b K C
+c J
+-----------------
+a A D E F H
+b K C G
+c J
+-----------------
+a A D E F H
+b K C I
+c J
+-----------------
+a A D E F H
+b K C I B
+c J
+-----------------
+a A D E F H
+b K C I B G
+c J
+-----------------
+a A D E F H
+b K C I G
+c J
+-----------------
+a A D E F H
+b K C B
+c J
+-----------------
+a A D E F H
+b K C B G
+c J
+-----------------
+a A D E F H
+b K C B I
+c J
+-----------------
+a A D E F H
+b K C B I G
+c J
+-----------------
+a A D E F H
+b K G
+c J
+-----------------
+a A D E F H
+b K I
+c J
+-----------------
+a A D E F H
+b K I B
+c J
+-----------------
+a A D E F H
+b K I B C
+c J
+-----------------
+a A D E F H
+b K I B C G
+c J
+-----------------
+a A D E F H
+b K I B G
+c J
+-----------------
+a A D E F H
+b K I C
+c J
+-----------------
+a A D E F H
+b K I C G
+c J
+-----------------
+a A D E F H
+b K I C B
+c J
+-----------------
+a A D E F H
+b K I C B G
+c J
+-----------------
+a A D E F H
+b K I G
+c J
+-----------------
+a A D E F H
+b B
+c
+-----------------
+a A D E F H
+b B C
+c
+-----------------
+a A D E F H
+b B C G
+c
+-----------------
+a A D E F H
+b B C I
+c
+-----------------
+a A D E F H
+b B C I J
+c
+-----------------
+a A D E F H
+b B C I J K
+c
+-----------------
+a A D E F H
+b B C I J G
+c
+-----------------
+a A D E F H
+b B C I J
+c K
+-----------------
+a A D E F H
+b B C I J G
+c K
+-----------------
+a A D E F H
+b B C I J
+c G
+-----------------
+a A D E F H
+b B C I K
+c
+-----------------
+a A D E F H
+b B C I K G
+c
+-----------------
+a A D E F H
+b B C I K J
+c
+-----------------
+a A D E F H
+b B C I K
+c G
+-----------------
+a A D E F H
+b B C I K
+c J
+-----------------
+a A D E F H
+b B C I K G
+c J
+-----------------
+a A D E F H
+b B C I G
+c
+-----------------
+a A D E F H
+b B C I
+c J
+-----------------
+a A D E F H
+b B C I K
+c J
+-----------------
+a A D E F H
+b B C I K G
+c J
+-----------------
+a A D E F H
+b B C I G
+c J
+-----------------
+a A D E F H
+b B C I
+c K
+-----------------
+a A D E F H
+b B C I G
+c K
+-----------------
+a A D E F H
+b B C I J
+c K
+-----------------
+a A D E F H
+b B C I J G
+c K
+-----------------
+a A D E F H
+b B C I
+c G
+-----------------
+a A D E F H
+b B C J
+c
+-----------------
+a A D E F H
+b B C J K
+c
+-----------------
+a A D E F H
+b B C J G
+c
+-----------------
+a A D E F H
+b B C J I
+c
+-----------------
+a A D E F H
+b B C J I K
+c
+-----------------
+a A D E F H
+b B C J I G
+c
+-----------------
+a A D E F H
+b B C J I
+c K
+-----------------
+a A D E F H
+b B C J I G
+c K
+-----------------
+a A D E F H
+b B C J I
+c G
+-----------------
+a A D E F H
+b B C J
+c K
+-----------------
+a A D E F H
+b B C J G
+c K
+-----------------
+a A D E F H
+b B C J I
+c K
+-----------------
+a A D E F H
+b B C J I G
+c K
+-----------------
+a A D E F H
+b B C J
+c G
+-----------------
+a A D E F H
+b B C J
+c I
+-----------------
+a A D E F H
+b B C J K
+c I
+-----------------
+a A D E F H
+b B C J G
+c I
+-----------------
+a A D E F H
+b B C K
+c
+-----------------
+a A D E F H
+b B C K G
+c
+-----------------
+a A D E F H
+b B C K I
+c
+-----------------
+a A D E F H
+b B C K I J
+c
+-----------------
+a A D E F H
+b B C K I G
+c
+-----------------
+a A D E F H
+b B C K I
+c J
+-----------------
+a A D E F H
+b B C K I G
+c J
+-----------------
+a A D E F H
+b B C K I
+c G
+-----------------
+a A D E F H
+b B C K J
+c
+-----------------
+a A D E F H
+b B C K
+c G
+-----------------
+a A D E F H
+b B C K
+c I
+-----------------
+a A D E F H
+b B C K J
+c I
+-----------------
+a A D E F H
+b B C K G
+c I
+-----------------
+a A D E F H
+b B C K
+c J
+-----------------
+a A D E F H
+b B C K G
+c J
+-----------------
+a A D E F H
+b B C K I
+c J
+-----------------
+a A D E F H
+b B C K I G
+c J
+-----------------
+a A D E F H
+b B C
+c G
+-----------------
+a A D E F H
+b B C
+c I
+-----------------
+a A D E F H
+b B C J
+c I
+-----------------
+a A D E F H
+b B C J K
+c I
+-----------------
+a A D E F H
+b B C J G
+c I
+-----------------
+a A D E F H
+b B C K
+c I
+-----------------
+a A D E F H
+b B C K G
+c I
+-----------------
+a A D E F H
+b B C K J
+c I
+-----------------
+a A D E F H
+b B C G
+c I
+-----------------
+a A D E F H
+b B C
+c J
+-----------------
+a A D E F H
+b B C K
+c J
+-----------------
+a A D E F H
+b B C K G
+c J
+-----------------
+a A D E F H
+b B C K I
+c J
+-----------------
+a A D E F H
+b B C K I G
+c J
+-----------------
+a A D E F H
+b B C G
+c J
+-----------------
+a A D E F H
+b B C I
+c J
+-----------------
+a A D E F H
+b B C I K
+c J
+-----------------
+a A D E F H
+b B C I K G
+c J
+-----------------
+a A D E F H
+b B C I G
+c J
+-----------------
+a A D E F H
+b B C
+c K
+-----------------
+a A D E F H
+b B C G
+c K
+-----------------
+a A D E F H
+b B C I
+c K
+-----------------
+a A D E F H
+b B C I J
+c K
+-----------------
+a A D E F H
+b B C I J G
+c K
+-----------------
+a A D E F H
+b B C I G
+c K
+-----------------
+a A D E F H
+b B C J
+c K
+-----------------
+a A D E F H
+b B C J G
+c K
+-----------------
+a A D E F H
+b B C J I
+c K
+-----------------
+a A D E F H
+b B C J I G
+c K
+-----------------
+a A D E F H
+b B G
+c
+-----------------
+a A D E F H
+b B I
+c
+-----------------
+a A D E F H
+b B I J
+c
+-----------------
+a A D E F H
+b B I J K
+c
+-----------------
+a A D E F H
+b B I J C
+c
+-----------------
+a A D E F H
+b B I J C G
+c
+-----------------
+a A D E F H
+b B I J C K
+c
+-----------------
+a A D E F H
+b B I J C
+c G
+-----------------
+a A D E F H
+b B I J C
+c K
+-----------------
+a A D E F H
+b B I J C G
+c K
+-----------------
+a A D E F H
+b B I J G
+c
+-----------------
+a A D E F H
+b B I J
+c K
+-----------------
+a A D E F H
+b B I J C
+c K
+-----------------
+a A D E F H
+b B I J C G
+c K
+-----------------
+a A D E F H
+b B I J G
+c K
+-----------------
+a A D E F H
+b B I J
+c C
+-----------------
+a A D E F H
+b B I J
+c G
+-----------------
+a A D E F H
+b B I K
+c
+-----------------
+a A D E F H
+b B I K C
+c
+-----------------
+a A D E F H
+b B I K C G
+c
+-----------------
+a A D E F H
+b B I K C J
+c
+-----------------
+a A D E F H
+b B I K C
+c G
+-----------------
+a A D E F H
+b B I K C
+c J
+-----------------
+a A D E F H
+b B I K C G
+c J
+-----------------
+a A D E F H
+b B I K G
+c
+-----------------
+a A D E F H
+b B I K J
+c
+-----------------
+a A D E F H
+b B I K
+c C
+-----------------
+a A D E F H
+b B I K
+c G
+-----------------
+a A D E F H
+b B I K
+c J
+-----------------
+a A D E F H
+b B I K C
+c J
+-----------------
+a A D E F H
+b B I K C G
+c J
+-----------------
+a A D E F H
+b B I K G
+c J
+-----------------
+a A D E F H
+b B I C
+c
+-----------------
+a A D E F H
+b B I C G
+c
+-----------------
+a A D E F H
+b B I C J
+c
+-----------------
+a A D E F H
+b B I C J K
+c
+-----------------
+a A D E F H
+b B I C J G
+c
+-----------------
+a A D E F H
+b B I C J
+c K
+-----------------
+a A D E F H
+b B I C J G
+c K
+-----------------
+a A D E F H
+b B I C J
+c G
+-----------------
+a A D E F H
+b B I C K
+c
+-----------------
+a A D E F H
+b B I C K G
+c
+-----------------
+a A D E F H
+b B I C K J
+c
+-----------------
+a A D E F H
+b B I C K
+c G
+-----------------
+a A D E F H
+b B I C K
+c J
+-----------------
+a A D E F H
+b B I C K G
+c J
+-----------------
+a A D E F H
+b B I C
+c G
+-----------------
+a A D E F H
+b B I C
+c J
+-----------------
+a A D E F H
+b B I C K
+c J
+-----------------
+a A D E F H
+b B I C K G
+c J
+-----------------
+a A D E F H
+b B I C G
+c J
+-----------------
+a A D E F H
+b B I C
+c K
+-----------------
+a A D E F H
+b B I C G
+c K
+-----------------
+a A D E F H
+b B I C J
+c K
+-----------------
+a A D E F H
+b B I C J G
+c K
+-----------------
+a A D E F H
+b B I G
+c
+-----------------
+a A D E F H
+b B I
+c J
+-----------------
+a A D E F H
+b B I K
+c J
+-----------------
+a A D E F H
+b B I K C
+c J
+-----------------
+a A D E F H
+b B I K C G
+c J
+-----------------
+a A D E F H
+b B I K G
+c J
+-----------------
+a A D E F H
+b B I C
+c J
+-----------------
+a A D E F H
+b B I C G
+c J
+-----------------
+a A D E F H
+b B I C K
+c J
+-----------------
+a A D E F H
+b B I C K G
+c J
+-----------------
+a A D E F H
+b B I G
+c J
+-----------------
+a A D E F H
+b B I
+c K
+-----------------
+a A D E F H
+b B I C
+c K
+-----------------
+a A D E F H
+b B I C G
+c K
+-----------------
+a A D E F H
+b B I C J
+c K
+-----------------
+a A D E F H
+b B I C J G
+c K
+-----------------
+a A D E F H
+b B I G
+c K
+-----------------
+a A D E F H
+b B I J
+c K
+-----------------
+a A D E F H
+b B I J C
+c K
+-----------------
+a A D E F H
+b B I J C G
+c K
+-----------------
+a A D E F H
+b B I J G
+c K
+-----------------
+a A D E F H
+b B I
+c C
+-----------------
+a A D E F H
+b B I
+c G
+-----------------
+a A D E F H
+b B J
+c
+-----------------
+a A D E F H
+b B J K
+c
+-----------------
+a A D E F H
+b B J C
+c
+-----------------
+a A D E F H
+b B J C G
+c
+-----------------
+a A D E F H
+b B J C I
+c
+-----------------
+a A D E F H
+b B J C I K
+c
+-----------------
+a A D E F H
+b B J C I G
+c
+-----------------
+a A D E F H
+b B J C I
+c K
+-----------------
+a A D E F H
+b B J C I G
+c K
+-----------------
+a A D E F H
+b B J C I
+c G
+-----------------
+a A D E F H
+b B J C K
+c
+-----------------
+a A D E F H
+b B J C
+c G
+-----------------
+a A D E F H
+b B J C
+c I
+-----------------
+a A D E F H
+b B J C K
+c I
+-----------------
+a A D E F H
+b B J C G
+c I
+-----------------
+a A D E F H
+b B J C
+c K
+-----------------
+a A D E F H
+b B J C G
+c K
+-----------------
+a A D E F H
+b B J C I
+c K
+-----------------
+a A D E F H
+b B J C I G
+c K
+-----------------
+a A D E F H
+b B J G
+c
+-----------------
+a A D E F H
+b B J I
+c
+-----------------
+a A D E F H
+b B J I K
+c
+-----------------
+a A D E F H
+b B J I C
+c
+-----------------
+a A D E F H
+b B J I C G
+c
+-----------------
+a A D E F H
+b B J I C K
+c
+-----------------
+a A D E F H
+b B J I C
+c G
+-----------------
+a A D E F H
+b B J I C
+c K
+-----------------
+a A D E F H
+b B J I C G
+c K
+-----------------
+a A D E F H
+b B J I G
+c
+-----------------
+a A D E F H
+b B J I
+c K
+-----------------
+a A D E F H
+b B J I C
+c K
+-----------------
+a A D E F H
+b B J I C G
+c K
+-----------------
+a A D E F H
+b B J I G
+c K
+-----------------
+a A D E F H
+b B J I
+c C
+-----------------
+a A D E F H
+b B J I
+c G
+-----------------
+a A D E F H
+b B J
+c K
+-----------------
+a A D E F H
+b B J C
+c K
+-----------------
+a A D E F H
+b B J C G
+c K
+-----------------
+a A D E F H
+b B J C I
+c K
+-----------------
+a A D E F H
+b B J C I G
+c K
+-----------------
+a A D E F H
+b B J G
+c K
+-----------------
+a A D E F H
+b B J I
+c K
+-----------------
+a A D E F H
+b B J I C
+c K
+-----------------
+a A D E F H
+b B J I C G
+c K
+-----------------
+a A D E F H
+b B J I G
+c K
+-----------------
+a A D E F H
+b B J
+c C
+-----------------
+a A D E F H
+b B J
+c G
+-----------------
+a A D E F H
+b B J
+c I
+-----------------
+a A D E F H
+b B J K
+c I
+-----------------
+a A D E F H
+b B J C
+c I
+-----------------
+a A D E F H
+b B J C G
+c I
+-----------------
+a A D E F H
+b B J C K
+c I
+-----------------
+a A D E F H
+b B J G
+c I
+-----------------
+a A D E F H
+b B K
+c
+-----------------
+a A D E F H
+b B K C
+c
+-----------------
+a A D E F H
+b B K C G
+c
+-----------------
+a A D E F H
+b B K C I
+c
+-----------------
+a A D E F H
+b B K C I J
+c
+-----------------
+a A D E F H
+b B K C I G
+c
+-----------------
+a A D E F H
+b B K C I
+c J
+-----------------
+a A D E F H
+b B K C I G
+c J
+-----------------
+a A D E F H
+b B K C I
+c G
+-----------------
+a A D E F H
+b B K C J
+c
+-----------------
+a A D E F H
+b B K C
+c G
+-----------------
+a A D E F H
+b B K C
+c I
+-----------------
+a A D E F H
+b B K C J
+c I
+-----------------
+a A D E F H
+b B K C G
+c I
+-----------------
+a A D E F H
+b B K C
+c J
+-----------------
+a A D E F H
+b B K C G
+c J
+-----------------
+a A D E F H
+b B K C I
+c J
+-----------------
+a A D E F H
+b B K C I G
+c J
+-----------------
+a A D E F H
+b B K G
+c
+-----------------
+a A D E F H
+b B K I
+c
+-----------------
+a A D E F H
+b B K I J
+c
+-----------------
+a A D E F H
+b B K I C
+c
+-----------------
+a A D E F H
+b B K I C G
+c
+-----------------
+a A D E F H
+b B K I C J
+c
+-----------------
+a A D E F H
+b B K I C
+c G
+-----------------
+a A D E F H
+b B K I C
+c J
+-----------------
+a A D E F H
+b B K I C G
+c J
+-----------------
+a A D E F H
+b B K I G
+c
+-----------------
+a A D E F H
+b B K I
+c J
+-----------------
+a A D E F H
+b B K I C
+c J
+-----------------
+a A D E F H
+b B K I C G
+c J
+-----------------
+a A D E F H
+b B K I G
+c J
+-----------------
+a A D E F H
+b B K I
+c C
+-----------------
+a A D E F H
+b B K I
+c G
+-----------------
+a A D E F H
+b B K J
+c
+-----------------
+a A D E F H
+b B K
+c C
+-----------------
+a A D E F H
+b B K
+c G
+-----------------
+a A D E F H
+b B K
+c I
+-----------------
+a A D E F H
+b B K J
+c I
+-----------------
+a A D E F H
+b B K C
+c I
+-----------------
+a A D E F H
+b B K C G
+c I
+-----------------
+a A D E F H
+b B K C J
+c I
+-----------------
+a A D E F H
+b B K G
+c I
+-----------------
+a A D E F H
+b B K
+c J
+-----------------
+a A D E F H
+b B K C
+c J
+-----------------
+a A D E F H
+b B K C G
+c J
+-----------------
+a A D E F H
+b B K C I
+c J
+-----------------
+a A D E F H
+b B K C I G
+c J
+-----------------
+a A D E F H
+b B K G
+c J
+-----------------
+a A D E F H
+b B K I
+c J
+-----------------
+a A D E F H
+b B K I C
+c J
+-----------------
+a A D E F H
+b B K I C G
+c J
+-----------------
+a A D E F H
+b B K I G
+c J
+-----------------
+a A D E F H
+b B
+c C
+-----------------
+a A D E F H
+b B
+c G
+-----------------
+a A D E F H
+b B
+c I
+-----------------
+a A D E F H
+b B J
+c I
+-----------------
+a A D E F H
+b B J K
+c I
+-----------------
+a A D E F H
+b B J C
+c I
+-----------------
+a A D E F H
+b B J C G
+c I
+-----------------
+a A D E F H
+b B J C K
+c I
+-----------------
+a A D E F H
+b B J G
+c I
+-----------------
+a A D E F H
+b B K
+c I
+-----------------
+a A D E F H
+b B K C
+c I
+-----------------
+a A D E F H
+b B K C G
+c I
+-----------------
+a A D E F H
+b B K C J
+c I
+-----------------
+a A D E F H
+b B K G
+c I
+-----------------
+a A D E F H
+b B K J
+c I
+-----------------
+a A D E F H
+b B C
+c I
+-----------------
+a A D E F H
+b B C G
+c I
+-----------------
+a A D E F H
+b B C J
+c I
+-----------------
+a A D E F H
+b B C J K
+c I
+-----------------
+a A D E F H
+b B C J G
+c I
+-----------------
+a A D E F H
+b B C K
+c I
+-----------------
+a A D E F H
+b B C K G
+c I
+-----------------
+a A D E F H
+b B C K J
+c I
+-----------------
+a A D E F H
+b B G
+c I
+-----------------
+a A D E F H
+b B
+c J
+-----------------
+a A D E F H
+b B K
+c J
+-----------------
+a A D E F H
+b B K C
+c J
+-----------------
+a A D E F H
+b B K C G
+c J
+-----------------
+a A D E F H
+b B K C I
+c J
+-----------------
+a A D E F H
+b B K C I G
+c J
+-----------------
+a A D E F H
+b B K G
+c J
+-----------------
+a A D E F H
+b B K I
+c J
+-----------------
+a A D E F H
+b B K I C
+c J
+-----------------
+a A D E F H
+b B K I C G
+c J
+-----------------
+a A D E F H
+b B K I G
+c J
+-----------------
+a A D E F H
+b B C
+c J
+-----------------
+a A D E F H
+b B C G
+c J
+-----------------
+a A D E F H
+b B C I
+c J
+-----------------
+a A D E F H
+b B C I K
+c J
+-----------------
+a A D E F H
+b B C I K G
+c J
+-----------------
+a A D E F H
+b B C I G
+c J
+-----------------
+a A D E F H
+b B C K
+c J
+-----------------
+a A D E F H
+b B C K G
+c J
+-----------------
+a A D E F H
+b B C K I
+c J
+-----------------
+a A D E F H
+b B C K I G
+c J
+-----------------
+a A D E F H
+b B G
+c J
+-----------------
+a A D E F H
+b B I
+c J
+-----------------
+a A D E F H
+b B I K
+c J
+-----------------
+a A D E F H
+b B I K C
+c J
+-----------------
+a A D E F H
+b B I K C G
+c J
+-----------------
+a A D E F H
+b B I K G
+c J
+-----------------
+a A D E F H
+b B I C
+c J
+-----------------
+a A D E F H
+b B I C G
+c J
+-----------------
+a A D E F H
+b B I C K
+c J
+-----------------
+a A D E F H
+b B I C K G
+c J
+-----------------
+a A D E F H
+b B I G
+c J
+-----------------
+a A D E F H
+b B
+c K
+-----------------
+a A D E F H
+b B C
+c K
+-----------------
+a A D E F H
+b B C G
+c K
+-----------------
+a A D E F H
+b B C I
+c K
+-----------------
+a A D E F H
+b B C I J
+c K
+-----------------
+a A D E F H
+b B C I J G
+c K
+-----------------
+a A D E F H
+b B C I G
+c K
+-----------------
+a A D E F H
+b B C J
+c K
+-----------------
+a A D E F H
+b B C J G
+c K
+-----------------
+a A D E F H
+b B C J I
+c K
+-----------------
+a A D E F H
+b B C J I G
+c K
+-----------------
+a A D E F H
+b B G
+c K
+-----------------
+a A D E F H
+b B I
+c K
+-----------------
+a A D E F H
+b B I J
+c K
+-----------------
+a A D E F H
+b B I J C
+c K
+-----------------
+a A D E F H
+b B I J C G
+c K
+-----------------
+a A D E F H
+b B I J G
+c K
+-----------------
+a A D E F H
+b B I C
+c K
+-----------------
+a A D E F H
+b B I C G
+c K
+-----------------
+a A D E F H
+b B I C J
+c K
+-----------------
+a A D E F H
+b B I C J G
+c K
+-----------------
+a A D E F H
+b B I G
+c K
+-----------------
+a A D E F H
+b B J
+c K
+-----------------
+a A D E F H
+b B J C
+c K
+-----------------
+a A D E F H
+b B J C G
+c K
+-----------------
+a A D E F H
+b B J C I
+c K
+-----------------
+a A D E F H
+b B J C I G
+c K
+-----------------
+a A D E F H
+b B J G
+c K
+-----------------
+a A D E F H
+b B J I
+c K
+-----------------
+a A D E F H
+b B J I C
+c K
+-----------------
+a A D E F H
+b B J I C G
+c K
+-----------------
+a A D E F H
+b B J I G
+c K
+-----------------
+a A D E F H
+b C
+c
+-----------------
+a A D E F H
+b C G
+c
+-----------------
+a A D E F H
+b C I
+c
+-----------------
+a A D E F H
+b C I J
+c
+-----------------
+a A D E F H
+b C I J K
+c
+-----------------
+a A D E F H
+b C I J B
+c
+-----------------
+a A D E F H
+b C I J B G
+c
+-----------------
+a A D E F H
+b C I J B K
+c
+-----------------
+a A D E F H
+b C I J B
+c G
+-----------------
+a A D E F H
+b C I J B
+c K
+-----------------
+a A D E F H
+b C I J B G
+c K
+-----------------
+a A D E F H
+b C I J G
+c
+-----------------
+a A D E F H
+b C I J
+c K
+-----------------
+a A D E F H
+b C I J B
+c K
+-----------------
+a A D E F H
+b C I J B G
+c K
+-----------------
+a A D E F H
+b C I J G
+c K
+-----------------
+a A D E F H
+b C I J
+c B
+-----------------
+a A D E F H
+b C I J
+c G
+-----------------
+a A D E F H
+b C I K
+c
+-----------------
+a A D E F H
+b C I K B
+c
+-----------------
+a A D E F H
+b C I K B G
+c
+-----------------
+a A D E F H
+b C I K B J
+c
+-----------------
+a A D E F H
+b C I K B
+c G
+-----------------
+a A D E F H
+b C I K B
+c J
+-----------------
+a A D E F H
+b C I K B G
+c J
+-----------------
+a A D E F H
+b C I K G
+c
+-----------------
+a A D E F H
+b C I K J
+c
+-----------------
+a A D E F H
+b C I K
+c B
+-----------------
+a A D E F H
+b C I K
+c G
+-----------------
+a A D E F H
+b C I K
+c J
+-----------------
+a A D E F H
+b C I K B
+c J
+-----------------
+a A D E F H
+b C I K B G
+c J
+-----------------
+a A D E F H
+b C I K G
+c J
+-----------------
+a A D E F H
+b C I B
+c
+-----------------
+a A D E F H
+b C I B G
+c
+-----------------
+a A D E F H
+b C I B J
+c
+-----------------
+a A D E F H
+b C I B J K
+c
+-----------------
+a A D E F H
+b C I B J G
+c
+-----------------
+a A D E F H
+b C I B J
+c K
+-----------------
+a A D E F H
+b C I B J G
+c K
+-----------------
+a A D E F H
+b C I B J
+c G
+-----------------
+a A D E F H
+b C I B K
+c
+-----------------
+a A D E F H
+b C I B K G
+c
+-----------------
+a A D E F H
+b C I B K J
+c
+-----------------
+a A D E F H
+b C I B K
+c G
+-----------------
+a A D E F H
+b C I B K
+c J
+-----------------
+a A D E F H
+b C I B K G
+c J
+-----------------
+a A D E F H
+b C I B
+c G
+-----------------
+a A D E F H
+b C I B
+c J
+-----------------
+a A D E F H
+b C I B K
+c J
+-----------------
+a A D E F H
+b C I B K G
+c J
+-----------------
+a A D E F H
+b C I B G
+c J
+-----------------
+a A D E F H
+b C I B
+c K
+-----------------
+a A D E F H
+b C I B G
+c K
+-----------------
+a A D E F H
+b C I B J
+c K
+-----------------
+a A D E F H
+b C I B J G
+c K
+-----------------
+a A D E F H
+b C I G
+c
+-----------------
+a A D E F H
+b C I
+c J
+-----------------
+a A D E F H
+b C I K
+c J
+-----------------
+a A D E F H
+b C I K B
+c J
+-----------------
+a A D E F H
+b C I K B G
+c J
+-----------------
+a A D E F H
+b C I K G
+c J
+-----------------
+a A D E F H
+b C I B
+c J
+-----------------
+a A D E F H
+b C I B G
+c J
+-----------------
+a A D E F H
+b C I B K
+c J
+-----------------
+a A D E F H
+b C I B K G
+c J
+-----------------
+a A D E F H
+b C I G
+c J
+-----------------
+a A D E F H
+b C I
+c K
+-----------------
+a A D E F H
+b C I B
+c K
+-----------------
+a A D E F H
+b C I B G
+c K
+-----------------
+a A D E F H
+b C I B J
+c K
+-----------------
+a A D E F H
+b C I B J G
+c K
+-----------------
+a A D E F H
+b C I G
+c K
+-----------------
+a A D E F H
+b C I J
+c K
+-----------------
+a A D E F H
+b C I J B
+c K
+-----------------
+a A D E F H
+b C I J B G
+c K
+-----------------
+a A D E F H
+b C I J G
+c K
+-----------------
+a A D E F H
+b C I
+c B
+-----------------
+a A D E F H
+b C I
+c G
+-----------------
+a A D E F H
+b C J
+c
+-----------------
+a A D E F H
+b C J K
+c
+-----------------
+a A D E F H
+b C J B
+c
+-----------------
+a A D E F H
+b C J B G
+c
+-----------------
+a A D E F H
+b C J B I
+c
+-----------------
+a A D E F H
+b C J B I K
+c
+-----------------
+a A D E F H
+b C J B I G
+c
+-----------------
+a A D E F H
+b C J B I
+c K
+-----------------
+a A D E F H
+b C J B I G
+c K
+-----------------
+a A D E F H
+b C J B I
+c G
+-----------------
+a A D E F H
+b C J B K
+c
+-----------------
+a A D E F H
+b C J B
+c G
+-----------------
+a A D E F H
+b C J B
+c I
+-----------------
+a A D E F H
+b C J B K
+c I
+-----------------
+a A D E F H
+b C J B G
+c I
+-----------------
+a A D E F H
+b C J B
+c K
+-----------------
+a A D E F H
+b C J B G
+c K
+-----------------
+a A D E F H
+b C J B I
+c K
+-----------------
+a A D E F H
+b C J B I G
+c K
+-----------------
+a A D E F H
+b C J G
+c
+-----------------
+a A D E F H
+b C J I
+c
+-----------------
+a A D E F H
+b C J I K
+c
+-----------------
+a A D E F H
+b C J I B
+c
+-----------------
+a A D E F H
+b C J I B G
+c
+-----------------
+a A D E F H
+b C J I B K
+c
+-----------------
+a A D E F H
+b C J I B
+c G
+-----------------
+a A D E F H
+b C J I B
+c K
+-----------------
+a A D E F H
+b C J I B G
+c K
+-----------------
+a A D E F H
+b C J I G
+c
+-----------------
+a A D E F H
+b C J I
+c K
+-----------------
+a A D E F H
+b C J I B
+c K
+-----------------
+a A D E F H
+b C J I B G
+c K
+-----------------
+a A D E F H
+b C J I G
+c K
+-----------------
+a A D E F H
+b C J I
+c B
+-----------------
+a A D E F H
+b C J I
+c G
+-----------------
+a A D E F H
+b C J
+c K
+-----------------
+a A D E F H
+b C J B
+c K
+-----------------
+a A D E F H
+b C J B G
+c K
+-----------------
+a A D E F H
+b C J B I
+c K
+-----------------
+a A D E F H
+b C J B I G
+c K
+-----------------
+a A D E F H
+b C J G
+c K
+-----------------
+a A D E F H
+b C J I
+c K
+-----------------
+a A D E F H
+b C J I B
+c K
+-----------------
+a A D E F H
+b C J I B G
+c K
+-----------------
+a A D E F H
+b C J I G
+c K
+-----------------
+a A D E F H
+b C J
+c B
+-----------------
+a A D E F H
+b C J
+c G
+-----------------
+a A D E F H
+b C J
+c I
+-----------------
+a A D E F H
+b C J K
+c I
+-----------------
+a A D E F H
+b C J B
+c I
+-----------------
+a A D E F H
+b C J B G
+c I
+-----------------
+a A D E F H
+b C J B K
+c I
+-----------------
+a A D E F H
+b C J G
+c I
+-----------------
+a A D E F H
+b C K
+c
+-----------------
+a A D E F H
+b C K B
+c
+-----------------
+a A D E F H
+b C K B G
+c
+-----------------
+a A D E F H
+b C K B I
+c
+-----------------
+a A D E F H
+b C K B I J
+c
+-----------------
+a A D E F H
+b C K B I G
+c
+-----------------
+a A D E F H
+b C K B I
+c J
+-----------------
+a A D E F H
+b C K B I G
+c J
+-----------------
+a A D E F H
+b C K B I
+c G
+-----------------
+a A D E F H
+b C K B J
+c
+-----------------
+a A D E F H
+b C K B
+c G
+-----------------
+a A D E F H
+b C K B
+c I
+-----------------
+a A D E F H
+b C K B J
+c I
+-----------------
+a A D E F H
+b C K B G
+c I
+-----------------
+a A D E F H
+b C K B
+c J
+-----------------
+a A D E F H
+b C K B G
+c J
+-----------------
+a A D E F H
+b C K B I
+c J
+-----------------
+a A D E F H
+b C K B I G
+c J
+-----------------
+a A D E F H
+b C K G
+c
+-----------------
+a A D E F H
+b C K I
+c
+-----------------
+a A D E F H
+b C K I J
+c
+-----------------
+a A D E F H
+b C K I B
+c
+-----------------
+a A D E F H
+b C K I B G
+c
+-----------------
+a A D E F H
+b C K I B J
+c
+-----------------
+a A D E F H
+b C K I B
+c G
+-----------------
+a A D E F H
+b C K I B
+c J
+-----------------
+a A D E F H
+b C K I B G
+c J
+-----------------
+a A D E F H
+b C K I G
+c
+-----------------
+a A D E F H
+b C K I
+c J
+-----------------
+a A D E F H
+b C K I B
+c J
+-----------------
+a A D E F H
+b C K I B G
+c J
+-----------------
+a A D E F H
+b C K I G
+c J
+-----------------
+a A D E F H
+b C K I
+c B
+-----------------
+a A D E F H
+b C K I
+c G
+-----------------
+a A D E F H
+b C K J
+c
+-----------------
+a A D E F H
+b C K
+c B
+-----------------
+a A D E F H
+b C K
+c G
+-----------------
+a A D E F H
+b C K
+c I
+-----------------
+a A D E F H
+b C K J
+c I
+-----------------
+a A D E F H
+b C K B
+c I
+-----------------
+a A D E F H
+b C K B G
+c I
+-----------------
+a A D E F H
+b C K B J
+c I
+-----------------
+a A D E F H
+b C K G
+c I
+-----------------
+a A D E F H
+b C K
+c J
+-----------------
+a A D E F H
+b C K B
+c J
+-----------------
+a A D E F H
+b C K B G
+c J
+-----------------
+a A D E F H
+b C K B I
+c J
+-----------------
+a A D E F H
+b C K B I G
+c J
+-----------------
+a A D E F H
+b C K G
+c J
+-----------------
+a A D E F H
+b C K I
+c J
+-----------------
+a A D E F H
+b C K I B
+c J
+-----------------
+a A D E F H
+b C K I B G
+c J
+-----------------
+a A D E F H
+b C K I G
+c J
+-----------------
+a A D E F H
+b C B
+c
+-----------------
+a A D E F H
+b C B G
+c
+-----------------
+a A D E F H
+b C B I
+c
+-----------------
+a A D E F H
+b C B I J
+c
+-----------------
+a A D E F H
+b C B I J K
+c
+-----------------
+a A D E F H
+b C B I J G
+c
+-----------------
+a A D E F H
+b C B I J
+c K
+-----------------
+a A D E F H
+b C B I J G
+c K
+-----------------
+a A D E F H
+b C B I J
+c G
+-----------------
+a A D E F H
+b C B I K
+c
+-----------------
+a A D E F H
+b C B I K G
+c
+-----------------
+a A D E F H
+b C B I K J
+c
+-----------------
+a A D E F H
+b C B I K
+c G
+-----------------
+a A D E F H
+b C B I K
+c J
+-----------------
+a A D E F H
+b C B I K G
+c J
+-----------------
+a A D E F H
+b C B I G
+c
+-----------------
+a A D E F H
+b C B I
+c J
+-----------------
+a A D E F H
+b C B I K
+c J
+-----------------
+a A D E F H
+b C B I K G
+c J
+-----------------
+a A D E F H
+b C B I G
+c J
+-----------------
+a A D E F H
+b C B I
+c K
+-----------------
+a A D E F H
+b C B I G
+c K
+-----------------
+a A D E F H
+b C B I J
+c K
+-----------------
+a A D E F H
+b C B I J G
+c K
+-----------------
+a A D E F H
+b C B I
+c G
+-----------------
+a A D E F H
+b C B J
+c
+-----------------
+a A D E F H
+b C B J K
+c
+-----------------
+a A D E F H
+b C B J G
+c
+-----------------
+a A D E F H
+b C B J I
+c
+-----------------
+a A D E F H
+b C B J I K
+c
+-----------------
+a A D E F H
+b C B J I G
+c
+-----------------
+a A D E F H
+b C B J I
+c K
+-----------------
+a A D E F H
+b C B J I G
+c K
+-----------------
+a A D E F H
+b C B J I
+c G
+-----------------
+a A D E F H
+b C B J
+c K
+-----------------
+a A D E F H
+b C B J G
+c K
+-----------------
+a A D E F H
+b C B J I
+c K
+-----------------
+a A D E F H
+b C B J I G
+c K
+-----------------
+a A D E F H
+b C B J
+c G
+-----------------
+a A D E F H
+b C B J
+c I
+-----------------
+a A D E F H
+b C B J K
+c I
+-----------------
+a A D E F H
+b C B J G
+c I
+-----------------
+a A D E F H
+b C B K
+c
+-----------------
+a A D E F H
+b C B K G
+c
+-----------------
+a A D E F H
+b C B K I
+c
+-----------------
+a A D E F H
+b C B K I J
+c
+-----------------
+a A D E F H
+b C B K I G
+c
+-----------------
+a A D E F H
+b C B K I
+c J
+-----------------
+a A D E F H
+b C B K I G
+c J
+-----------------
+a A D E F H
+b C B K I
+c G
+-----------------
+a A D E F H
+b C B K J
+c
+-----------------
+a A D E F H
+b C B K
+c G
+-----------------
+a A D E F H
+b C B K
+c I
+-----------------
+a A D E F H
+b C B K J
+c I
+-----------------
+a A D E F H
+b C B K G
+c I
+-----------------
+a A D E F H
+b C B K
+c J
+-----------------
+a A D E F H
+b C B K G
+c J
+-----------------
+a A D E F H
+b C B K I
+c J
+-----------------
+a A D E F H
+b C B K I G
+c J
+-----------------
+a A D E F H
+b C B
+c G
+-----------------
+a A D E F H
+b C B
+c I
+-----------------
+a A D E F H
+b C B J
+c I
+-----------------
+a A D E F H
+b C B J K
+c I
+-----------------
+a A D E F H
+b C B J G
+c I
+-----------------
+a A D E F H
+b C B K
+c I
+-----------------
+a A D E F H
+b C B K G
+c I
+-----------------
+a A D E F H
+b C B K J
+c I
+-----------------
+a A D E F H
+b C B G
+c I
+-----------------
+a A D E F H
+b C B
+c J
+-----------------
+a A D E F H
+b C B K
+c J
+-----------------
+a A D E F H
+b C B K G
+c J
+-----------------
+a A D E F H
+b C B K I
+c J
+-----------------
+a A D E F H
+b C B K I G
+c J
+-----------------
+a A D E F H
+b C B G
+c J
+-----------------
+a A D E F H
+b C B I
+c J
+-----------------
+a A D E F H
+b C B I K
+c J
+-----------------
+a A D E F H
+b C B I K G
+c J
+-----------------
+a A D E F H
+b C B I G
+c J
+-----------------
+a A D E F H
+b C B
+c K
+-----------------
+a A D E F H
+b C B G
+c K
+-----------------
+a A D E F H
+b C B I
+c K
+-----------------
+a A D E F H
+b C B I J
+c K
+-----------------
+a A D E F H
+b C B I J G
+c K
+-----------------
+a A D E F H
+b C B I G
+c K
+-----------------
+a A D E F H
+b C B J
+c K
+-----------------
+a A D E F H
+b C B J G
+c K
+-----------------
+a A D E F H
+b C B J I
+c K
+-----------------
+a A D E F H
+b C B J I G
+c K
+-----------------
+a A D E F H
+b C
+c G
+-----------------
+a A D E F H
+b C
+c I
+-----------------
+a A D E F H
+b C J
+c I
+-----------------
+a A D E F H
+b C J K
+c I
+-----------------
+a A D E F H
+b C J B
+c I
+-----------------
+a A D E F H
+b C J B G
+c I
+-----------------
+a A D E F H
+b C J B K
+c I
+-----------------
+a A D E F H
+b C J G
+c I
+-----------------
+a A D E F H
+b C K
+c I
+-----------------
+a A D E F H
+b C K B
+c I
+-----------------
+a A D E F H
+b C K B G
+c I
+-----------------
+a A D E F H
+b C K B J
+c I
+-----------------
+a A D E F H
+b C K G
+c I
+-----------------
+a A D E F H
+b C K J
+c I
+-----------------
+a A D E F H
+b C B
+c I
+-----------------
+a A D E F H
+b C B G
+c I
+-----------------
+a A D E F H
+b C B J
+c I
+-----------------
+a A D E F H
+b C B J K
+c I
+-----------------
+a A D E F H
+b C B J G
+c I
+-----------------
+a A D E F H
+b C B K
+c I
+-----------------
+a A D E F H
+b C B K G
+c I
+-----------------
+a A D E F H
+b C B K J
+c I
+-----------------
+a A D E F H
+b C G
+c I
+-----------------
+a A D E F H
+b C
+c J
+-----------------
+a A D E F H
+b C K
+c J
+-----------------
+a A D E F H
+b C K B
+c J
+-----------------
+a A D E F H
+b C K B G
+c J
+-----------------
+a A D E F H
+b C K B I
+c J
+-----------------
+a A D E F H
+b C K B I G
+c J
+-----------------
+a A D E F H
+b C K G
+c J
+-----------------
+a A D E F H
+b C K I
+c J
+-----------------
+a A D E F H
+b C K I B
+c J
+-----------------
+a A D E F H
+b C K I B G
+c J
+-----------------
+a A D E F H
+b C K I G
+c J
+-----------------
+a A D E F H
+b C B
+c J
+-----------------
+a A D E F H
+b C B G
+c J
+-----------------
+a A D E F H
+b C B I
+c J
+-----------------
+a A D E F H
+b C B I K
+c J
+-----------------
+a A D E F H
+b C B I K G
+c J
+-----------------
+a A D E F H
+b C B I G
+c J
+-----------------
+a A D E F H
+b C B K
+c J
+-----------------
+a A D E F H
+b C B K G
+c J
+-----------------
+a A D E F H
+b C B K I
+c J
+-----------------
+a A D E F H
+b C B K I G
+c J
+-----------------
+a A D E F H
+b C G
+c J
+-----------------
+a A D E F H
+b C I
+c J
+-----------------
+a A D E F H
+b C I K
+c J
+-----------------
+a A D E F H
+b C I K B
+c J
+-----------------
+a A D E F H
+b C I K B G
+c J
+-----------------
+a A D E F H
+b C I K G
+c J
+-----------------
+a A D E F H
+b C I B
+c J
+-----------------
+a A D E F H
+b C I B G
+c J
+-----------------
+a A D E F H
+b C I B K
+c J
+-----------------
+a A D E F H
+b C I B K G
+c J
+-----------------
+a A D E F H
+b C I G
+c J
+-----------------
+a A D E F H
+b C
+c K
+-----------------
+a A D E F H
+b C B
+c K
+-----------------
+a A D E F H
+b C B G
+c K
+-----------------
+a A D E F H
+b C B I
+c K
+-----------------
+a A D E F H
+b C B I J
+c K
+-----------------
+a A D E F H
+b C B I J G
+c K
+-----------------
+a A D E F H
+b C B I G
+c K
+-----------------
+a A D E F H
+b C B J
+c K
+-----------------
+a A D E F H
+b C B J G
+c K
+-----------------
+a A D E F H
+b C B J I
+c K
+-----------------
+a A D E F H
+b C B J I G
+c K
+-----------------
+a A D E F H
+b C G
+c K
+-----------------
+a A D E F H
+b C I
+c K
+-----------------
+a A D E F H
+b C I J
+c K
+-----------------
+a A D E F H
+b C I J B
+c K
+-----------------
+a A D E F H
+b C I J B G
+c K
+-----------------
+a A D E F H
+b C I J G
+c K
+-----------------
+a A D E F H
+b C I B
+c K
+-----------------
+a A D E F H
+b C I B G
+c K
+-----------------
+a A D E F H
+b C I B J
+c K
+-----------------
+a A D E F H
+b C I B J G
+c K
+-----------------
+a A D E F H
+b C I G
+c K
+-----------------
+a A D E F H
+b C J
+c K
+-----------------
+a A D E F H
+b C J B
+c K
+-----------------
+a A D E F H
+b C J B G
+c K
+-----------------
+a A D E F H
+b C J B I
+c K
+-----------------
+a A D E F H
+b C J B I G
+c K
+-----------------
+a A D E F H
+b C J G
+c K
+-----------------
+a A D E F H
+b C J I
+c K
+-----------------
+a A D E F H
+b C J I B
+c K
+-----------------
+a A D E F H
+b C J I B G
+c K
+-----------------
+a A D E F H
+b C J I G
+c K
+-----------------
+a A D E F H
+b C
+c B
+-----------------
+a A D E F H
+b G
+c
+-----------------
+a A D E F H
+b
+c I
+-----------------
+a A D E F H
+b J
+c I
+-----------------
+a A D E F H
+b J K
+c I
+-----------------
+a A D E F H
+b J B
+c I
+-----------------
+a A D E F H
+b J B C
+c I
+-----------------
+a A D E F H
+b J B C G
+c I
+-----------------
+a A D E F H
+b J B C K
+c I
+-----------------
+a A D E F H
+b J B G
+c I
+-----------------
+a A D E F H
+b J B K
+c I
+-----------------
+a A D E F H
+b J C
+c I
+-----------------
+a A D E F H
+b J C G
+c I
+-----------------
+a A D E F H
+b J C K
+c I
+-----------------
+a A D E F H
+b J C B
+c I
+-----------------
+a A D E F H
+b J C B G
+c I
+-----------------
+a A D E F H
+b J C B K
+c I
+-----------------
+a A D E F H
+b J G
+c I
+-----------------
+a A D E F H
+b K
+c I
+-----------------
+a A D E F H
+b K B
+c I
+-----------------
+a A D E F H
+b K B C
+c I
+-----------------
+a A D E F H
+b K B C G
+c I
+-----------------
+a A D E F H
+b K B C J
+c I
+-----------------
+a A D E F H
+b K B G
+c I
+-----------------
+a A D E F H
+b K B J
+c I
+-----------------
+a A D E F H
+b K C
+c I
+-----------------
+a A D E F H
+b K C G
+c I
+-----------------
+a A D E F H
+b K C J
+c I
+-----------------
+a A D E F H
+b K C B
+c I
+-----------------
+a A D E F H
+b K C B G
+c I
+-----------------
+a A D E F H
+b K C B J
+c I
+-----------------
+a A D E F H
+b K G
+c I
+-----------------
+a A D E F H
+b K J
+c I
+-----------------
+a A D E F H
+b B
+c I
+-----------------
+a A D E F H
+b B C
+c I
+-----------------
+a A D E F H
+b B C G
+c I
+-----------------
+a A D E F H
+b B C J
+c I
+-----------------
+a A D E F H
+b B C J K
+c I
+-----------------
+a A D E F H
+b B C J G
+c I
+-----------------
+a A D E F H
+b B C K
+c I
+-----------------
+a A D E F H
+b B C K G
+c I
+-----------------
+a A D E F H
+b B C K J
+c I
+-----------------
+a A D E F H
+b B G
+c I
+-----------------
+a A D E F H
+b B J
+c I
+-----------------
+a A D E F H
+b B J K
+c I
+-----------------
+a A D E F H
+b B J C
+c I
+-----------------
+a A D E F H
+b B J C G
+c I
+-----------------
+a A D E F H
+b B J C K
+c I
+-----------------
+a A D E F H
+b B J G
+c I
+-----------------
+a A D E F H
+b B K
+c I
+-----------------
+a A D E F H
+b B K C
+c I
+-----------------
+a A D E F H
+b B K C G
+c I
+-----------------
+a A D E F H
+b B K C J
+c I
+-----------------
+a A D E F H
+b B K G
+c I
+-----------------
+a A D E F H
+b B K J
+c I
+-----------------
+a A D E F H
+b C
+c I
+-----------------
+a A D E F H
+b C G
+c I
+-----------------
+a A D E F H
+b C J
+c I
+-----------------
+a A D E F H
+b C J K
+c I
+-----------------
+a A D E F H
+b C J B
+c I
+-----------------
+a A D E F H
+b C J B G
+c I
+-----------------
+a A D E F H
+b C J B K
+c I
+-----------------
+a A D E F H
+b C J G
+c I
+-----------------
+a A D E F H
+b C K
+c I
+-----------------
+a A D E F H
+b C K B
+c I
+-----------------
+a A D E F H
+b C K B G
+c I
+-----------------
+a A D E F H
+b C K B J
+c I
+-----------------
+a A D E F H
+b C K G
+c I
+-----------------
+a A D E F H
+b C K J
+c I
+-----------------
+a A D E F H
+b C B
+c I
+-----------------
+a A D E F H
+b C B G
+c I
+-----------------
+a A D E F H
+b C B J
+c I
+-----------------
+a A D E F H
+b C B J K
+c I
+-----------------
+a A D E F H
+b C B J G
+c I
+-----------------
+a A D E F H
+b C B K
+c I
+-----------------
+a A D E F H
+b C B K G
+c I
+-----------------
+a A D E F H
+b C B K J
+c I
+-----------------
+a A D E F H
+b G
+c I
+-----------------
+a A D E F H
+b
+c J
+-----------------
+a A D E F H
+b K
+c J
+-----------------
+a A D E F H
+b K B
+c J
+-----------------
+a A D E F H
+b K B C
+c J
+-----------------
+a A D E F H
+b K B C G
+c J
+-----------------
+a A D E F H
+b K B C I
+c J
+-----------------
+a A D E F H
+b K B C I G
+c J
+-----------------
+a A D E F H
+b K B G
+c J
+-----------------
+a A D E F H
+b K B I
+c J
+-----------------
+a A D E F H
+b K B I C
+c J
+-----------------
+a A D E F H
+b K B I C G
+c J
+-----------------
+a A D E F H
+b K B I G
+c J
+-----------------
+a A D E F H
+b K C
+c J
+-----------------
+a A D E F H
+b K C G
+c J
+-----------------
+a A D E F H
+b K C I
+c J
+-----------------
+a A D E F H
+b K C I B
+c J
+-----------------
+a A D E F H
+b K C I B G
+c J
+-----------------
+a A D E F H
+b K C I G
+c J
+-----------------
+a A D E F H
+b K C B
+c J
+-----------------
+a A D E F H
+b K C B G
+c J
+-----------------
+a A D E F H
+b K C B I
+c J
+-----------------
+a A D E F H
+b K C B I G
+c J
+-----------------
+a A D E F H
+b K G
+c J
+-----------------
+a A D E F H
+b K I
+c J
+-----------------
+a A D E F H
+b K I B
+c J
+-----------------
+a A D E F H
+b K I B C
+c J
+-----------------
+a A D E F H
+b K I B C G
+c J
+-----------------
+a A D E F H
+b K I B G
+c J
+-----------------
+a A D E F H
+b K I C
+c J
+-----------------
+a A D E F H
+b K I C G
+c J
+-----------------
+a A D E F H
+b K I C B
+c J
+-----------------
+a A D E F H
+b K I C B G
+c J
+-----------------
+a A D E F H
+b K I G
+c J
+-----------------
+a A D E F H
+b B
+c J
+-----------------
+a A D E F H
+b B C
+c J
+-----------------
+a A D E F H
+b B C G
+c J
+-----------------
+a A D E F H
+b B C I
+c J
+-----------------
+a A D E F H
+b B C I K
+c J
+-----------------
+a A D E F H
+b B C I K G
+c J
+-----------------
+a A D E F H
+b B C I G
+c J
+-----------------
+a A D E F H
+b B C K
+c J
+-----------------
+a A D E F H
+b B C K G
+c J
+-----------------
+a A D E F H
+b B C K I
+c J
+-----------------
+a A D E F H
+b B C K I G
+c J
+-----------------
+a A D E F H
+b B G
+c J
+-----------------
+a A D E F H
+b B I
+c J
+-----------------
+a A D E F H
+b B I K
+c J
+-----------------
+a A D E F H
+b B I K C
+c J
+-----------------
+a A D E F H
+b B I K C G
+c J
+-----------------
+a A D E F H
+b B I K G
+c J
+-----------------
+a A D E F H
+b B I C
+c J
+-----------------
+a A D E F H
+b B I C G
+c J
+-----------------
+a A D E F H
+b B I C K
+c J
+-----------------
+a A D E F H
+b B I C K G
+c J
+-----------------
+a A D E F H
+b B I G
+c J
+-----------------
+a A D E F H
+b B K
+c J
+-----------------
+a A D E F H
+b B K C
+c J
+-----------------
+a A D E F H
+b B K C G
+c J
+-----------------
+a A D E F H
+b B K C I
+c J
+-----------------
+a A D E F H
+b B K C I G
+c J
+-----------------
+a A D E F H
+b B K G
+c J
+-----------------
+a A D E F H
+b B K I
+c J
+-----------------
+a A D E F H
+b B K I C
+c J
+-----------------
+a A D E F H
+b B K I C G
+c J
+-----------------
+a A D E F H
+b B K I G
+c J
+-----------------
+a A D E F H
+b C
+c J
+-----------------
+a A D E F H
+b C G
+c J
+-----------------
+a A D E F H
+b C I
+c J
+-----------------
+a A D E F H
+b C I K
+c J
+-----------------
+a A D E F H
+b C I K B
+c J
+-----------------
+a A D E F H
+b C I K B G
+c J
+-----------------
+a A D E F H
+b C I K G
+c J
+-----------------
+a A D E F H
+b C I B
+c J
+-----------------
+a A D E F H
+b C I B G
+c J
+-----------------
+a A D E F H
+b C I B K
+c J
+-----------------
+a A D E F H
+b C I B K G
+c J
+-----------------
+a A D E F H
+b C I G
+c J
+-----------------
+a A D E F H
+b C K
+c J
+-----------------
+a A D E F H
+b C K B
+c J
+-----------------
+a A D E F H
+b C K B G
+c J
+-----------------
+a A D E F H
+b C K B I
+c J
+-----------------
+a A D E F H
+b C K B I G
+c J
+-----------------
+a A D E F H
+b C K G
+c J
+-----------------
+a A D E F H
+b C K I
+c J
+-----------------
+a A D E F H
+b C K I B
+c J
+-----------------
+a A D E F H
+b C K I B G
+c J
+-----------------
+a A D E F H
+b C K I G
+c J
+-----------------
+a A D E F H
+b C B
+c J
+-----------------
+a A D E F H
+b C B G
+c J
+-----------------
+a A D E F H
+b C B I
+c J
+-----------------
+a A D E F H
+b C B I K
+c J
+-----------------
+a A D E F H
+b C B I K G
+c J
+-----------------
+a A D E F H
+b C B I G
+c J
+-----------------
+a A D E F H
+b C B K
+c J
+-----------------
+a A D E F H
+b C B K G
+c J
+-----------------
+a A D E F H
+b C B K I
+c J
+-----------------
+a A D E F H
+b C B K I G
+c J
+-----------------
+a A D E F H
+b G
+c J
+-----------------
+a A D E F H
+b I
+c J
+-----------------
+a A D E F H
+b I K
+c J
+-----------------
+a A D E F H
+b I K B
+c J
+-----------------
+a A D E F H
+b I K B C
+c J
+-----------------
+a A D E F H
+b I K B C G
+c J
+-----------------
+a A D E F H
+b I K B G
+c J
+-----------------
+a A D E F H
+b I K C
+c J
+-----------------
+a A D E F H
+b I K C G
+c J
+-----------------
+a A D E F H
+b I K C B
+c J
+-----------------
+a A D E F H
+b I K C B G
+c J
+-----------------
+a A D E F H
+b I K G
+c J
+-----------------
+a A D E F H
+b I B
+c J
+-----------------
+a A D E F H
+b I B C
+c J
+-----------------
+a A D E F H
+b I B C G
+c J
+-----------------
+a A D E F H
+b I B C K
+c J
+-----------------
+a A D E F H
+b I B C K G
+c J
+-----------------
+a A D E F H
+b I B G
+c J
+-----------------
+a A D E F H
+b I B K
+c J
+-----------------
+a A D E F H
+b I B K C
+c J
+-----------------
+a A D E F H
+b I B K C G
+c J
+-----------------
+a A D E F H
+b I B K G
+c J
+-----------------
+a A D E F H
+b I C
+c J
+-----------------
+a A D E F H
+b I C G
+c J
+-----------------
+a A D E F H
+b I C K
+c J
+-----------------
+a A D E F H
+b I C K B
+c J
+-----------------
+a A D E F H
+b I C K B G
+c J
+-----------------
+a A D E F H
+b I C K G
+c J
+-----------------
+a A D E F H
+b I C B
+c J
+-----------------
+a A D E F H
+b I C B G
+c J
+-----------------
+a A D E F H
+b I C B K
+c J
+-----------------
+a A D E F H
+b I C B K G
+c J
+-----------------
+a A D E F H
+b I G
+c J
+-----------------
+a A D E F H
+b
+c K
+-----------------
+a A D E F H
+b B
+c K
+-----------------
+a A D E F H
+b B C
+c K
+-----------------
+a A D E F H
+b B C G
+c K
+-----------------
+a A D E F H
+b B C I
+c K
+-----------------
+a A D E F H
+b B C I J
+c K
+-----------------
+a A D E F H
+b B C I J G
+c K
+-----------------
+a A D E F H
+b B C I G
+c K
+-----------------
+a A D E F H
+b B C J
+c K
+-----------------
+a A D E F H
+b B C J G
+c K
+-----------------
+a A D E F H
+b B C J I
+c K
+-----------------
+a A D E F H
+b B C J I G
+c K
+-----------------
+a A D E F H
+b B G
+c K
+-----------------
+a A D E F H
+b B I
+c K
+-----------------
+a A D E F H
+b B I J
+c K
+-----------------
+a A D E F H
+b B I J C
+c K
+-----------------
+a A D E F H
+b B I J C G
+c K
+-----------------
+a A D E F H
+b B I J G
+c K
+-----------------
+a A D E F H
+b B I C
+c K
+-----------------
+a A D E F H
+b B I C G
+c K
+-----------------
+a A D E F H
+b B I C J
+c K
+-----------------
+a A D E F H
+b B I C J G
+c K
+-----------------
+a A D E F H
+b B I G
+c K
+-----------------
+a A D E F H
+b B J
+c K
+-----------------
+a A D E F H
+b B J C
+c K
+-----------------
+a A D E F H
+b B J C G
+c K
+-----------------
+a A D E F H
+b B J C I
+c K
+-----------------
+a A D E F H
+b B J C I G
+c K
+-----------------
+a A D E F H
+b B J G
+c K
+-----------------
+a A D E F H
+b B J I
+c K
+-----------------
+a A D E F H
+b B J I C
+c K
+-----------------
+a A D E F H
+b B J I C G
+c K
+-----------------
+a A D E F H
+b B J I G
+c K
+-----------------
+a A D E F H
+b C
+c K
+-----------------
+a A D E F H
+b C G
+c K
+-----------------
+a A D E F H
+b C I
+c K
+-----------------
+a A D E F H
+b C I J
+c K
+-----------------
+a A D E F H
+b C I J B
+c K
+-----------------
+a A D E F H
+b C I J B G
+c K
+-----------------
+a A D E F H
+b C I J G
+c K
+-----------------
+a A D E F H
+b C I B
+c K
+-----------------
+a A D E F H
+b C I B G
+c K
+-----------------
+a A D E F H
+b C I B J
+c K
+-----------------
+a A D E F H
+b C I B J G
+c K
+-----------------
+a A D E F H
+b C I G
+c K
+-----------------
+a A D E F H
+b C J
+c K
+-----------------
+a A D E F H
+b C J B
+c K
+-----------------
+a A D E F H
+b C J B G
+c K
+-----------------
+a A D E F H
+b C J B I
+c K
+-----------------
+a A D E F H
+b C J B I G
+c K
+-----------------
+a A D E F H
+b C J G
+c K
+-----------------
+a A D E F H
+b C J I
+c K
+-----------------
+a A D E F H
+b C J I B
+c K
+-----------------
+a A D E F H
+b C J I B G
+c K
+-----------------
+a A D E F H
+b C J I G
+c K
+-----------------
+a A D E F H
+b C B
+c K
+-----------------
+a A D E F H
+b C B G
+c K
+-----------------
+a A D E F H
+b C B I
+c K
+-----------------
+a A D E F H
+b C B I J
+c K
+-----------------
+a A D E F H
+b C B I J G
+c K
+-----------------
+a A D E F H
+b C B I G
+c K
+-----------------
+a A D E F H
+b C B J
+c K
+-----------------
+a A D E F H
+b C B J G
+c K
+-----------------
+a A D E F H
+b C B J I
+c K
+-----------------
+a A D E F H
+b C B J I G
+c K
+-----------------
+a A D E F H
+b G
+c K
+-----------------
+a A D E F H
+b I
+c K
+-----------------
+a A D E F H
+b I J
+c K
+-----------------
+a A D E F H
+b I J B
+c K
+-----------------
+a A D E F H
+b I J B C
+c K
+-----------------
+a A D E F H
+b I J B C G
+c K
+-----------------
+a A D E F H
+b I J B G
+c K
+-----------------
+a A D E F H
+b I J C
+c K
+-----------------
+a A D E F H
+b I J C G
+c K
+-----------------
+a A D E F H
+b I J C B
+c K
+-----------------
+a A D E F H
+b I J C B G
+c K
+-----------------
+a A D E F H
+b I J G
+c K
+-----------------
+a A D E F H
+b I B
+c K
+-----------------
+a A D E F H
+b I B C
+c K
+-----------------
+a A D E F H
+b I B C G
+c K
+-----------------
+a A D E F H
+b I B C J
+c K
+-----------------
+a A D E F H
+b I B C J G
+c K
+-----------------
+a A D E F H
+b I B G
+c K
+-----------------
+a A D E F H
+b I B J
+c K
+-----------------
+a A D E F H
+b I B J C
+c K
+-----------------
+a A D E F H
+b I B J C G
+c K
+-----------------
+a A D E F H
+b I B J G
+c K
+-----------------
+a A D E F H
+b I C
+c K
+-----------------
+a A D E F H
+b I C G
+c K
+-----------------
+a A D E F H
+b I C J
+c K
+-----------------
+a A D E F H
+b I C J B
+c K
+-----------------
+a A D E F H
+b I C J B G
+c K
+-----------------
+a A D E F H
+b I C J G
+c K
+-----------------
+a A D E F H
+b I C B
+c K
+-----------------
+a A D E F H
+b I C B G
+c K
+-----------------
+a A D E F H
+b I C B J
+c K
+-----------------
+a A D E F H
+b I C B J G
+c K
+-----------------
+a A D E F H
+b I G
+c K
+-----------------
+a A D E F H
+b J
+c K
+-----------------
+a A D E F H
+b J B
+c K
+-----------------
+a A D E F H
+b J B C
+c K
+-----------------
+a A D E F H
+b J B C G
+c K
+-----------------
+a A D E F H
+b J B C I
+c K
+-----------------
+a A D E F H
+b J B C I G
+c K
+-----------------
+a A D E F H
+b J B G
+c K
+-----------------
+a A D E F H
+b J B I
+c K
+-----------------
+a A D E F H
+b J B I C
+c K
+-----------------
+a A D E F H
+b J B I C G
+c K
+-----------------
+a A D E F H
+b J B I G
+c K
+-----------------
+a A D E F H
+b J C
+c K
+-----------------
+a A D E F H
+b J C G
+c K
+-----------------
+a A D E F H
+b J C I
+c K
+-----------------
+a A D E F H
+b J C I B
+c K
+-----------------
+a A D E F H
+b J C I B G
+c K
+-----------------
+a A D E F H
+b J C I G
+c K
+-----------------
+a A D E F H
+b J C B
+c K
+-----------------
+a A D E F H
+b J C B G
+c K
+-----------------
+a A D E F H
+b J C B I
+c K
+-----------------
+a A D E F H
+b J C B I G
+c K
+-----------------
+a A D E F H
+b J G
+c K
+-----------------
+a A D E F H
+b J I
+c K
+-----------------
+a A D E F H
+b J I B
+c K
+-----------------
+a A D E F H
+b J I B C
+c K
+-----------------
+a A D E F H
+b J I B C G
+c K
+-----------------
+a A D E F H
+b J I B G
+c K
+-----------------
+a A D E F H
+b J I C
+c K
+-----------------
+a A D E F H
+b J I C G
+c K
+-----------------
+a A D E F H
+b J I C B
+c K
+-----------------
+a A D E F H
+b J I C B G
+c K
+-----------------
+a A D E F H
+b J I G
+c K
+-----------------
+a A D E F H
+b
+c B
+-----------------
+a A D E F H
+b
+c C
+-----------------
+a A D E F H
+b
+c G
+-----------------
+a A D E F I
+b
+c
+-----------------
+a A D E F I
+b J
+c
+-----------------
+a A D E F I
+b J K
+c
+-----------------
+a A D E F I
+b J B
+c
+-----------------
+a A D E F I
+b J B C
+c
+-----------------
+a A D E F I
+b J B C G
+c
+-----------------
+a A D E F I
+b J B C G H
+c
+-----------------
+a A D E F I
+b J B C G H
+c K
+-----------------
+Bag: a
+	Contents: A D E F I
+	Item Count: 5
+	Total Weight: 5
+	Wasted Capacity: 0
+Bag: b
+	Contents: J B C G H
+	Item Count: 5
+	Total Weight: 5
+	Wasted Capacity: 0
+Bag: c
+	Contents: K
+	Item Count: 1
+	Total Weight: 1
+	Wasted Capacity: 0
+
+
+Total Steps Taken: 3591
