@@ -135,12 +135,17 @@ public class BagsAndWeights {
 	
 	/* Order weights based on heuristic/forward checking */
 	private void applyLCVHeuristic(Bag bag, List<Weight> unsortedWeightsBase){
+		//Get local copy of unplaced weights
 		List<Weight> unsortedWeights = new ArrayList<Weight>(unsortedWeightsBase);
+		
+		//Map used to rank each weight based on number of valid sub-placements
 		HashMap<Weight,Integer> weightValues = new HashMap<Weight,Integer>();
 		for(int n = unsortedWeights.size()-1; n >= 0; n--){
 			Weight weight = unsortedWeights.get(n);
 			if(!weightValues.containsKey(weight))
 				weightValues.put(weight, 0);
+			
+			//Place weight in bag, check to see if new state is valid. (if not, dump weight from list)
 			bag.addWeight(weight);
 			this.topLevelValid = true;
 			this.constraints.forEach((c) -> {
@@ -150,11 +155,16 @@ public class BagsAndWeights {
 			if(!topLevelValid){
 				unsortedWeightsBase.remove(weight);
 			}
+			
+			// subList -> weights placed in turn after placing last weight
 			List<Weight> subList = new ArrayList<Weight>(unsortedWeights);
 			subList.remove(weight);
+			
+			// validCount -> number of valid moves after last weight place
 			int validCount = 0;
 			for(Bag b: this.bags){
 				for(Weight subWeight: subList){
+					//Test weight in bag, if valid state, increment validCount
 					b.addWeight(subWeight);
 					this.subLevelValid = true;
 					this.constraints.forEach((c) -> {
@@ -167,10 +177,14 @@ public class BagsAndWeights {
 						validCount++;
 				}
 			}
+			//Push to map validCount with key of the placed weight
 			weightValues.put(weight, validCount);
 			
+			//Undo weight placement
 			bag.removeWeight(weight);
 		}
+		
+		//Sort list based on validCount for each weight
 		unsortedWeightsBase.sort((w1,w2) -> {
 			return weightValues.get(w2) - weightValues.get(w1);
 		});
