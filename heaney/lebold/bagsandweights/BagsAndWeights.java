@@ -95,7 +95,7 @@ public class BagsAndWeights {
 			// Get local list of weights for this bag
 			List<Weight> weightsToTest = new ArrayList<Weight>(weightsToTestBase);
 			// Apply heuristic to remove weights that are too heavy
-			applyMVRHeuristic(bag,weightsToTest);
+			applyMRVHeuristic(bag,weightsToTest);
 			// Apply heuristic to order weights based on forward checking
 			applyLCVHeuristic(bag,weightsToTest);
 			
@@ -124,7 +124,7 @@ public class BagsAndWeights {
 	}
 	
 	/* Remove weights that put bags over capacity */
-	private void applyMVRHeuristic(Bag bag, List<Weight> unsortedWeights){
+	private void applyMRVHeuristic(Bag bag, List<Weight> unsortedWeights){
 		unsortedWeights.sort((w1,w2) -> {
 			return w2.getWeight() - w1.getWeight();
 		});
