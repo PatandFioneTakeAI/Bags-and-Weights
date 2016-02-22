@@ -1,0 +1,13 @@
+Bag: a
+	Contents: A B
+	Item Count: 2
+	Total Weight: 92
+	Wasted Capacity: 8
+Bag: b
+	Contents: D C
+	Item Count: 2
+	Total Weight: 92
+	Wasted Capacity: 8
+
+
+Total Steps Taken: 7

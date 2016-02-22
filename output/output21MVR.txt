@@ -1,0 +1,18 @@
+Bag: a
+	Contents: A
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: b
+	Contents: C
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: c
+	Contents: B
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+
+
+Total Steps Taken: 5

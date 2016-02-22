@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class BagsAndWeights {
 	
-	private int stepsTaken;
+	//private int stepsTaken;
 
 	private List<Weight> weights;
 	private List<Bag> bags;
@@ -29,7 +29,7 @@ public class BagsAndWeights {
 		
 		this.topLevelValid = true;
 		this.subLevelValid = true;
-		this.stepsTaken = 0;
+		//this.stepsTaken = 0;
 		this.memoizationList = new ArrayList<List<Bag>>();
 	}
 
@@ -38,17 +38,16 @@ public class BagsAndWeights {
 		if(this.solve()){  //true if solved
 			//Print solution
 			for(Bag bag: this.bags){
-				System.out.println("Bag: " + bag.getID());
-				System.out.print("\tContents:");
-				for(Weight weight: bag)
-					System.out.print(" " + weight.getID());
+				System.out.print(bag.getID());
+				bag.forEach((w) -> System.out.print(" " + w.getID()));
 				System.out.println();
-				System.out.println("\tItem Count: " + bag.size());
-				System.out.println("\tTotal Weight: " + bag.getTotalWeight());
-				System.out.println("\tWasted Capacity: " + (bag.getMaxWeight() - bag.getTotalWeight()));
+				System.out.println("number of items: " + bag.size());
+				System.out.println("total weight: " + bag.getTotalWeight() + "/" + bag.getMaxWeight());
+				System.out.println("wasted capacity: " + (bag.getMaxWeight() - bag.getTotalWeight()));
+				System.out.println();
 			}
 			
-			System.out.println("\n\nTotal Steps Taken: " + this.stepsTaken);
+			//System.out.println("\n\nTotal Steps Taken: " + this.stepsTaken);
 		}
 		else{
 			System.out.println("There are no solutions with the given constraints.");
@@ -56,7 +55,7 @@ public class BagsAndWeights {
 	}
 
 	private boolean solve(){
-		this.stepsTaken++;
+		//this.stepsTaken++;
 		
 		//Memoization
 		for(List<Bag> localBagList: this.memoizationList){

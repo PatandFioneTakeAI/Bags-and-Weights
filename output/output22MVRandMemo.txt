@@ -1,0 +1,33 @@
+Bag: a
+	Contents: C
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: b
+	Contents: D
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: c
+	Contents: E
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: d
+	Contents: F
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: e
+	Contents: A
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+Bag: f
+	Contents: B
+	Item Count: 1
+	Total Weight: 2
+	Wasted Capacity: 0
+
+
+Total Steps Taken: 4227
